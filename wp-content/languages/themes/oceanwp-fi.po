@@ -1,0 +1,4930 @@
+# Translation of Themes - OceanWP in Finnish
+# This file is distributed under the same license as the Themes - OceanWP package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-26 07:17:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - OceanWP\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "OceanWP is the perfect theme for your project. Lightweight and highly extendable, it will enable you to create almost any type of website such a blog, portfolio, business website and WooCommerce storefront with a beautiful & professional design. Very fast, responsive, RTL & translation ready, best SEO practices, unique WooCommerce features to increase conversion and much more. You can even edit the settings on tablet & mobile so your site looks good on every device. Work with the most popular page builders as Elementor, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, etc... Developers will love his extensible codebase making it a joy to customize and extend. Best friend of Elementor & WooCommerce. Looking for a Multi-Purpose theme? Look no further! Check the demos to realize that it's the only theme you will ever need: https://oceanwp.org/demos/"
+msgstr "OceanWP on täydellinen teema projektillesi. Kevyt ja erittäin laajennettavissa oleva, se mahdollistaa sinun luoda melkein minkä tyyppinen sivusto tahansa kuten blogi, portfolio, yrityssivusto ja WooCommerce-verkkokauppa kauniilla ja ammattimaisella muotoilulla. Erittäin nopea, responsiivinen, oikealta vasemmalle tekstin ja käännöksiin valmis, parhaat hakukoneoptimointikäytännöt, ainutlaatuiset WooCommerce-ominaisuudet lisäävät konversioita ja paljon muuta. Voit jopa muokata asetuksia mobiililaitteille, joten sivustosi näyttää hyvältä joka laitteella. Toimii suosituimpien sivustonrakentajien kuten Elementorin, Beaver Builderin, Brizyn, Visual Composerin, Divin, SiteOriginin ja muiden kanssa. Kehittäjät tulevat rakastamaan laajennettavissa olevaa koodipohjaa, joka tekee mukauttamisesta ja laajentamisesta ilon. Elementorin ja WooCommercen paras ystävä. Etsitkö monikäyttöistä teemaa? Älä etsi enää! Katso demot tajutaksesi että tämä on ainut teema, jota ikinä tarvitset: https://oceanwp.org/demos/"
+
+#: inc/oceanwp-strings.php:86
+msgid "Name"
+msgstr "Nimi"
+
+#: inc/customizer/options/blog.php:3093 inc/customizer/options/blog.php:3094
+msgid "After"
+msgstr "Jälkeen"
+
+#: inc/customizer/options/blog.php:3088 inc/customizer/options/blog.php:3089
+msgid "Before"
+msgstr "Ennen"
+
+#: comments.php:44 inc/customizer/options/blog.php:1954
+msgid "Comment"
+msgstr "Kommentti"
+
+#: inc/oceanwp-strings.php:82
+msgid "Click to edit your profile"
+msgstr "Napsauta muokataksesi profiiliasi"
+
+#: inc/helpers.php:3517
+msgid "Enter your website URL (optional)"
+msgstr "Kirjoita sivustosi verkko-osoite/URL (valinnainen)"
+
+#: inc/helpers.php:3515
+msgid "Enter your email address to comment"
+msgstr "Kirjoita sähköpostiosoitteesi kommentoidaksesi"
+
+#: inc/helpers.php:3513
+msgid "Enter your name or username to comment"
+msgstr "Kirjoita nimesi tai käyttäjätunnuksesi kommentoidaksesi"
+
+#: inc/customizer/options/blog.php:569 inc/customizer/options/blog.php:2882
+#: inc/customizer/options/blog.php:2998
+msgid "Reading Time"
+msgstr "Lukuaika"
+
+#: inc/customizer/options/blog.php:3077
+msgid "Comment Form Position"
+msgstr "Kommentointilomakkeen sijainti"
+
+#: partials/entry/meta.php:51 partials/single/meta.php:67
+msgid "Reading time:"
+msgstr "Lukuaika:"
+
+#: sidebar.php:15
+msgid "Primary Sidebar"
+msgstr "Pääsivupalkki"
+
+#: woocommerce/share.php:35
+msgid "Share on Pinterest (opens in a new tab)"
+msgstr "Jaa Pinterestissä (aukeaa uudella välilehdellä)"
+
+#: woocommerce/share.php:28
+msgid "Share on Twitter (opens in a new tab)"
+msgstr "Jaa Twitterissä (aukeaa uudella välilehdellä)"
+
+#: woocommerce/share.php:21
+msgid "Share on Facebook (opens in a new tab)"
+msgstr "Jaa Facebookissa (aukeaa uudella välilehdellä)"
+
+#: comments.php:104 comments.php:117
+msgid "Next comment"
+msgstr "Seuraava kommentti"
+
+#: comments.php:103 comments.php:116
+msgid "Previous comment"
+msgstr "Edellinen kommentti"
+
+#: sidebar-left.php:12
+msgid "Secondary Sidebar"
+msgstr "Toissijainen sivupalkki"
+
+#: inc/oceanwp-strings.php:75
+msgid "Type then hit enter to search"
+msgstr "Syotä hakusana ja paina enter "
+
+#: inc/oceanwp-strings.php:95
+msgid "Read more articles"
+msgstr "Lue lisää artikkeleita"
+
+#: partials/header/social.php:141 partials/topbar/social.php:126
+msgid "Skype (opens in your application)"
+msgstr "Skype (avautuu sovelluksessasi)"
+
+#: partials/header/social.php:114 partials/topbar/social.php:100
+msgid "Social links"
+msgstr "Somelinkit"
+
+#: partials/entry/meta.php:55 partials/single/meta.php:71
+msgid "Post comments:"
+msgstr "Artikkelin kommentit:"
+
+#: partials/entry/meta.php:47 partials/single/meta.php:63
+msgid "Post category:"
+msgstr "Artikkelin kategoria:"
+
+#: partials/entry/meta.php:39 partials/single/meta.php:55
+msgid "Post published:"
+msgstr "Artikkeli julkaistu:"
+
+#: partials/entry/meta.php:35 partials/single/meta.php:51
+msgid "Post author:"
+msgstr "Artikkelin kirjoittaja:"
+
+#: partials/entry/meta.php:27
+msgid "Post details:"
+msgstr "Artikkelin tiedot:"
+
+#: inc/oceanwp-strings.php:60
+msgid "Submit search"
+msgstr "Lähetä haku"
+
+#: inc/oceanwp-strings.php:110
+msgid "Search for:"
+msgstr "Hae:"
+
+#: inc/oceanwp-strings.php:70
+msgid "Skip to content"
+msgstr "Siirry suoraan sisältöön"
+
+#: woocommerce/share.php:42
+msgid "Share by email (opens in a new tab)"
+msgstr "Jaa sähköpostilla (aukeaa uudella välilehdellä)"
+
+#: inc/helpers.php:3589
+msgid "Go to the next page"
+msgstr "Siirry seuraavalle sivulle"
+
+#: inc/helpers.php:3588
+msgid "Go to the previous page"
+msgstr "Siirry edelliselle sivulle"
+
+#: inc/helpers.php:1924
+msgid "Search website"
+msgstr "Etsi sivustolta"
+
+#: inc/oceanwp-strings.php:71
+msgid "Scroll to the top of the page"
+msgstr "Vieritä sivun yläreunaan"
+
+#: partials/entry/meta.php:43 partials/single/meta.php:59
+msgid "Post last modified:"
+msgstr "Artikkelia viimeksi muokattu:"
+
+#: inc/oceanwp-strings.php:43
+msgid "Close mobile menu"
+msgstr "Sulje mobiilivalikko"
+
+#: inc/oceanwp-strings.php:100
+msgid "Close quick preview"
+msgstr "Sulje pikaesikatselu"
+
+#: inc/customizer/options/blog.php:568 inc/customizer/options/blog.php:2881
+#: inc/customizer/options/blog.php:2997
+msgid "Modified Date"
+msgstr "Muokkauspäivämäärä"
+
+#: partials/header/social.php:143 partials/topbar/social.php:128
+msgid "Send email (opens in your application)"
+msgstr "Lähetä sähköpostia (avautuu sovelluksessasi)"
+
+#: partials/header/social.php:128 partials/topbar/social.php:114
+msgid "(opens in a new tab)"
+msgstr "(aukeaa uudella välilehdellä)"
+
+#: woocommerce/owp-off-canvas-sidebar.php:18
+msgid "Close off canvas panel"
+msgstr "Sulje piirtoalueen ulkopuolinen paneeli"
+
+#: inc/customizer/options/page-settings.php:1646
+#: inc/customizer/options/page-settings.php:1776
+#: inc/customizer/options/page-settings.php:1777
+#: inc/customizer/options/styles-and-settings.php:1251
+#: inc/customizer/options/styles-and-settings.php:2055
+#: inc/customizer/options/styles-and-settings.php:2303
+#: inc/customizer/options/topbar.php:885
+msgid "Text"
+msgstr "Teksti"
+
+#: inc/customizer/options/page-settings.php:1920
+msgid "Shop Page"
+msgstr "Kauppasivu"
+
+#: inc/customizer/options/page-settings.php:1939
+msgid "Portfolio Page"
+msgstr "Portfoliosivu"
+
+#: inc/customizer/options/page-settings.php:1926
+msgid "Portfolio Taxonomy"
+msgstr "Portfolion luokittelu"
+
+#: inc/customizer/options/page-settings.php:1905
+msgid "Products Taxonomy"
+msgstr "Tuotteiden luokittelu"
+
+#: inc/customizer/options/page-settings.php:1899
+msgid "Blog Page"
+msgstr "Blogisivu"
+
+#: inc/customizer/options/page-settings.php:1886
+msgid "Posts Taxonomy"
+msgstr "Artikkelien luokittelu"
+
+#: inc/customizer/options/page-settings.php:1823
+msgid "Breadcrumb Separator"
+msgstr "Linkkipolun jakaja"
+
+#: inc/customizer/options/page-settings.php:1400
+msgid "Enable Breadcrumbs"
+msgstr "Ota käyttöön linkkipolku"
+
+#: inc/customizer/options/woocommerce.php:4992
+msgid "Add Close Button"
+msgstr "Lisää sulkemispainike"
+
+#: inc/customizer/options/page-settings.php:2257
+msgid "Mobile Sidebar Order"
+msgstr "Mobiilisivupalkin järjestys"
+
+#: inc/customizer/options/woocommerce.php:3811
+msgid "Hover: Wishlist Color"
+msgstr "Osoitettaessa: toivelistan väri"
+
+#: inc/customizer/options/woocommerce.php:3772
+msgid "Hover: Wishlist Background"
+msgstr "Osoitettaessa: toivelistan tausta"
+
+#: inc/customizer/options/woocommerce.php:3733
+msgid "Hover: Quick View Color"
+msgstr "Osoitettaessa: pikanäkymän väri"
+
+#: inc/customizer/options/woocommerce.php:3694
+msgid "Hover: Quick View Background"
+msgstr "Osoitettaessa: pikanäkymän tausta"
+
+#: inc/customizer/options/edd.php:1082 inc/customizer/options/edd.php:2339
+#: inc/customizer/options/learndash.php:212
+#: inc/customizer/options/learndash.php:373
+#: inc/customizer/options/learndash.php:534
+#: inc/customizer/options/lifterlms.php:350
+#: inc/customizer/options/lifterlms.php:511
+#: inc/customizer/options/lifterlms.php:672
+#: inc/customizer/options/page-settings.php:2268
+#: inc/customizer/options/woocommerce.php:2036
+#: inc/customizer/options/woocommerce.php:5603
+msgid "Sidebar / Content"
+msgstr "Sivupalkki/sisältö"
+
+#: inc/customizer/options/edd.php:1081 inc/customizer/options/edd.php:2338
+#: inc/customizer/options/learndash.php:211
+#: inc/customizer/options/learndash.php:372
+#: inc/customizer/options/learndash.php:533
+#: inc/customizer/options/lifterlms.php:349
+#: inc/customizer/options/lifterlms.php:510
+#: inc/customizer/options/lifterlms.php:671
+#: inc/customizer/options/page-settings.php:2267
+#: inc/customizer/options/woocommerce.php:2035
+#: inc/customizer/options/woocommerce.php:5602
+msgid "Content / Sidebar"
+msgstr "Sisältö/sivupalkki"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumbs.php:451 inc/customizer/options/page-settings.php:1989
+msgid "Search results for"
+msgstr "Hakutulokset kyselylle"
+
+#: inc/customizer/options/learndash.php:594
+msgid "Heading Background Color"
+msgstr "Otsikon taustaväri"
+
+#: inc/customizer/options/learndash.php:569
+msgid "Heading Color"
+msgstr "Otsikon väri"
+
+#: inc/customizer/options/learndash.php:561
+msgid "Table"
+msgstr "Taulukko"
+
+#: inc/customizer/options/learndash.php:390
+msgid "Lesson/Topic"
+msgstr "Oppitunti/aihe"
+
+#: inc/customizer/options/options.php:86
+msgid "LearnDash"
+msgstr "LearnDash"
+
+#: inc/third/class-learndash.php:208
+msgid "LearnDash Take Course Button"
+msgstr "LearnDashin suorita kurssi -painike"
+
+#: inc/third/class-learndash.php:197
+msgid "LearnDash Table Item"
+msgstr "LearnDashin taulukkokohde"
+
+#: inc/third/class-learndash.php:186
+msgid "LearnDash Table Heading"
+msgstr "LearnDashin taulukon otsikko"
+
+#: inc/third/class-learndash.php:175
+msgid "LearnDash Titles"
+msgstr "LearnDashin otsikot"
+
+#: inc/customizer/options/learndash.php:682
+msgid "Incomplete Color"
+msgstr "Keskeneräinen väri"
+
+#: inc/customizer/options/learndash.php:657
+msgid "Complete Color"
+msgstr "Valmis väri"
+
+#: inc/customizer/options/learndash.php:619
+msgid "Item Color"
+msgstr "Kohteen väri"
+
+#: inc/woocommerce/woocommerce-config.php:909
+msgid "View products"
+msgstr "Näytä tuotteet"
+
+#: inc/customizer/options/woocommerce.php:9416
+#: inc/customizer/options/woocommerce.php:9417
+msgid "Original"
+msgstr "Alkuperäinen"
+
+#: inc/customizer/options/woocommerce.php:9405
+msgid "Login/Register Style"
+msgstr "Kirjautumisen/rekisteröitymisen tyyli"
+
+#: inc/customizer/options/woocommerce.php:9421
+#: inc/customizer/options/woocommerce.php:9422
+msgid "Side by Side"
+msgstr "Vierekkäin"
+
+#: inc/customizer/options/woocommerce.php:9395
+msgid "My Account Page"
+msgstr "Tilini-sivu"
+
+#: inc/woocommerce/woocommerce-config.php:2304
+msgid "Sale!"
+msgstr "Tarjous!"
+
+#. translators: %s: author name for link aria label.
+#. translators: %s: author name for link meta.
+#. translators: %s: post reading time.
+#. translators: %s: list of post categories.
+#. translators: %s: list of post tags.
+#: inc/template-helpers.php:73 inc/template-helpers.php:79
+#: inc/template-helpers.php:235 inc/template-helpers.php:272
+#: inc/template-helpers.php:314 inc/woocommerce/woocommerce-config.php:2300
+#: inc/customizer/assets/dist/index.js:1 inc/customizer/assets/dist/index.js:2
+#: inc/customizer/assets/dist/index.js:4
+msgid "%s"
+msgstr "%s"
+
+#: inc/oceanwp-strings.php:104
+msgid "Next Product"
+msgstr "Seuraava tuote"
+
+#: inc/oceanwp-strings.php:105
+msgid "Previous Product"
+msgstr "Edellinen tuote"
+
+#: inc/customizer/options/lifterlms.php:1314
+msgid "Sub Title Color"
+msgstr "Alaotsikon väri"
+
+#. translators: %s: field name
+#: inc/woocommerce/woocommerce-config.php:2532
+msgid "%s is a required field."
+msgstr "%s on vaadittu kenttä."
+
+#. translators: %s: email address
+#: inc/woocommerce/woocommerce-config.php:2505
+msgid "%s is not a valid email address."
+msgstr "‌‌%s ei ole kelvollinen sähköpostiosoite."
+
+#. translators: %s: phone number
+#: inc/woocommerce/woocommerce-config.php:2496
+msgid "%s is not a valid phone number."
+msgstr "‌‌%s ei ole kelvollinen puhelinnumero."
+
+#: inc/woocommerce/woocommerce-config.php:2487
+msgid "%s is not a valid postcode / ZIP."
+msgstr "‌‌%s ei ole kelvollinen postinumero."
+
+#. translators: %s: field name
+#: inc/woocommerce/woocommerce-config.php:2478
+msgid "Billing %s"
+msgstr "Laskutus %s"
+
+#. translators: %s: field name
+#: inc/woocommerce/woocommerce-config.php:2474
+msgid "Shipping %s"
+msgstr "Toimitus %s"
+
+#: inc/customizer/options/options.php:92
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/customizer/options/lifterlms.php:528
+#: inc/customizer/options/lifterlms.php:1513
+msgid "Lesson"
+msgstr "Oppitunti"
+
+#: inc/customizer/options/learndash.php:229
+#: inc/customizer/options/lifterlms.php:367
+#: inc/customizer/options/lifterlms.php:1281
+msgid "Course"
+msgstr "Kurssi"
+
+#: inc/customizer/options/lifterlms.php:155
+msgid "Syllabus"
+msgstr "Opetusohjelma"
+
+#: inc/customizer/options/lifterlms.php:154
+msgid "Progress"
+msgstr "Edistyminen"
+
+#: inc/customizer/options/lifterlms.php:143
+msgid "Course Details"
+msgstr "Kurssin tiedot"
+
+#: inc/customizer/options/lifterlms.php:94
+msgid "Membership Columns"
+msgstr "Jäsenyyssarakkeet"
+
+#: inc/customizer/options/lifterlms.php:54
+msgid "Courses Columns"
+msgstr "Kurssisarakkeet"
+
+#: inc/customizer/options/learndash.php:24
+#: inc/customizer/options/lifterlms.php:35
+msgid "Distraction Free Learning"
+msgstr "Häiriötön oppiminen"
+
+#. translators: 1: state field 2: valid states
+#: inc/woocommerce/woocommerce-config.php:2525
+msgid "%1$s is not valid. Please enter one of the following: %2$s"
+msgstr "%1$s ei ole kelvollinen. Ole hyvä ja kirjoita yksi seuraavista: %2$s"
+
+#: inc/third/class-lifterlms.php:439
+msgid "LifterLMS Buy Button"
+msgstr "LifterLMS ostopainike"
+
+#: inc/third/class-lifterlms.php:428
+msgid "LifterLMS Lesson Title"
+msgstr "LifterLMS oppitunnin otsikko"
+
+#: inc/third/class-lifterlms.php:417
+msgid "LifterLMS Section Title"
+msgstr "LifterLMS osion otsikko"
+
+#: inc/third/class-lifterlms.php:406
+msgid "LifterLMS Course/Lesson Title"
+msgstr "LifterLMS kurssin/oppitunnin otsikko"
+
+#: inc/customizer/options/blog.php:55 inc/customizer/options/blog.php:2081
+#: inc/customizer/options/edd.php:970 inc/customizer/options/edd.php:2227
+#: inc/customizer/options/learndash.php:100
+#: inc/customizer/options/learndash.php:261
+#: inc/customizer/options/learndash.php:422
+#: inc/customizer/options/lifterlms.php:238
+#: inc/customizer/options/lifterlms.php:399
+#: inc/customizer/options/lifterlms.php:560
+#: inc/customizer/options/page-settings.php:41
+#: inc/customizer/options/page-settings.php:2111
+#: inc/customizer/options/page-settings.php:2415
+#: inc/customizer/options/woocommerce.php:1924
+#: inc/customizer/options/woocommerce.php:5491
+#: inc/third/class-lifterlms.php:312
+msgid "Both Sidebar"
+msgstr "Molemmat sivupalkit"
+
+#: inc/third/class-lifterlms.php:298
+msgid "OceanWP Theme Setting"
+msgstr "OceanWP-teeman asetus"
+
+#: inc/customizer/options/lifterlms.php:1477
+msgid "Section Title Background"
+msgstr "Osion otsikon tausta"
+
+#: inc/customizer/options/lifterlms.php:1451
+msgid "Section Title Color"
+msgstr "Osion otsikon väri"
+
+#: inc/customizer/options/learndash.php:707
+#: inc/customizer/options/lifterlms.php:1426
+msgid "Progress Bar Color"
+msgstr "Edistymispalkin väri"
+
+#: inc/customizer/options/lifterlms.php:1244
+msgid "Meta Color"
+msgstr "Meta-väri"
+
+#: inc/customizer/options/lifterlms.php:1218
+#: inc/customizer/options/lifterlms.php:1401
+msgid "Author Color"
+msgstr "Kirjoittajan väri"
+
+#: inc/customizer/options/lifterlms.php:708
+msgid "Courses/Memberships"
+msgstr "Kurssit/jäsenyydet"
+
+#: inc/customizer/options/learndash.php:68
+#: inc/customizer/options/lifterlms.php:206
+msgid "Global"
+msgstr "Globaali"
+
+#: inc/customizer/options/edd.php:1926
+#: inc/customizer/options/woocommerce.php:3858 inc/edd/edd-helpers.php:217
+msgid "Add to Cart"
+msgstr "Lisää ostoskoriin"
+
+#: inc/edd/edd-config.php:523
+msgid "EDD Product Price"
+msgstr "EDD-tuotteen hinta"
+
+#: inc/edd/edd-config.php:512
+msgid "EDD Product Title"
+msgstr "EDD-tuotteen otsikko"
+
+#: inc/edd/edd-config.php:128
+msgid "EDD Sidebar"
+msgstr "EDD-sivupalkki"
+
+#: inc/customizer/options/edd.php:1221 inc/customizer/options/edd.php:1222
+msgid "Button"
+msgstr "Painike"
+
+#: inc/customizer/options/edd.php:1226 inc/customizer/options/edd.php:1227
+msgid "Options"
+msgstr "Asetukset"
+
+#: inc/edd/edd-helpers.php:211
+msgid "View Details"
+msgstr "Näytä tiedot"
+
+#: inc/edd/edd-config.php:533
+msgid "EDD Product Add To Cart"
+msgstr "Lisää ostoskoriin EDD-tuote"
+
+#: inc/customizer/options/edd.php:2364
+msgid "Display Add to Cart Button"
+msgstr "Näytä lisää ostoskoriin -painike"
+
+#: inc/customizer/options/edd.php:1210
+msgid "Variable Product Button"
+msgstr "Säädettävä tuote -painike"
+
+#: inc/customizer/options/edd.php:779
+msgid "Subtotal Border Color"
+msgstr "Välisumman reunan väri"
+
+#: inc/customizer/options/edd.php:725
+#: inc/customizer/options/woocommerce.php:1363
+msgid "Subtotal Background Color"
+msgstr "Välisumman taustaväri"
+
+#: inc/customizer/options/edd.php:633
+msgid "Product Title Color"
+msgstr "Tuotteen otsikon väri"
+
+#: inc/customizer/options/edd.php:42
+msgid "Custom EDD Sidebar"
+msgstr "Mukautettu EDD-sivupalkki"
+
+#: inc/customizer/options/options.php:80
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: functions.php:768
+msgid "Default Sidebar"
+msgstr "Oletussivupalkki"
+
+#: functions.php:770
+msgid "Widgets in this area will be displayed in the left or right sidebar area if you choose the Left or Right Sidebar layout."
+msgstr "Tämän alueen vimpaimet näytetään sivupalkin vasemmalla tai oikealla olevalla alueella jos valitset vasemman tai oikean sivupalkin asettelun."
+
+#: functions.php:783
+msgid "Widgets in this area are used in the left sidebar region if you use the Both Sidebars layout."
+msgstr "Tämän alueen vimpaimia käytetään vasemman sivupalkin alueella jos käytät molemmat sivupalkit -asettelua."
+
+#: inc/customizer/options/woocommerce.php:6704
+#: inc/customizer/options/woocommerce.php:6705
+msgid "Big"
+msgstr "Iso"
+
+#: inc/customizer/options/seo.php:105
+msgid "OpenGraph"
+msgstr "OpenGraph"
+
+#: inc/customizer/options/woocommerce.php:6709
+#: inc/customizer/options/woocommerce.php:6710
+msgid "Very Big"
+msgstr "Erittäin iso"
+
+#: inc/customizer/options/woocommerce.php:6688
+msgid "Add To Cart Button Style"
+msgstr "Lisää ostoskoriin -painikkeen tyyli"
+
+#: inc/customizer/options/seo.php:164
+msgid "Facebook App ID"
+msgstr "Facebookin App ID"
+
+#: inc/customizer/options/seo.php:153
+msgid "Facebook Page URL"
+msgstr "Facebook-sivun verkko-osoite/URL"
+
+#: inc/customizer/options/woocommerce.php:7466
+msgid "Section"
+msgstr "Osio"
+
+#: inc/customizer/options/edd.php:167 inc/customizer/options/edd.php:168
+#: inc/customizer/options/woocommerce.php:765
+#: inc/customizer/options/woocommerce.php:766
+msgid "Bag Style"
+msgstr "Ostoskassin tyyli"
+
+#: inc/customizer/options/seo.php:114
+msgid "Enable OpenGraph"
+msgstr "Ota käyttöön OpenGraph"
+
+#: inc/customizer/options/edd.php:806
+#: inc/customizer/options/woocommerce.php:1417
+msgid "Total Price Color"
+msgstr "Kokonaishinnan väri"
+
+#: inc/customizer/options/header.php:5289
+#: inc/customizer/options/header.php:5326
+#: inc/customizer/options/header.php:5327
+#: inc/customizer/options/woocommerce.php:596
+#: inc/customizer/options/woocommerce.php:597
+msgid "Dropdown"
+msgstr "Pudotusvalikko"
+
+#: inc/customizer/options/woocommerce.php:580
+msgid "Choose the WooCommerce Categories widget style."
+msgstr "Valitse WooCommercen kategoriat -vimpaimen tyyli."
+
+#: inc/customizer/options/woocommerce.php:579
+msgid "Categories Widget Style"
+msgstr "Kategoriat-vimpaimen tyyli"
+
+#: inc/customizer/options/woocommerce.php:9327
+msgid "On Sale Text"
+msgstr "Tarjouksessa-teksti"
+
+#: inc/customizer/options/woocommerce.php:9290
+msgid "On Sale Badge"
+msgstr "Tarjouksessa-tunnusmerkki"
+
+#: inc/customizer/options/woocommerce.php:9318
+msgid "On Sale Badge Content"
+msgstr "Tarjouksessa-tunnusmerkin sisältö"
+
+#: inc/woocommerce/woocommerce-config.php:2354
+msgid "Or"
+msgstr "Tai"
+
+#: inc/oceanwp-strings.php:103
+msgid "Out of stock"
+msgstr "Loppu varastosta"
+
+#: inc/oceanwp-strings.php:102
+msgid "Selected:"
+msgstr "Valitut:"
+
+#: inc/customizer/options/woocommerce.php:8625
+msgid "Timeline Style"
+msgstr "Aikajanan tyyli"
+
+#: inc/customizer/options/styles-and-settings.php:1894
+#: inc/customizer/options/styles-and-settings.php:2277
+#: woocommerce/quick-view-image.php:59
+msgid "Placeholder"
+msgstr "Paikanvaraaja"
+
+#: woocommerce/checkout/form-multistep-checkout.php:96
+msgid "Prev"
+msgstr "Edellinen"
+
+#: woocommerce/checkout/form-multistep-checkout.php:93
+msgid "Back to cart"
+msgstr "Takaisin ostoskoriin"
+
+#: woocommerce/checkout/checkout-timeline.php:71
+msgid "Payment Info"
+msgstr "Maksutiedot"
+
+#: woocommerce/checkout/checkout-timeline.php:64
+msgid "Shipping"
+msgstr "Toimitus"
+
+#: woocommerce/checkout/checkout-timeline.php:57
+msgid "Billing"
+msgstr "Laskutus"
+
+#: woocommerce/cart/mini-cart.php:119
+msgid "No products in the cart."
+msgstr "Ei tuotteita ostoskorissa."
+
+#. translators: %s is the product name
+#: woocommerce/cart/mini-cart.php:79
+msgid "Remove this item"
+msgstr "Poista tämä kohde"
+
+#: inc/woocommerce/woocommerce-config.php:2356
+msgid "Register"
+msgstr "Rekisteröidy"
+
+#: inc/customizer/options/woocommerce.php:4979
+msgid "Filter Button Text"
+msgstr "Suodatinpainikkeen teksti"
+
+#: inc/customizer/options/woocommerce.php:4983 inc/helpers.php:4162
+#: inc/woocommerce/woocommerce-config.php:1048
+msgid "Filter"
+msgstr "Suodatin"
+
+#: inc/customizer/options/woocommerce.php:4969
+msgid "Display Filter Button"
+msgstr "Näytä suodatinpainike"
+
+#: inc/customizer/options/edd.php:92 inc/customizer/options/woocommerce.php:688
+msgid "Display On All Devices"
+msgstr "Näytä kaikilla laitteilla"
+
+#: inc/customizer/options/woocommerce.php:1687
+msgid "Display Mini Cart On Mobile"
+msgstr "Näytä miniostoskori mobiililaitteilla"
+
+#: inc/customizer/options/woocommerce.php:9328
+msgid "Percentage"
+msgstr "Prosenttiosuus"
+
+#: inc/customizer/options/woocommerce.php:9311
+msgid "Circle"
+msgstr "Ympyrä"
+
+#: inc/customizer/options/woocommerce.php:8642
+#: inc/customizer/options/woocommerce.php:8643
+#: inc/customizer/options/woocommerce.php:9310
+msgid "Square"
+msgstr "Neliö"
+
+#: inc/customizer/options/woocommerce.php:604
+msgid "Wishlist"
+msgstr "Toivelista"
+
+#: inc/customizer/options/woocommerce.php:1481
+msgid "Cart Button Color"
+msgstr "Ostoskoripainikkeen väri"
+
+#: inc/customizer/options/woocommerce.php:1444
+msgid "Cart Button Background"
+msgstr "Ostoskoripainikkeen tausta"
+
+#: inc/customizer/options/edd.php:524 inc/customizer/options/edd.php:525
+#: inc/customizer/options/woocommerce.php:1123
+#: inc/customizer/options/woocommerce.php:1124
+msgid "Spacious"
+msgstr "Tilava"
+
+#: inc/customizer/options/edd.php:519 inc/customizer/options/edd.php:520
+#: inc/customizer/options/woocommerce.php:1118
+#: inc/customizer/options/woocommerce.php:1119
+msgid "Compact"
+msgstr "Tiivis"
+
+#: inc/woocommerce/woocommerce-config.php:2341
+#: woocommerce/checkout/checkout-timeline.php:49
+msgid "Login"
+msgstr "Kirjaudu"
+
+#: inc/woocommerce/woocommerce-config.php:889
+#: woocommerce/checkout/form-multistep-checkout.php:97
+msgid "I don&rsquo;t have an account"
+msgstr "Minulla ei ole tiliä"
+
+#: inc/woocommerce/woocommerce-config.php:903
+msgid "View cart"
+msgstr "Näytä ostoskori"
+
+#: inc/customizer/options/woocommerce.php:5109
+msgid "Widgets Border Color"
+msgstr "Vimpainten reunan väri"
+
+#: inc/customizer/options/woocommerce.php:9301
+msgid "On Sale Badge Style"
+msgstr "Tarjouksessa-tunnusmerkin tyyli"
+
+#: inc/oceanwp-strings.php:101
+msgid "Select Options"
+msgstr "Valitse asetukset"
+
+#: inc/customizer/options/woocommerce.php:7447
+msgid "Tabs"
+msgstr "Välilehdet"
+
+#: woocommerce/checkout/form-multistep-checkout.php:53
+msgid "You must be logged in before proceeding to checkout."
+msgstr "Sinun täytyy olla kirjautuneena ennen kassalle siirtymistä."
+
+#: inc/customizer/options/woocommerce.php:4104 inc/oceanwp-strings.php:99
+msgid "Quick View"
+msgstr "Pikanäkymä"
+
+#: inc/customizer/options/edd.php:1453 inc/customizer/options/lifterlms.php:818
+#: inc/customizer/options/woocommerce.php:2472
+msgid "Image Margin (px)"
+msgstr "Kuvan marginaali (px)"
+
+#: inc/customizer/options/edd.php:2497 inc/customizer/options/lifterlms.php:24
+#: inc/customizer/options/woocommerce.php:8585
+msgid "Distraction Free Checkout"
+msgstr "Häiriötön kassa"
+
+#: inc/customizer/options/edd.php:2489
+msgid "Checkout Page"
+msgstr "Kassasivu"
+
+#: inc/customizer/options/woocommerce.php:8372
+msgid "Cart: Cross-Sells Columns"
+msgstr "Ostoskori: ristimyyntisarakkeet"
+
+#: inc/customizer/options/woocommerce.php:8347
+msgid "Cart: Cross-Sells Count"
+msgstr "Ostoskori: ristimyyntien lukumäärä"
+
+#: inc/customizer/options/woocommerce.php:8328
+msgid "Distraction Free Cart"
+msgstr "Häiriötön ostoskori"
+
+#: inc/customizer/options/woocommerce.php:8194
+msgid "Add To Cart: Color"
+msgstr "Lisää ostoskoriin: väri"
+
+#: inc/customizer/options/woocommerce.php:8155
+msgid "Add To Cart: Background"
+msgstr "Lisää ostoskoriin: tausta"
+
+#: inc/customizer/options/woocommerce.php:7890
+msgid "Display Floating Bar"
+msgstr "Näytä leijuva palkki"
+
+#: inc/customizer/options/woocommerce.php:7881
+msgid "Floating Bar"
+msgstr "Leijuva palkki"
+
+#: inc/customizer/options/woocommerce.php:7455
+msgid "Tabs Layout"
+msgstr "Välilehtien asettelu"
+
+#: inc/customizer/options/woocommerce.php:6645
+#: inc/customizer/options/woocommerce.php:6646
+#: inc/customizer/options/woocommerce.php:7464
+msgid "Horizontal"
+msgstr "Vaakasuora"
+
+#: inc/customizer/options/woocommerce.php:6634
+msgid "Thumbnails Layout"
+msgstr "Pienoiskuvien asettelu"
+
+#: inc/customizer/options/woocommerce.php:6668
+msgid "Enable Ajax Add To Cart"
+msgstr "Ota käyttöön Ajax- lisää ostoskoriin"
+
+#: inc/customizer/options/edd.php:2353
+#: inc/customizer/options/woocommerce.php:5619
+msgid "Display Product Navigation"
+msgstr "Näytä tuotenavigointi"
+
+#: inc/customizer/options/edd.php:1180
+#: inc/customizer/options/woocommerce.php:2217
+msgid "Content Alignment"
+msgstr "Sisällön tasaus"
+
+#: inc/customizer/options/woocommerce.php:2205
+msgid "Display Quick View Button"
+msgstr "Näytä pikanäkymäpainike"
+
+#: inc/customizer/options/woocommerce.php:1814
+msgid "Divider Color"
+msgstr "Erottimen väri"
+
+#: inc/customizer/options/edd.php:579
+#: inc/customizer/options/woocommerce.php:1177
+msgid "Dropdown Background Color"
+msgstr "Pudotusvalikon taustaväri"
+
+#: inc/customizer/options/woocommerce.php:690
+msgid "Disabled Only On Desktop"
+msgstr "Pois käytöstä vain pöytäkoneella"
+
+#: inc/customizer/options/edd.php:93 inc/customizer/options/woocommerce.php:689
+msgid "Disabled On All Devices"
+msgstr "Pois käytöstä kaikilla laitteilla"
+
+#: inc/customizer/options/woocommerce.php:639
+msgid "Add Wishlist Icon In Header"
+msgstr "Lisää toivelistaikoni otsakkeeseen"
+
+#: inc/customizer/options/edd.php:119
+#: inc/customizer/options/woocommerce.php:717
+msgid "Display Cart When Product Added"
+msgstr "Näytä ostoskori, kun tuote on lisätty"
+
+#: inc/customizer/options/header.php:2486
+msgid "Content After Header"
+msgstr "Sisältö otsakkeen jälkeen"
+
+#: woocommerce/checkout/form-multistep-checkout.php:26
+msgid "If you have already registered, please, enter your details in the boxes below. If you are a new customer, please, go to the Billing &amp; Shipping section."
+msgstr "Jos olet jo rekisteröitynyt ole hyvä ja kirjoita tietosi alla oleviin laatikoihin. Jos olet uusi asiakas, ole hyvä ja siirry laskutus ja toimitus -osioon."
+
+#: inc/woocommerce/woocommerce-config.php:1002
+msgid "Widgets in this area are used in the off canvas sidebar. To enable the Off Canvas filter, go to the WooCommerce > Archives section of the customizer and enable the Display Filter Button option."
+msgstr "Tämän alueen vimpaimia käytetään piirtoalueen ulkopuolisessa sivupalkissa. Ottaaksesi käyttöön piirtoalueen ulkopuolisen suodattimen, siiryy WooCommerce > arkisto osioon muokkaimessa ja ota käyttöön näytä suodatinpainike -valinta."
+
+#: inc/woocommerce/woocommerce-config.php:1001
+msgid "Off-Canvas Filters"
+msgstr "Piirtoalueen ulkopuoliset suodattimet"
+
+#: inc/customizer/options/woocommerce.php:5003
+msgid "Off Canvas Filter Color"
+msgstr "Piirtoalueen ulkopuolisen suodattimen väri"
+
+#: inc/customizer/options/woocommerce.php:7891
+msgid "The floating bar is to display the add to cart button when you scroll to increase conversions."
+msgstr "Leijuvaa palkkia käytetään näyttämään lisää ostoskoriin -painike vieritettäessä, jotta saadaan lisättyä konversioita."
+
+#: inc/customizer/options/edd.php:120
+#: inc/customizer/options/woocommerce.php:718
+msgid "Display the cart when a product is added, work in the shop and the single product pages if ajax is enabled."
+msgstr "Näytä ostoskori kun tuote lisätään, toimii kaupassa ja yksittäisten tuotteiden sivuilla jos Ajax on otettu käyttöön."
+
+#: inc/customizer/options/performance.php:32
+#: inc/customizer/options/performance.php:33
+msgid "Custom File"
+msgstr "Mukautettu tiedosto"
+
+#: inc/customizer/options/performance.php:27
+#: inc/customizer/options/performance.php:28
+msgid "WP Head"
+msgstr "WP Head"
+
+#: inc/customizer/options/performance.php:15
+msgid "Styling Options Location"
+msgstr "Tyylin asetusten sijainti"
+
+#: inc/customizer/options/header.php:975
+msgid "Collapse Width (px)"
+msgstr "Piilotusleveys (px)"
+
+#: inc/woocommerce/woocommerce-config.php:2635
+msgid "WooCommerce Product Price"
+msgstr "WooCommerce tuotteen hinta"
+
+#: inc/customizer/options/woocommerce.php:5206
+msgid "Pagination Style"
+msgstr "Sivutuksen tyyli"
+
+#: inc/customizer/options/header.php:2736
+msgid "Select a retina logo twice the normal logo size."
+msgstr "Valitse retinalogo, joka on kaksi kertaa normaalia logoa suurempi."
+
+#: inc/walker/menu-walker.php:305
+msgid "Latest in"
+msgstr "Uusimmat"
+
+#: inc/customizer/options/edd.php:1996
+#: inc/customizer/options/woocommerce.php:3928
+#: inc/customizer/options/woocommerce.php:5645
+#: inc/customizer/options/woocommerce.php:6794
+msgid "Border Radius"
+msgstr "Reunan säde"
+
+#: inc/customizer/options/edd.php:1959
+#: inc/customizer/options/styles-and-settings.php:980
+#: inc/customizer/options/styles-and-settings.php:2997
+#: inc/customizer/options/woocommerce.php:3891
+#: inc/customizer/options/woocommerce.php:6757
+msgid "Border Width"
+msgstr "Reunan leveys"
+
+#: inc/customizer/options/header.php:1175
+msgid "Logo Position"
+msgstr "Logon sijainti"
+
+#: inc/customizer/options/header.php:787
+msgid "Menus Position"
+msgstr "Valikoiden sijainti"
+
+#: inc/customizer/options/header.php:582
+msgid "Left Menu"
+msgstr "Vasen valikko"
+
+#: inc/customizer/options/header.php:551
+msgid "Center Header Settings"
+msgstr "Keskimmäisen otsakkeen asetukset"
+
+#: inc/customizer/options/header.php:537
+msgid "Retina Logo (optional)"
+msgstr "Retina-logo (valinnainen)"
+
+#: inc/customizer/options/header.php:390 inc/customizer/options/header.php:560
+#: inc/customizer/options/header.php:635 inc/customizer/options/header.php:930
+msgid "Add Transparent Header"
+msgstr "Lisää läpinäkyvä otsake"
+
+#: inc/customizer/options/blog.php:774
+#: inc/customizer/options/woocommerce.php:5238 inc/helpers.php:3650
+#: inc/woocommerce/woocommerce-config.php:616
+msgid "End of content"
+msgstr "Sisällön loppu"
+
+#: inc/customizer/options/blog.php:430
+msgid "Vertical Position"
+msgstr "Pystysuora sijainti"
+
+#: inc/customizer/options/blog.php:405
+msgid "Image Position"
+msgstr "Kuvan sijainti"
+
+#: inc/customizer/options/blog.php:498 inc/customizer/options/blog.php:2937
+#: inc/customizer/options/footer-widget.php:202
+#: inc/customizer/options/page-settings.php:387
+#: inc/customizer/options/sidebar.php:294
+#: inc/customizer/options/woocommerce.php:5841
+msgid "p"
+msgstr "p"
+
+#: inc/customizer/options/blog.php:497 inc/customizer/options/blog.php:2936
+#: inc/customizer/options/footer-widget.php:201
+#: inc/customizer/options/page-settings.php:386
+#: inc/customizer/options/sidebar.php:293
+#: inc/customizer/options/woocommerce.php:5840
+msgid "span"
+msgstr "span"
+
+#: inc/customizer/options/blog.php:496 inc/customizer/options/blog.php:2935
+#: inc/customizer/options/footer-widget.php:200
+#: inc/customizer/options/page-settings.php:385
+#: inc/customizer/options/sidebar.php:292
+#: inc/customizer/options/woocommerce.php:5839
+msgid "div"
+msgstr "div"
+
+#: inc/customizer/options/blog.php:495 inc/customizer/options/blog.php:2934
+#: inc/customizer/options/footer-widget.php:199
+#: inc/customizer/options/page-settings.php:384
+#: inc/customizer/options/sidebar.php:291
+#: inc/customizer/options/woocommerce.php:5838
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/options/blog.php:494 inc/customizer/options/blog.php:2933
+#: inc/customizer/options/footer-widget.php:198
+#: inc/customizer/options/page-settings.php:383
+#: inc/customizer/options/sidebar.php:290
+#: inc/customizer/options/woocommerce.php:5837
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/options/blog.php:493 inc/customizer/options/blog.php:2932
+#: inc/customizer/options/footer-widget.php:197
+#: inc/customizer/options/page-settings.php:382
+#: inc/customizer/options/sidebar.php:289
+#: inc/customizer/options/woocommerce.php:5836
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/options/blog.php:492 inc/customizer/options/blog.php:2931
+#: inc/customizer/options/footer-widget.php:196
+#: inc/customizer/options/page-settings.php:381
+#: inc/customizer/options/sidebar.php:288
+#: inc/customizer/options/woocommerce.php:5835
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/options/blog.php:491 inc/customizer/options/blog.php:2930
+#: inc/customizer/options/footer-widget.php:195
+#: inc/customizer/options/page-settings.php:380
+#: inc/customizer/options/sidebar.php:287
+#: inc/customizer/options/woocommerce.php:5834
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/options/blog.php:490 inc/customizer/options/blog.php:2929
+#: inc/customizer/options/footer-widget.php:194
+#: inc/customizer/options/page-settings.php:379
+#: inc/customizer/options/sidebar.php:286
+#: inc/customizer/options/woocommerce.php:5833
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/options/blog.php:481
+#: inc/customizer/options/footer-widget.php:184
+#: inc/customizer/options/page-settings.php:369
+#: inc/customizer/options/sidebar.php:277
+msgid "Heading Tag"
+msgstr "Otsikkotagi"
+
+#: inc/customizer/helpers.php:216
+msgid "Select Your Menu"
+msgstr "Valitse valikkosi"
+
+#: inc/customizer/options/edd.php:1946
+#: inc/customizer/options/styles-and-settings.php:963
+#: inc/customizer/options/styles-and-settings.php:1600
+#: inc/customizer/options/woocommerce.php:3878
+#: inc/customizer/options/woocommerce.php:6744
+msgid "Double"
+msgstr "Tupla"
+
+#: inc/woocommerce/woocommerce-config.php:2645
+msgid "WooCommerce Product Add To Cart"
+msgstr "WooCommerce tuote lisää ostoskoriin"
+
+#: inc/customizer/options/edd.php:1948
+#: inc/customizer/options/styles-and-settings.php:960
+#: inc/customizer/options/styles-and-settings.php:1597
+#: inc/customizer/options/woocommerce.php:3880
+#: inc/customizer/options/woocommerce.php:6746
+msgid "Dotted"
+msgstr "Pisteviiva"
+
+#: inc/customizer/options/edd.php:1947
+#: inc/customizer/options/styles-and-settings.php:961
+#: inc/customizer/options/styles-and-settings.php:1598
+#: inc/customizer/options/woocommerce.php:3879
+#: inc/customizer/options/woocommerce.php:6745
+msgid "Dashed"
+msgstr "Katkoviiva"
+
+#: inc/customizer/options/edd.php:1945
+#: inc/customizer/options/styles-and-settings.php:962
+#: inc/customizer/options/styles-and-settings.php:1599
+#: inc/customizer/options/woocommerce.php:3877
+#: inc/customizer/options/woocommerce.php:6743
+msgid "Solid"
+msgstr "Kiinteä"
+
+#: inc/customizer/options/header.php:5417
+msgid "Select a custom responsive logo for tablet and mobile."
+msgstr "Valitse mukautettu responsiivinen logo tableteille ja mobiililaitteille."
+
+#: inc/customizer/options/header.php:4641 inc/customizer/options/topbar.php:322
+msgid "Enable Social Menu"
+msgstr "Ota käyttöön Some-valikko"
+
+#: inc/customizer/options/header.php:4633 inc/customizer/options/topbar.php:314
+msgid "Social Menu"
+msgstr "Some-valikko"
+
+#: inc/customizer/options/header.php:1282
+msgid "Display Search Form"
+msgstr "Näytä hakulomake"
+
+#: inc/customizer/options/header.php:964
+msgid "Closed Header"
+msgstr "Suljettu otsake"
+
+#: inc/customizer/options/header.php:942
+msgid "Add Header Shadow"
+msgstr "Lisää otsakkeen varjo"
+
+#: inc/customizer/options/header.php:921
+msgid "Vertical Header Settings"
+msgstr "Pystysuoran otsakkeen asetukset"
+
+#: inc/customizer/options/woocommerce.php:6650
+#: inc/customizer/options/woocommerce.php:6651
+#: inc/customizer/options/woocommerce.php:7465
+msgid "Vertical"
+msgstr "Pystysuora"
+
+#: inc/customizer/options/styles-and-settings.php:212
+msgid "Content Padding"
+msgstr "Sisällön reunatäyte"
+
+#: inc/customizer/options/styles-and-settings.php:48
+msgid "Separate"
+msgstr "Erillinen"
+
+#: inc/customizer/options/blog.php:782
+#: inc/customizer/options/woocommerce.php:5246
+msgid "Infinite Scroll: Error Text"
+msgstr "Loputon vieritys: virheteksti"
+
+#: inc/customizer/options/blog.php:786
+#: inc/customizer/options/woocommerce.php:5250 inc/helpers.php:3655
+#: inc/woocommerce/woocommerce-config.php:621
+msgid "No more pages to load"
+msgstr "Ei enää lisää sivuja ladattavaksi"
+
+#: inc/customizer/options/blog.php:770
+#: inc/customizer/options/woocommerce.php:5234
+msgid "Infinite Scroll: Last Text"
+msgstr "Loputon vieritys: viimeinen teksti"
+
+#: inc/customizer/options/blog.php:100 inc/customizer/options/blog.php:2153
+#: inc/customizer/options/edd.php:999 inc/customizer/options/edd.php:2256
+#: inc/customizer/options/learndash.php:129
+#: inc/customizer/options/learndash.php:290
+#: inc/customizer/options/learndash.php:451
+#: inc/customizer/options/lifterlms.php:267
+#: inc/customizer/options/lifterlms.php:428
+#: inc/customizer/options/lifterlms.php:589
+#: inc/customizer/options/page-settings.php:157
+#: inc/customizer/options/page-settings.php:2177
+#: inc/customizer/options/woocommerce.php:1953
+#: inc/customizer/options/woocommerce.php:5511
+msgid "Content / Sidebar / Sidebar"
+msgstr "Sisältö/sivupalkki/sivupalkki"
+
+#: inc/customizer/options/blog.php:99 inc/customizer/options/blog.php:2152
+#: inc/customizer/options/edd.php:998 inc/customizer/options/edd.php:2255
+#: inc/customizer/options/learndash.php:128
+#: inc/customizer/options/learndash.php:289
+#: inc/customizer/options/learndash.php:450
+#: inc/customizer/options/lifterlms.php:266
+#: inc/customizer/options/lifterlms.php:427
+#: inc/customizer/options/lifterlms.php:588
+#: inc/customizer/options/page-settings.php:156
+#: inc/customizer/options/page-settings.php:2176
+#: inc/customizer/options/woocommerce.php:1952
+#: inc/customizer/options/woocommerce.php:5510
+msgid "Sidebar / Content / Sidebar"
+msgstr "Sivupalkki/sisältö/sivupalkki"
+
+#: inc/customizer/options/blog.php:98 inc/customizer/options/blog.php:2151
+#: inc/customizer/options/edd.php:997 inc/customizer/options/edd.php:2254
+#: inc/customizer/options/learndash.php:127
+#: inc/customizer/options/learndash.php:288
+#: inc/customizer/options/learndash.php:449
+#: inc/customizer/options/lifterlms.php:265
+#: inc/customizer/options/lifterlms.php:426
+#: inc/customizer/options/lifterlms.php:587
+#: inc/customizer/options/page-settings.php:155
+#: inc/customizer/options/page-settings.php:2175
+#: inc/customizer/options/woocommerce.php:1951
+#: inc/customizer/options/woocommerce.php:5509
+msgid "Sidebar / Sidebar / Content"
+msgstr "Sivupalkki/sivupalkki/sisältö"
+
+#: inc/customizer/options/edd.php:987 inc/customizer/options/edd.php:2244
+#: inc/customizer/options/learndash.php:117
+#: inc/customizer/options/learndash.php:278
+#: inc/customizer/options/learndash.php:439
+#: inc/customizer/options/lifterlms.php:255
+#: inc/customizer/options/lifterlms.php:416
+#: inc/customizer/options/lifterlms.php:577
+#: inc/customizer/options/woocommerce.php:1941
+#: inc/customizer/options/woocommerce.php:5499
+msgid "Both Sidebars: Style"
+msgstr "Molemmat sivupalkit: tyyli"
+
+#: inc/helpers.php:4093
+msgid "Minus"
+msgstr "Miinus"
+
+#: inc/helpers.php:4091
+msgid "Elastic"
+msgstr "Elastinen"
+
+#: inc/helpers.php:4080
+msgid "3D XY"
+msgstr "3D XY"
+
+#: inc/helpers.php:4079
+msgid "3D Y Reverse"
+msgstr "3D Y käänteinen"
+
+#: inc/helpers.php:4078
+msgid "3D Y"
+msgstr "3D Y"
+
+#: inc/helpers.php:4077
+msgid "3D X Reverse"
+msgstr "3D X käänteinen"
+
+#: inc/helpers.php:4104
+msgid "Vortex Reverse"
+msgstr "Pyörre käänteinen"
+
+#: inc/helpers.php:4103
+msgid "Vortex"
+msgstr "Pyörre"
+
+#: inc/helpers.php:4102
+msgid "Squeeze"
+msgstr "Rutistus"
+
+#: inc/helpers.php:4101
+msgid "Stand Reverse"
+msgstr "Seisonta käänteinen"
+
+#: inc/helpers.php:4100
+msgid "Stand"
+msgstr "Seisonta"
+
+#: inc/helpers.php:4099
+msgid "Spring Reverse"
+msgstr "Jousi käänteinen"
+
+#: inc/helpers.php:4098
+msgid "Spring"
+msgstr "Jousi"
+
+#: inc/helpers.php:4097
+msgid "Spin Reverse"
+msgstr "Pyörähdys käänteinen"
+
+#: inc/helpers.php:4096
+msgid "Spin"
+msgstr "Pyörähdys"
+
+#: inc/helpers.php:4095
+msgid "Slider Reverse"
+msgstr "Liuku käänteinen"
+
+#: inc/helpers.php:4094
+msgid "Slider"
+msgstr "Liuku"
+
+#: inc/helpers.php:4092
+msgid "Elastic Reverse"
+msgstr "Elastinen käänteinen"
+
+#: inc/helpers.php:4090
+msgid "Collapse Reverse"
+msgstr "Romahdus käänteinen"
+
+#: inc/helpers.php:4089
+msgid "Collapse"
+msgstr "Romahdus"
+
+#: inc/helpers.php:4088
+msgid "Boring"
+msgstr "Tylsä"
+
+#: inc/helpers.php:4087
+msgid "Arrowturn Reverse"
+msgstr "Nuolikäännös käänteinen"
+
+#: inc/helpers.php:4086
+msgid "Arrowturn"
+msgstr "Nuolikäännös"
+
+#: inc/helpers.php:4085
+msgid "Arrowalt Reverse"
+msgstr "Nuoli vaihtoehtoinen käänteinen"
+
+#: inc/helpers.php:4084
+msgid "Arrowalt"
+msgstr "Nuoli vaihtoehtoinen"
+
+#: inc/helpers.php:4083
+msgid "Arrow Reverse"
+msgstr "Nuoli käänteinen"
+
+#: inc/customizer/options/woocommerce.php:8637
+#: inc/customizer/options/woocommerce.php:8638 inc/helpers.php:4082
+msgid "Arrow"
+msgstr "Nuoli"
+
+#: inc/helpers.php:4081
+msgid "3D XY Reverse"
+msgstr "3D XY käänteinen"
+
+#: inc/helpers.php:4076
+msgid "3D X"
+msgstr "3D X"
+
+#: inc/helpers.php:4075
+msgid "Default Icon"
+msgstr "Oletuskuvake"
+
+#: inc/customizer/helpers.php:270
+msgid "All Post Types"
+msgstr "Kaikki artikkelityypit"
+
+#: inc/customizer/options/header.php:5766
+msgid "Close Menu Text"
+msgstr "Valikon sulkemisteksti"
+
+#: inc/customizer/options/header.php:5770 inc/helpers.php:4156
+#: partials/mobile/mobile-dropdown.php:73 partials/mobile/mobile-icon.php:45
+#: inc/customizer/assets/dist/index.js:1 inc/customizer/assets/dist/index.js:3
+msgid "Close"
+msgstr "Sulje"
+
+#: inc/customizer/options/header.php:3163
+msgid "Backlighting"
+msgstr "Taustavalaisu"
+
+#: inc/customizer/options/header.php:3162
+msgid "Underline & Overline"
+msgstr "Alleviivaus ja yliviivaus"
+
+#: inc/customizer/options/header.php:3161
+msgid "X Marks The Spot"
+msgstr "X merkkaa paikkaa"
+
+#: inc/customizer/options/header.php:3159
+msgid "Circular Reveal"
+msgstr "Pyöreä paljastus"
+
+#: inc/customizer/options/header.php:3158
+msgid "Overline & Fixed Underline"
+msgstr "Yliviivaa ja kiinteä alaviiva"
+
+#: inc/customizer/options/header.php:3157
+msgid "Brackets"
+msgstr "Sulkeet"
+
+#: inc/customizer/options/header.php:3156
+msgid "Underline Down"
+msgstr "Alleviivaa alas"
+
+#: inc/customizer/options/header.php:3155
+msgid "Underline Up"
+msgstr "Alleviivaa ylös"
+
+#: inc/customizer/options/header.php:3154
+msgid "Underline From Left"
+msgstr "Alleviivaa vasemmalta"
+
+#: inc/customizer/options/header.php:626
+msgid "Medium Header Settings"
+msgstr "Keskikokoisen otsakkeen asetukset"
+
+#: inc/customizer/options/header.php:381
+msgid "Full Screen Header Settings"
+msgstr "Koko ruudun otsakkeen asetukset"
+
+#: inc/customizer/options/header.php:355
+msgid "Top Menu Header Settings"
+msgstr "Ylävalikon otsakkeen asetukset"
+
+#: inc/customizer/options/header.php:3153
+msgid "No Effect"
+msgstr "Ei tehostetta"
+
+#. translators: 1: Admin URL 2: </a>
+#: partials/none.php:17
+msgid "Ready to publish your first post? %1$sGet started here%2$s."
+msgstr "Oletko valmis julkaisemaan ensimmäisen artikkelisi? %1$sAloita täältä%2$s."
+
+#: inc/walker/init.php:71
+msgid "Template"
+msgstr "Pohja"
+
+#: inc/customizer/options/header.php:5236
+msgid "From 320px"
+msgstr "Alkaen 320 px"
+
+#: inc/customizer/options/header.php:5235
+msgid "From 480px"
+msgstr "Alkaen 480 px"
+
+#: inc/customizer/options/header.php:5232
+msgid "From 1080px"
+msgstr "Alkaen 1080 px"
+
+#: inc/customizer/options/header.php:5231
+msgid "From 1280px"
+msgstr "Alkaen 1280 px"
+
+#: inc/customizer/options/header.php:5234
+msgid "From 767px"
+msgstr "Alkaen 767 px"
+
+#: inc/customizer/options/header.php:5233
+msgid "From 959px"
+msgstr "Alkaen 959 px"
+
+#: inc/customizer/options/blog.php:3126 inc/customizer/options/blog.php:3127
+#: inc/customizer/options/blog.php:3164 inc/customizer/options/blog.php:3165
+#: inc/customizer/options/edd.php:2400 inc/customizer/options/edd.php:2401
+#: inc/customizer/options/page-settings.php:1898
+#: inc/customizer/options/page-settings.php:1919
+#: inc/customizer/options/page-settings.php:1938
+msgid "Tag"
+msgstr "Avainsana"
+
+#: inc/customizer/options/header.php:5242
+msgid "Custom Media Query"
+msgstr "Mukautettu mediakysely"
+
+#: inc/customizer/options/header.php:5237
+msgid "Custom media query"
+msgstr "Mukautettu mediakysely"
+
+#: inc/customizer/options/header.php:5221
+msgid "Breakpoints"
+msgstr "Raja-arvot"
+
+#: inc/customizer/options/footer-widget.php:270
+#: inc/customizer/options/header.php:113 inc/customizer/options/header.php:4588
+#: inc/customizer/options/header.php:5165
+#: inc/customizer/options/page-settings.php:2479
+#: inc/customizer/options/topbar.php:279 inc/customizer/options/topbar.php:621
+msgid "Select Template"
+msgstr "Valitse pohja"
+
+#: inc/customizer/options/blog.php:3148
+msgid "Related Posts Taxonomy"
+msgstr "Liittyvien artikkeleiden luokittelu"
+
+#: inc/customizer/options/edd.php:2384
+msgid "Next/Prev Taxonomy"
+msgstr "Seuraava/edellinen luokittelu"
+
+#: inc/customizer/options/edd.php:136 inc/customizer/options/edd.php:137
+#: inc/customizer/options/woocommerce.php:734
+#: inc/customizer/options/woocommerce.php:735
+#: inc/customizer/options/woocommerce.php:4389
+#: inc/customizer/options/woocommerce.php:4390
+#: inc/customizer/options/woocommerce.php:4454
+#: inc/customizer/options/woocommerce.php:4455
+#: inc/customizer/options/woocommerce.php:5430
+#: inc/customizer/options/woocommerce.php:5431
+#: inc/customizer/options/woocommerce.php:7169
+#: inc/customizer/options/woocommerce.php:7170
+#: inc/customizer/options/woocommerce.php:7792
+#: inc/customizer/options/woocommerce.php:7793
+#: inc/customizer/options/woocommerce.php:7907
+#: inc/customizer/options/woocommerce.php:7908
+msgid "No"
+msgstr "Ei"
+
+#: inc/customizer/options/edd.php:131 inc/customizer/options/edd.php:132
+#: inc/customizer/options/woocommerce.php:729
+#: inc/customizer/options/woocommerce.php:730
+#: inc/customizer/options/woocommerce.php:4384
+#: inc/customizer/options/woocommerce.php:4385
+#: inc/customizer/options/woocommerce.php:4449
+#: inc/customizer/options/woocommerce.php:4450
+#: inc/customizer/options/woocommerce.php:5425
+#: inc/customizer/options/woocommerce.php:5426
+#: inc/customizer/options/woocommerce.php:7164
+#: inc/customizer/options/woocommerce.php:7165
+#: inc/customizer/options/woocommerce.php:7787
+#: inc/customizer/options/woocommerce.php:7788
+#: inc/customizer/options/woocommerce.php:7902
+#: inc/customizer/options/woocommerce.php:7903
+msgid "Yes"
+msgstr "Kyllä"
+
+#: inc/customizer/options/woocommerce.php:7776
+msgid "Display Related Items"
+msgstr "Näytä aiheeseen liittyvät kohteet"
+
+#: inc/customizer/options/blog.php:1174 inc/customizer/options/blog.php:1181
+#: inc/customizer/options/blog.php:1188 inc/customizer/options/blog.php:1336
+#: inc/customizer/options/blog.php:1343 inc/customizer/options/blog.php:1350
+#: inc/customizer/options/blog.php:1497 inc/customizer/options/blog.php:1504
+#: inc/customizer/options/blog.php:1511 inc/customizer/options/blog.php:1658
+#: inc/customizer/options/blog.php:1665 inc/customizer/options/blog.php:1672
+#: inc/customizer/options/blog.php:3393 inc/customizer/options/blog.php:3400
+#: inc/customizer/options/blog.php:3407 inc/customizer/options/blog.php:3556
+#: inc/customizer/options/blog.php:3563 inc/customizer/options/blog.php:3570
+#: inc/customizer/options/blog.php:3720 inc/customizer/options/blog.php:3728
+#: inc/customizer/options/blog.php:3735 inc/customizer/options/blog.php:3885
+#: inc/customizer/options/blog.php:3893 inc/customizer/options/blog.php:3900
+#: inc/customizer/options/blog.php:4050 inc/customizer/options/blog.php:4058
+#: inc/customizer/options/blog.php:4065 inc/customizer/options/blog.php:4215
+#: inc/customizer/options/blog.php:4223 inc/customizer/options/blog.php:4230
+#: inc/customizer/options/blog.php:4394 inc/customizer/options/blog.php:4402
+#: inc/customizer/options/blog.php:4409 inc/customizer/options/blog.php:4558
+#: inc/customizer/options/blog.php:4566 inc/customizer/options/blog.php:4573
+#: inc/customizer/options/footer-copyright.php:266
+#: inc/customizer/options/footer-copyright.php:273
+#: inc/customizer/options/footer-copyright.php:280
+#: inc/customizer/options/footer-copyright.php:430
+#: inc/customizer/options/footer-copyright.php:437
+#: inc/customizer/options/footer-copyright.php:444
+#: inc/customizer/options/footer-widget.php:429
+#: inc/customizer/options/footer-widget.php:437
+#: inc/customizer/options/footer-widget.php:444
+#: inc/customizer/options/header.php:2948
+#: inc/customizer/options/header.php:2955
+#: inc/customizer/options/header.php:2962
+#: inc/customizer/options/header.php:3348
+#: inc/customizer/options/header.php:3355
+#: inc/customizer/options/header.php:3362
+#: inc/customizer/options/header.php:3755
+#: inc/customizer/options/header.php:3763
+#: inc/customizer/options/header.php:3770
+#: inc/customizer/options/header.php:5882
+#: inc/customizer/options/header.php:5889
+#: inc/customizer/options/header.php:5896
+#: inc/customizer/options/page-settings.php:1028
+#: inc/customizer/options/page-settings.php:1035
+#: inc/customizer/options/page-settings.php:1042
+#: inc/customizer/options/page-settings.php:1219
+#: inc/customizer/options/page-settings.php:1226
+#: inc/customizer/options/page-settings.php:1233
+#: inc/customizer/options/page-settings.php:1547
+#: inc/customizer/options/page-settings.php:1554
+#: inc/customizer/options/page-settings.php:1561
+#: inc/customizer/options/sidebar.php:451
+#: inc/customizer/options/sidebar.php:459
+#: inc/customizer/options/sidebar.php:466
+#: inc/customizer/options/sidebar.php:614
+#: inc/customizer/options/sidebar.php:621
+#: inc/customizer/options/sidebar.php:628
+#: inc/customizer/options/styles-and-settings.php:1115
+#: inc/customizer/options/styles-and-settings.php:1122
+#: inc/customizer/options/styles-and-settings.php:1129
+#: inc/customizer/options/styles-and-settings.php:1805
+#: inc/customizer/options/styles-and-settings.php:1812
+#: inc/customizer/options/styles-and-settings.php:1819
+#: inc/customizer/options/styles-and-settings.php:1966
+#: inc/customizer/options/styles-and-settings.php:1973
+#: inc/customizer/options/styles-and-settings.php:1980
+#: inc/customizer/options/styles-and-settings.php:2127
+#: inc/customizer/options/styles-and-settings.php:2134
+#: inc/customizer/options/styles-and-settings.php:2141
+#: inc/customizer/options/topbar.php:732 inc/customizer/options/topbar.php:739
+#: inc/customizer/options/topbar.php:746
+#: inc/customizer/options/typography.php:257
+#: inc/customizer/options/typography.php:264
+#: inc/customizer/options/typography.php:271
+#: inc/customizer/options/typography.php:420
+#: inc/customizer/options/typography.php:427
+#: inc/customizer/options/typography.php:434
+#: inc/customizer/options/typography.php:585
+#: inc/customizer/options/typography.php:592
+#: inc/customizer/options/typography.php:599
+#: inc/customizer/options/typography.php:750
+#: inc/customizer/options/typography.php:757
+#: inc/customizer/options/typography.php:764
+#: inc/customizer/options/typography.php:915
+#: inc/customizer/options/typography.php:922
+#: inc/customizer/options/typography.php:929
+#: inc/customizer/options/typography.php:1080
+#: inc/customizer/options/typography.php:1087
+#: inc/customizer/options/typography.php:1094
+#: inc/customizer/options/typography.php:1245
+#: inc/customizer/options/typography.php:1252
+#: inc/customizer/options/typography.php:1259
+#: inc/customizer/options/typography.php:1410
+#: inc/customizer/options/typography.php:1417
+#: inc/customizer/options/typography.php:1424
+#: inc/customizer/options/woocommerce.php:116
+#: inc/customizer/options/woocommerce.php:124
+#: inc/customizer/options/woocommerce.php:131
+#: inc/customizer/options/woocommerce.php:280
+#: inc/customizer/options/woocommerce.php:288
+#: inc/customizer/options/woocommerce.php:295
+#: inc/customizer/options/woocommerce.php:2860
+#: inc/customizer/options/woocommerce.php:2868
+#: inc/customizer/options/woocommerce.php:2875
+#: inc/customizer/options/woocommerce.php:3025
+#: inc/customizer/options/woocommerce.php:3033
+#: inc/customizer/options/woocommerce.php:3040
+#: inc/customizer/options/woocommerce.php:3190
+#: inc/customizer/options/woocommerce.php:3198
+#: inc/customizer/options/woocommerce.php:3205
+#: inc/customizer/options/woocommerce.php:3355
+#: inc/customizer/options/woocommerce.php:3363
+#: inc/customizer/options/woocommerce.php:3370
+#: inc/customizer/options/woocommerce.php:4547
+#: inc/customizer/options/woocommerce.php:4555
+#: inc/customizer/options/woocommerce.php:4562
+#: inc/customizer/options/woocommerce.php:6008
+#: inc/customizer/options/woocommerce.php:6016
+#: inc/customizer/options/woocommerce.php:6023
+#: inc/customizer/options/woocommerce.php:6173
+#: inc/customizer/options/woocommerce.php:6181
+#: inc/customizer/options/woocommerce.php:6188
+#: inc/customizer/options/woocommerce.php:6914
+#: inc/customizer/options/woocommerce.php:6922
+#: inc/customizer/options/woocommerce.php:6929
+#: inc/customizer/options/woocommerce.php:7288
+#: inc/customizer/options/woocommerce.php:7296
+#: inc/customizer/options/woocommerce.php:7303
+#: inc/customizer/assets/dist/index.js:1
+msgid "Letter Spacing"
+msgstr "Kirjainten välistys"
+
+#: inc/customizer/options/blog.php:1144 inc/customizer/options/blog.php:1152
+#: inc/customizer/options/blog.php:1159 inc/customizer/options/blog.php:1308
+#: inc/customizer/options/blog.php:1315 inc/customizer/options/blog.php:1322
+#: inc/customizer/options/blog.php:1469 inc/customizer/options/blog.php:1476
+#: inc/customizer/options/blog.php:1483 inc/customizer/options/blog.php:1630
+#: inc/customizer/options/blog.php:1637 inc/customizer/options/blog.php:1644
+#: inc/customizer/options/blog.php:3364 inc/customizer/options/blog.php:3371
+#: inc/customizer/options/blog.php:3378 inc/customizer/options/blog.php:3527
+#: inc/customizer/options/blog.php:3534 inc/customizer/options/blog.php:3541
+#: inc/customizer/options/blog.php:3690 inc/customizer/options/blog.php:3698
+#: inc/customizer/options/blog.php:3705 inc/customizer/options/blog.php:3855
+#: inc/customizer/options/blog.php:3863 inc/customizer/options/blog.php:3870
+#: inc/customizer/options/blog.php:4020 inc/customizer/options/blog.php:4028
+#: inc/customizer/options/blog.php:4035 inc/customizer/options/blog.php:4185
+#: inc/customizer/options/blog.php:4193 inc/customizer/options/blog.php:4200
+#: inc/customizer/options/blog.php:4364 inc/customizer/options/blog.php:4372
+#: inc/customizer/options/blog.php:4379 inc/customizer/options/blog.php:4528
+#: inc/customizer/options/blog.php:4536 inc/customizer/options/blog.php:4543
+#: inc/customizer/options/footer-copyright.php:237
+#: inc/customizer/options/footer-copyright.php:245
+#: inc/customizer/options/footer-copyright.php:252
+#: inc/customizer/options/footer-copyright.php:401
+#: inc/customizer/options/footer-copyright.php:409
+#: inc/customizer/options/footer-copyright.php:416
+#: inc/customizer/options/footer-widget.php:400
+#: inc/customizer/options/footer-widget.php:408
+#: inc/customizer/options/footer-widget.php:415
+#: inc/customizer/options/header.php:2918
+#: inc/customizer/options/header.php:2926
+#: inc/customizer/options/header.php:2933
+#: inc/customizer/options/header.php:3319
+#: inc/customizer/options/header.php:3326
+#: inc/customizer/options/header.php:3333
+#: inc/customizer/options/header.php:3725
+#: inc/customizer/options/header.php:3733
+#: inc/customizer/options/header.php:3740
+#: inc/customizer/options/header.php:5852
+#: inc/customizer/options/header.php:5860
+#: inc/customizer/options/header.php:5867
+#: inc/customizer/options/page-settings.php:998
+#: inc/customizer/options/page-settings.php:1006
+#: inc/customizer/options/page-settings.php:1013
+#: inc/customizer/options/page-settings.php:1189
+#: inc/customizer/options/page-settings.php:1197
+#: inc/customizer/options/page-settings.php:1204
+#: inc/customizer/options/page-settings.php:1517
+#: inc/customizer/options/page-settings.php:1525
+#: inc/customizer/options/page-settings.php:1532
+#: inc/customizer/options/sidebar.php:421
+#: inc/customizer/options/sidebar.php:429
+#: inc/customizer/options/sidebar.php:436
+#: inc/customizer/options/sidebar.php:586
+#: inc/customizer/options/sidebar.php:593
+#: inc/customizer/options/sidebar.php:600
+#: inc/customizer/options/styles-and-settings.php:1087
+#: inc/customizer/options/styles-and-settings.php:1094
+#: inc/customizer/options/styles-and-settings.php:1101
+#: inc/customizer/options/styles-and-settings.php:1777
+#: inc/customizer/options/styles-and-settings.php:1784
+#: inc/customizer/options/styles-and-settings.php:1791
+#: inc/customizer/options/styles-and-settings.php:1938
+#: inc/customizer/options/styles-and-settings.php:1945
+#: inc/customizer/options/styles-and-settings.php:1952
+#: inc/customizer/options/styles-and-settings.php:2099
+#: inc/customizer/options/styles-and-settings.php:2106
+#: inc/customizer/options/styles-and-settings.php:2113
+#: inc/customizer/options/topbar.php:703 inc/customizer/options/topbar.php:711
+#: inc/customizer/options/topbar.php:718
+#: inc/customizer/options/typography.php:227
+#: inc/customizer/options/typography.php:235
+#: inc/customizer/options/typography.php:242
+#: inc/customizer/options/typography.php:391
+#: inc/customizer/options/typography.php:398
+#: inc/customizer/options/typography.php:405
+#: inc/customizer/options/typography.php:555
+#: inc/customizer/options/typography.php:563
+#: inc/customizer/options/typography.php:570
+#: inc/customizer/options/typography.php:720
+#: inc/customizer/options/typography.php:728
+#: inc/customizer/options/typography.php:735
+#: inc/customizer/options/typography.php:885
+#: inc/customizer/options/typography.php:893
+#: inc/customizer/options/typography.php:900
+#: inc/customizer/options/typography.php:1050
+#: inc/customizer/options/typography.php:1058
+#: inc/customizer/options/typography.php:1065
+#: inc/customizer/options/typography.php:1215
+#: inc/customizer/options/typography.php:1223
+#: inc/customizer/options/typography.php:1230
+#: inc/customizer/options/typography.php:1380
+#: inc/customizer/options/typography.php:1388
+#: inc/customizer/options/typography.php:1395
+#: inc/customizer/options/woocommerce.php:87
+#: inc/customizer/options/woocommerce.php:94
+#: inc/customizer/options/woocommerce.php:101
+#: inc/customizer/options/woocommerce.php:251
+#: inc/customizer/options/woocommerce.php:258
+#: inc/customizer/options/woocommerce.php:265
+#: inc/customizer/options/woocommerce.php:2830
+#: inc/customizer/options/woocommerce.php:2838
+#: inc/customizer/options/woocommerce.php:2845
+#: inc/customizer/options/woocommerce.php:2995
+#: inc/customizer/options/woocommerce.php:3003
+#: inc/customizer/options/woocommerce.php:3010
+#: inc/customizer/options/woocommerce.php:3160
+#: inc/customizer/options/woocommerce.php:3168
+#: inc/customizer/options/woocommerce.php:3175
+#: inc/customizer/options/woocommerce.php:3325
+#: inc/customizer/options/woocommerce.php:3333
+#: inc/customizer/options/woocommerce.php:3340
+#: inc/customizer/options/woocommerce.php:4517
+#: inc/customizer/options/woocommerce.php:4525
+#: inc/customizer/options/woocommerce.php:4532
+#: inc/customizer/options/woocommerce.php:5978
+#: inc/customizer/options/woocommerce.php:5986
+#: inc/customizer/options/woocommerce.php:5993
+#: inc/customizer/options/woocommerce.php:6143
+#: inc/customizer/options/woocommerce.php:6151
+#: inc/customizer/options/woocommerce.php:6158
+#: inc/customizer/options/woocommerce.php:6884
+#: inc/customizer/options/woocommerce.php:6892
+#: inc/customizer/options/woocommerce.php:6899
+#: inc/customizer/options/woocommerce.php:7258
+#: inc/customizer/options/woocommerce.php:7266
+#: inc/customizer/options/woocommerce.php:7273
+#: inc/customizer/assets/dist/index.js:1
+msgid "Font Size"
+msgstr "Kirjasinkoko"
+
+#: inc/third/class-beaver-themer.php:147
+msgid "Before Footer"
+msgstr "Ennen alapalkkia"
+
+#: inc/third/class-beaver-themer.php:141
+msgid "After Sidebar"
+msgstr "Sivupalkin jälkeen"
+
+#: inc/third/class-beaver-themer.php:96
+msgid "After Page"
+msgstr "Sivun jälkeen"
+
+#: inc/third/class-beaver-themer.php:95
+msgid "Before Page"
+msgstr "Ennen sivua"
+
+#: inc/third/class-beaver-themer.php:93
+msgid "Page"
+msgstr "Sivu"
+
+#: inc/third/class-beaver-themer.php:123
+msgid "After Page Header"
+msgstr "Sivun otsakkeen jälkeen"
+
+#: inc/third/class-beaver-themer.php:122
+msgid "After Page Header Inner"
+msgstr "Sivun otsakkeen jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:121
+msgid "Before Page Header Inner"
+msgstr "Ennen sivun otsaketta sisempi"
+
+#: inc/third/class-beaver-themer.php:120
+msgid "Before Page Header"
+msgstr "Ennen sivun otsaketta"
+
+#: inc/third/class-beaver-themer.php:118
+msgid "Page Header"
+msgstr "Sivun otsake"
+
+#: inc/third/class-beaver-themer.php:114
+msgid "After Header"
+msgstr "Otsakkeen jälkeen"
+
+#: inc/third/class-beaver-themer.php:113
+msgid "After Header Inner"
+msgstr "Otsakkeen jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:112
+msgid "Before Header Inner"
+msgstr "Ennen otsaketta sisempi"
+
+#: inc/third/class-beaver-themer.php:111
+msgid "Before Header"
+msgstr "Ennen otsaketta"
+
+#: inc/third/class-beaver-themer.php:105
+msgid "After Top Bar"
+msgstr "Yläpalkin jälkeen"
+
+#: inc/third/class-beaver-themer.php:104
+msgid "After Top Bar Inner"
+msgstr "Yläpalkin jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:103
+msgid "Before Top Bar Inner"
+msgstr "Ennen yläpalkkia sisempi"
+
+#: inc/third/class-beaver-themer.php:102
+msgid "Before Top Bar"
+msgstr "Ennen yläpalkkia"
+
+#: inc/third/class-beaver-themer.php:150
+msgid "After Footer"
+msgstr "Alapalkin jälkeen"
+
+#: inc/third/class-beaver-themer.php:149
+msgid "After Footer Inner"
+msgstr "Alapalkin jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:148
+msgid "Before Footer Inner"
+msgstr "Ennen alapalkkia sisempi"
+
+#: inc/third/class-beaver-themer.php:140
+msgid "After Sidebar Inner"
+msgstr "Sivupalkin jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:139
+msgid "Before Sidebar Inner"
+msgstr "Ennen sivupalkkia sisempi"
+
+#: inc/third/class-beaver-themer.php:138
+msgid "Before Sidebar"
+msgstr "Ennen sivupalkkia"
+
+#: inc/customizer/options/blog.php:221 inc/customizer/options/blog.php:222
+#: inc/customizer/options/blog.php:2274 inc/customizer/options/blog.php:2275
+#: inc/customizer/options/page-settings.php:276
+#: inc/customizer/options/page-settings.php:277
+#: inc/third/class-beaver-themer.php:132
+msgid "After Content"
+msgstr "Sisällön jälkeen"
+
+#: inc/third/class-beaver-themer.php:131
+msgid "After Content Inner"
+msgstr "Sisällön jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:130
+msgid "Before Content Inner"
+msgstr "Ennen sisältöä sisempi"
+
+#: inc/customizer/options/blog.php:226 inc/customizer/options/blog.php:227
+#: inc/customizer/options/blog.php:2279 inc/customizer/options/blog.php:2280
+#: inc/customizer/options/page-settings.php:281
+#: inc/customizer/options/page-settings.php:282
+#: inc/third/class-beaver-themer.php:129
+msgid "Before Content"
+msgstr "Ennen sisältöä"
+
+#. Theme Name of the theme
+#. Author of the theme
+#: style.css inc/helpers.php:4030 inc/helpers.php:5099 inc/helpers.php:5117
+#: inc/helpers.php:5118
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#: inc/oceanwp-strings.php:90 inc/oceanwp-strings.php:91
+#: partials/edd/single.php:57
+msgid "Continue Reading"
+msgstr "Jatka lukemista"
+
+#: inc/oceanwp-strings.php:80
+msgid "Log out of this account"
+msgstr "Kirjaudu ulos tältä tililtä"
+
+#: comments.php:104 comments.php:117 inc/woocommerce/woocommerce-config.php:890
+#: partials/edd/single.php:54
+#: woocommerce/checkout/form-multistep-checkout.php:97
+msgid "Next"
+msgstr "Seuraava"
+
+#: comments.php:103 comments.php:116 partials/edd/single.php:53
+msgid "Previous"
+msgstr "Edellinen"
+
+#. Template Name of the theme
+msgid "Landing Page"
+msgstr "Saapumissivu"
+
+#: woocommerce/result-count.php:66
+msgid "All"
+msgstr "Kaikki"
+
+#: woocommerce/result-count.php:63
+msgid "View:"
+msgstr "Näytä:"
+
+#: inc/oceanwp-strings.php:92
+msgid "You Might Also Like"
+msgstr "Saattaisit myös pitää"
+
+#: inc/oceanwp-strings.php:93
+msgid "Next Post"
+msgstr "Seuraava artikkeli"
+
+#: partials/page/article.php:24 partials/single/content.php:23
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: inc/woocommerce/woocommerce-helpers.php:135
+#: woocommerce/loop/thumbnail/featured-image.php:87
+#: woocommerce/loop/thumbnail/featured-image.php:93
+msgid "Placeholder Image"
+msgstr "Paikkamerkkikuva"
+
+#: inc/woocommerce/woocommerce-config.php:2624
+msgid "WooCommerce Product Title"
+msgstr "WooCommerce tuotteen otsikko"
+
+#: inc/edd/edd-config.php:407 inc/woocommerce/woocommerce-config.php:2164
+msgid "Your cart"
+msgstr "Ostoskorisi"
+
+#: inc/woocommerce/woocommerce-config.php:1593
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+
+#: inc/woocommerce/woocommerce-config.php:1584
+msgid "Welcome!"
+msgstr "Tervetuloa!"
+
+#: inc/woocommerce/woocommerce-config.php:1243
+msgid "Out of Stock"
+msgstr "Loppu varastosta"
+
+#: inc/woocommerce/woocommerce-config.php:1070
+msgid "List view"
+msgstr "Listanäkymä"
+
+#: inc/woocommerce/woocommerce-config.php:1069
+msgid "Grid view"
+msgstr "Ruudukkonäkymä"
+
+#: inc/walker/init.php:127
+msgid "Select Widget Area"
+msgstr "Valitse vimpainalue"
+
+#: inc/walker/init.php:125
+msgid "Mega Menu Widget Area"
+msgstr "Megavalikon vimpainalue"
+
+#: inc/walker/init.php:113
+msgid "Megamenu columns (from 1 to 6)"
+msgstr "Megamenun sarakkeet (1 - 6)"
+
+#: inc/walker/init.php:108
+msgid "Megamenu auto width?"
+msgstr "Megamenun automaattinen leveys?"
+
+#: inc/walker/init.php:102
+msgid "Enable megamenu"
+msgstr "Ota käyttöön megavalikko"
+
+#: inc/themepanel/views/panes/home.php:276
+msgid "Activate"
+msgstr "Ota käyttöön"
+
+#: inc/themepanel/views/panes/useful-plugins.php:92
+#: inc/themepanel/views/panes/useful-plugins.php:178
+msgid "Install"
+msgstr "Asenna"
+
+#: inc/helpers.php:4267 inc/oceanwp-strings.php:87
+msgid "Email"
+msgstr "Sähköposti"
+
+#: inc/helpers.php:4263
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/helpers.php:4259
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/helpers.php:4255
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/helpers.php:4251
+msgid "Vine"
+msgstr "Vine"
+
+#: inc/helpers.php:4243
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/helpers.php:4239
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/helpers.php:4235
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/helpers.php:4231
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/helpers.php:4227
+msgid "Github"
+msgstr "Github"
+
+#: inc/helpers.php:4223
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/helpers.php:4219
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: inc/helpers.php:4215 inc/themepanel/views/panes/free-vs-pro.php:77
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/helpers.php:4211
+msgid "VK"
+msgstr "VK"
+
+#: inc/helpers.php:4207
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/helpers.php:4203
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/helpers.php:4187
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/helpers.php:3624 inc/helpers.php:3671 inc/helpers.php:3702
+#: inc/woocommerce/woocommerce-config.php:637
+#: inc/woocommerce/woocommerce-config.php:667
+msgid "Older Posts"
+msgstr "Vanhemmat artikkelit"
+
+#: inc/helpers.php:3621 inc/helpers.php:3670 inc/helpers.php:3701
+#: inc/woocommerce/woocommerce-config.php:636
+#: inc/woocommerce/woocommerce-config.php:666
+msgid "Newer Posts"
+msgstr "Uudemmat artikkelit"
+
+#: inc/helpers.php:3473
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa tarkastusta."
+
+#: inc/helpers.php:3460
+msgid "edit"
+msgstr "muokkaa"
+
+#: inc/helpers.php:3441
+msgid "%s "
+msgstr "%s"
+
+#: inc/customizer/options/woocommerce.php:4770
+msgid "Active"
+msgstr "Käytössä"
+
+#: inc/helpers.php:3423
+msgid "(Edit)"
+msgstr "(Muokkaa)"
+
+#: inc/helpers.php:3423
+msgid "Pingback:"
+msgstr "Paluuviite:"
+
+#: inc/helpers.php:3242
+msgid "Related Posts"
+msgstr "Aiheeseen liittyvät artikkelit"
+
+#: inc/helpers.php:3241
+msgid "Author Box"
+msgstr "Kirjoittajalaatikko"
+
+#: inc/helpers.php:3240
+msgid "Next/Prev Links"
+msgstr "Seuraava/Edellinen-linkit"
+
+#: inc/customizer/options/blog.php:2883 inc/helpers.php:3238
+#: partials/single/tags.php:22
+msgid "Tags"
+msgstr "Avainsanat"
+
+#: inc/customizer/options/blog.php:1586 inc/customizer/options/blog.php:1879
+#: inc/helpers.php:3145
+msgid "Read More"
+msgstr "Lue lisää"
+
+#: inc/helpers.php:2247
+msgid "articles"
+msgstr "artikkelit"
+
+#: inc/helpers.php:2247
+msgid "This author has written"
+msgstr "Tämä kirjoittaja on kirjoittanut"
+
+#: inc/helpers.php:2242
+msgid "You searched for:"
+msgstr "Etsit hakusanalla:"
+
+#: inc/helpers.php:2176
+msgid "404: Page Not Found"
+msgstr "404: Sivua ei löytynyt"
+
+#: inc/helpers.php:2156
+msgctxt "Page title yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/helpers.php:2151
+msgctxt "Page title monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/helpers.php:2151
+msgid "Monthly Archives: %s"
+msgstr "Kuukausittainen arkisto:%s"
+
+#: inc/helpers.php:2146
+msgid "Daily Archives: %s"
+msgstr "Päivittäinen arkisto: %s"
+
+#: inc/helpers.php:2128
+msgid "Search Results Found"
+msgstr "Hakutuloksia löytyi"
+
+#: inc/helpers.php:2115
+msgid "Recent Posts"
+msgstr "Viimeisimmät artikkelit"
+
+#: inc/oceanwp-strings.php:73
+msgid "Type your search"
+msgstr "Kirjoita hakulause"
+
+#: inc/customizer/options/woocommerce.php:9236
+msgid "Payment Box Color"
+msgstr "Maksulaatikon väri"
+
+#: inc/customizer/options/woocommerce.php:8568
+msgid "Checkout"
+msgstr "Kassa"
+
+#: inc/customizer/options/woocommerce.php:8311
+#: inc/woocommerce/woocommerce-config.php:973
+msgid "Cart"
+msgstr "Ostoskori"
+
+#: inc/customizer/options/edd.php:74 inc/customizer/options/woocommerce.php:670
+msgid "Menu Cart"
+msgstr "Valikon ostoskori"
+
+#: inc/customizer/options/options.php:74
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer/options/blog.php:1109 inc/customizer/options/blog.php:1273
+#: inc/customizer/options/blog.php:1434 inc/customizer/options/blog.php:1595
+#: inc/customizer/options/blog.php:3329 inc/customizer/options/blog.php:3492
+#: inc/customizer/options/blog.php:3655 inc/customizer/options/blog.php:3820
+#: inc/customizer/options/blog.php:3985 inc/customizer/options/blog.php:4150
+#: inc/customizer/options/blog.php:4329 inc/customizer/options/blog.php:4493
+#: inc/customizer/options/footer-copyright.php:202
+#: inc/customizer/options/footer-copyright.php:366
+#: inc/customizer/options/footer-widget.php:365
+#: inc/customizer/options/header.php:2883
+#: inc/customizer/options/header.php:3284
+#: inc/customizer/options/header.php:3690
+#: inc/customizer/options/header.php:5817
+#: inc/customizer/options/page-settings.php:963
+#: inc/customizer/options/page-settings.php:1154
+#: inc/customizer/options/page-settings.php:1482
+#: inc/customizer/options/sidebar.php:386
+#: inc/customizer/options/sidebar.php:551
+#: inc/customizer/options/styles-and-settings.php:1052
+#: inc/customizer/options/styles-and-settings.php:1742
+#: inc/customizer/options/styles-and-settings.php:1903
+#: inc/customizer/options/styles-and-settings.php:2064
+#: inc/customizer/options/topbar.php:668
+#: inc/customizer/options/typography.php:192
+#: inc/customizer/options/typography.php:356
+#: inc/customizer/options/typography.php:520
+#: inc/customizer/options/typography.php:685
+#: inc/customizer/options/typography.php:850
+#: inc/customizer/options/typography.php:1015
+#: inc/customizer/options/typography.php:1180
+#: inc/customizer/options/typography.php:1345
+#: inc/customizer/options/woocommerce.php:52
+#: inc/customizer/options/woocommerce.php:216
+#: inc/customizer/options/woocommerce.php:2795
+#: inc/customizer/options/woocommerce.php:2960
+#: inc/customizer/options/woocommerce.php:3125
+#: inc/customizer/options/woocommerce.php:3290
+#: inc/customizer/options/woocommerce.php:4481
+#: inc/customizer/options/woocommerce.php:5943
+#: inc/customizer/options/woocommerce.php:6108
+#: inc/customizer/options/woocommerce.php:6849
+#: inc/customizer/options/woocommerce.php:7222
+#: inc/customizer/assets/dist/index.js:1
+msgid "Font Family"
+msgstr "Kirjasinperhe"
+
+#: inc/customizer/options/typography.php:142
+msgid "Font Subsets"
+msgstr "Kirjasimen osajoukko"
+
+#: inc/customizer/options/options.php:14 inc/themepanel/views/panes/home.php:36
+#: inc/customizer/assets/dist/index.js:3
+msgid "Typography"
+msgstr "Typografia"
+
+#: inc/customizer/options/blog.php:1203 inc/customizer/options/blog.php:1211
+#: inc/customizer/options/blog.php:1218 inc/customizer/options/blog.php:1365
+#: inc/customizer/options/blog.php:1372 inc/customizer/options/blog.php:1379
+#: inc/customizer/options/blog.php:1526 inc/customizer/options/blog.php:1533
+#: inc/customizer/options/blog.php:1540 inc/customizer/options/blog.php:1687
+#: inc/customizer/options/blog.php:1694 inc/customizer/options/blog.php:1701
+#: inc/customizer/options/blog.php:3422 inc/customizer/options/blog.php:3429
+#: inc/customizer/options/blog.php:3436 inc/customizer/options/blog.php:3585
+#: inc/customizer/options/blog.php:3592 inc/customizer/options/blog.php:3599
+#: inc/customizer/options/blog.php:3749 inc/customizer/options/blog.php:3757
+#: inc/customizer/options/blog.php:3764 inc/customizer/options/blog.php:3914
+#: inc/customizer/options/blog.php:3922 inc/customizer/options/blog.php:3929
+#: inc/customizer/options/blog.php:4079 inc/customizer/options/blog.php:4087
+#: inc/customizer/options/blog.php:4094 inc/customizer/options/blog.php:4244
+#: inc/customizer/options/blog.php:4252 inc/customizer/options/blog.php:4259
+#: inc/customizer/options/blog.php:4423 inc/customizer/options/blog.php:4431
+#: inc/customizer/options/blog.php:4438 inc/customizer/options/blog.php:4587
+#: inc/customizer/options/blog.php:4595 inc/customizer/options/blog.php:4602
+#: inc/customizer/options/footer-copyright.php:295
+#: inc/customizer/options/footer-copyright.php:303
+#: inc/customizer/options/footer-copyright.php:310
+#: inc/customizer/options/footer-copyright.php:459
+#: inc/customizer/options/footer-copyright.php:467
+#: inc/customizer/options/footer-copyright.php:474
+#: inc/customizer/options/footer-widget.php:459
+#: inc/customizer/options/footer-widget.php:467
+#: inc/customizer/options/footer-widget.php:474
+#: inc/customizer/options/header.php:2977
+#: inc/customizer/options/header.php:2985
+#: inc/customizer/options/header.php:2992
+#: inc/customizer/options/header.php:3377
+#: inc/customizer/options/header.php:3384
+#: inc/customizer/options/header.php:3391
+#: inc/customizer/options/header.php:3785
+#: inc/customizer/options/header.php:3793
+#: inc/customizer/options/header.php:3800
+#: inc/customizer/options/header.php:5911
+#: inc/customizer/options/header.php:5919
+#: inc/customizer/options/header.php:5926
+#: inc/customizer/options/page-settings.php:1057
+#: inc/customizer/options/page-settings.php:1065
+#: inc/customizer/options/page-settings.php:1072
+#: inc/customizer/options/page-settings.php:1248
+#: inc/customizer/options/page-settings.php:1256
+#: inc/customizer/options/page-settings.php:1263
+#: inc/customizer/options/page-settings.php:1576
+#: inc/customizer/options/page-settings.php:1584
+#: inc/customizer/options/page-settings.php:1591
+#: inc/customizer/options/sidebar.php:481
+#: inc/customizer/options/sidebar.php:489
+#: inc/customizer/options/sidebar.php:496
+#: inc/customizer/options/sidebar.php:642
+#: inc/customizer/options/sidebar.php:649
+#: inc/customizer/options/sidebar.php:656
+#: inc/customizer/options/styles-and-settings.php:1144
+#: inc/customizer/options/styles-and-settings.php:1151
+#: inc/customizer/options/styles-and-settings.php:1158
+#: inc/customizer/options/styles-and-settings.php:1834
+#: inc/customizer/options/styles-and-settings.php:1841
+#: inc/customizer/options/styles-and-settings.php:1848
+#: inc/customizer/options/styles-and-settings.php:1995
+#: inc/customizer/options/styles-and-settings.php:2002
+#: inc/customizer/options/styles-and-settings.php:2009
+#: inc/customizer/options/styles-and-settings.php:2156
+#: inc/customizer/options/styles-and-settings.php:2163
+#: inc/customizer/options/styles-and-settings.php:2170
+#: inc/customizer/options/topbar.php:761 inc/customizer/options/topbar.php:769
+#: inc/customizer/options/topbar.php:776
+#: inc/customizer/options/typography.php:286
+#: inc/customizer/options/typography.php:294
+#: inc/customizer/options/typography.php:301
+#: inc/customizer/options/typography.php:449
+#: inc/customizer/options/typography.php:457
+#: inc/customizer/options/typography.php:464
+#: inc/customizer/options/typography.php:614
+#: inc/customizer/options/typography.php:622
+#: inc/customizer/options/typography.php:629
+#: inc/customizer/options/typography.php:779
+#: inc/customizer/options/typography.php:787
+#: inc/customizer/options/typography.php:794
+#: inc/customizer/options/typography.php:944
+#: inc/customizer/options/typography.php:952
+#: inc/customizer/options/typography.php:959
+#: inc/customizer/options/typography.php:1109
+#: inc/customizer/options/typography.php:1117
+#: inc/customizer/options/typography.php:1124
+#: inc/customizer/options/typography.php:1274
+#: inc/customizer/options/typography.php:1282
+#: inc/customizer/options/typography.php:1289
+#: inc/customizer/options/typography.php:1439
+#: inc/customizer/options/typography.php:1447
+#: inc/customizer/options/typography.php:1454
+#: inc/customizer/options/woocommerce.php:146
+#: inc/customizer/options/woocommerce.php:154
+#: inc/customizer/options/woocommerce.php:161
+#: inc/customizer/options/woocommerce.php:310
+#: inc/customizer/options/woocommerce.php:318
+#: inc/customizer/options/woocommerce.php:325
+#: inc/customizer/options/woocommerce.php:2890
+#: inc/customizer/options/woocommerce.php:2898
+#: inc/customizer/options/woocommerce.php:2905
+#: inc/customizer/options/woocommerce.php:3055
+#: inc/customizer/options/woocommerce.php:3063
+#: inc/customizer/options/woocommerce.php:3070
+#: inc/customizer/options/woocommerce.php:3220
+#: inc/customizer/options/woocommerce.php:3228
+#: inc/customizer/options/woocommerce.php:3235
+#: inc/customizer/options/woocommerce.php:3385
+#: inc/customizer/options/woocommerce.php:3393
+#: inc/customizer/options/woocommerce.php:3400
+#: inc/customizer/options/woocommerce.php:4577
+#: inc/customizer/options/woocommerce.php:4585
+#: inc/customizer/options/woocommerce.php:4592
+#: inc/customizer/options/woocommerce.php:6038
+#: inc/customizer/options/woocommerce.php:6046
+#: inc/customizer/options/woocommerce.php:6053
+#: inc/customizer/options/woocommerce.php:6203
+#: inc/customizer/options/woocommerce.php:6211
+#: inc/customizer/options/woocommerce.php:6218
+#: inc/customizer/options/woocommerce.php:6944
+#: inc/customizer/options/woocommerce.php:6952
+#: inc/customizer/options/woocommerce.php:6959
+#: inc/customizer/options/woocommerce.php:7318
+#: inc/customizer/options/woocommerce.php:7326
+#: inc/customizer/options/woocommerce.php:7333
+#: inc/customizer/assets/dist/index.js:1
+msgid "Line Height"
+msgstr "Rivikorkeus"
+
+#: inc/customizer/options/blog.php:611 inc/customizer/options/blog.php:612
+#: inc/customizer/options/blog.php:2833 inc/customizer/options/blog.php:2834
+#: inc/customizer/options/blog.php:3040 inc/customizer/options/blog.php:3041
+#: inc/customizer/options/edd.php:1944
+#: inc/customizer/options/page-settings.php:1896
+#: inc/customizer/options/page-settings.php:1917
+#: inc/customizer/options/page-settings.php:1936
+#: inc/customizer/options/styles-and-settings.php:968
+#: inc/customizer/options/styles-and-settings.php:1605
+#: inc/customizer/options/woocommerce.php:3876
+#: inc/customizer/options/woocommerce.php:6742
+msgid "None"
+msgstr "Ei mitään"
+
+#: inc/customizer/options/footer-copyright.php:356
+msgid "Footer Menu"
+msgstr "Alapalkin valikko"
+
+#: inc/customizer/options/options.php:59 inc/themepanel/views/panes/home.php:60
+msgid "Footer Copyright"
+msgstr "Alapalkin tekijänoikeusteksti"
+
+#: inc/customizer/options/blog.php:1232 inc/customizer/options/blog.php:1239
+#: inc/customizer/options/blog.php:1246 inc/customizer/options/blog.php:1393
+#: inc/customizer/options/blog.php:1400 inc/customizer/options/blog.php:1407
+#: inc/customizer/options/blog.php:1554 inc/customizer/options/blog.php:1561
+#: inc/customizer/options/blog.php:1568 inc/customizer/options/blog.php:1715
+#: inc/customizer/options/blog.php:1722 inc/customizer/options/blog.php:1729
+#: inc/customizer/options/blog.php:3450 inc/customizer/options/blog.php:3457
+#: inc/customizer/options/blog.php:3464 inc/customizer/options/blog.php:3613
+#: inc/customizer/options/blog.php:3620 inc/customizer/options/blog.php:3627
+#: inc/customizer/options/blog.php:3778 inc/customizer/options/blog.php:3785
+#: inc/customizer/options/blog.php:3792 inc/customizer/options/blog.php:3943
+#: inc/customizer/options/blog.php:3950 inc/customizer/options/blog.php:3957
+#: inc/customizer/options/blog.php:4108 inc/customizer/options/blog.php:4115
+#: inc/customizer/options/blog.php:4122 inc/customizer/options/blog.php:4273
+#: inc/customizer/options/blog.php:4280 inc/customizer/options/blog.php:4287
+#: inc/customizer/options/blog.php:4452 inc/customizer/options/blog.php:4459
+#: inc/customizer/options/blog.php:4466 inc/customizer/options/blog.php:4616
+#: inc/customizer/options/blog.php:4623 inc/customizer/options/blog.php:4630
+#: inc/customizer/options/footer-copyright.php:324
+#: inc/customizer/options/footer-copyright.php:331
+#: inc/customizer/options/footer-copyright.php:338
+#: inc/customizer/options/footer-copyright.php:488
+#: inc/customizer/options/footer-copyright.php:495
+#: inc/customizer/options/footer-copyright.php:502
+#: inc/customizer/options/footer-widget.php:488
+#: inc/customizer/options/footer-widget.php:495
+#: inc/customizer/options/footer-widget.php:502
+#: inc/customizer/options/header.php:3006
+#: inc/customizer/options/header.php:3013
+#: inc/customizer/options/header.php:3020
+#: inc/customizer/options/header.php:3405
+#: inc/customizer/options/header.php:3412
+#: inc/customizer/options/header.php:3419
+#: inc/customizer/options/header.php:3814
+#: inc/customizer/options/header.php:3821
+#: inc/customizer/options/header.php:3828
+#: inc/customizer/options/header.php:5940
+#: inc/customizer/options/header.php:5947
+#: inc/customizer/options/header.php:5954
+#: inc/customizer/options/page-settings.php:1086
+#: inc/customizer/options/page-settings.php:1093
+#: inc/customizer/options/page-settings.php:1100
+#: inc/customizer/options/page-settings.php:1277
+#: inc/customizer/options/page-settings.php:1284
+#: inc/customizer/options/page-settings.php:1291
+#: inc/customizer/options/page-settings.php:1605
+#: inc/customizer/options/page-settings.php:1612
+#: inc/customizer/options/page-settings.php:1619
+#: inc/customizer/options/sidebar.php:510
+#: inc/customizer/options/sidebar.php:517
+#: inc/customizer/options/sidebar.php:524
+#: inc/customizer/options/sidebar.php:670
+#: inc/customizer/options/sidebar.php:677
+#: inc/customizer/options/sidebar.php:684
+#: inc/customizer/options/styles-and-settings.php:1172
+#: inc/customizer/options/styles-and-settings.php:1179
+#: inc/customizer/options/styles-and-settings.php:1186
+#: inc/customizer/options/styles-and-settings.php:1862
+#: inc/customizer/options/styles-and-settings.php:1869
+#: inc/customizer/options/styles-and-settings.php:1876
+#: inc/customizer/options/styles-and-settings.php:2023
+#: inc/customizer/options/styles-and-settings.php:2030
+#: inc/customizer/options/styles-and-settings.php:2037
+#: inc/customizer/options/styles-and-settings.php:2184
+#: inc/customizer/options/styles-and-settings.php:2191
+#: inc/customizer/options/styles-and-settings.php:2198
+#: inc/customizer/options/topbar.php:790 inc/customizer/options/topbar.php:797
+#: inc/customizer/options/topbar.php:804
+#: inc/customizer/options/typography.php:315
+#: inc/customizer/options/typography.php:322
+#: inc/customizer/options/typography.php:329
+#: inc/customizer/options/typography.php:478
+#: inc/customizer/options/typography.php:485
+#: inc/customizer/options/typography.php:492
+#: inc/customizer/options/typography.php:643
+#: inc/customizer/options/typography.php:650
+#: inc/customizer/options/typography.php:657
+#: inc/customizer/options/typography.php:808
+#: inc/customizer/options/typography.php:815
+#: inc/customizer/options/typography.php:822
+#: inc/customizer/options/typography.php:973
+#: inc/customizer/options/typography.php:980
+#: inc/customizer/options/typography.php:987
+#: inc/customizer/options/typography.php:1138
+#: inc/customizer/options/typography.php:1145
+#: inc/customizer/options/typography.php:1152
+#: inc/customizer/options/typography.php:1303
+#: inc/customizer/options/typography.php:1310
+#: inc/customizer/options/typography.php:1317
+#: inc/customizer/options/typography.php:1468
+#: inc/customizer/options/typography.php:1475
+#: inc/customizer/options/typography.php:1482
+#: inc/customizer/options/woocommerce.php:175
+#: inc/customizer/options/woocommerce.php:182
+#: inc/customizer/options/woocommerce.php:189
+#: inc/customizer/options/woocommerce.php:339
+#: inc/customizer/options/woocommerce.php:346
+#: inc/customizer/options/woocommerce.php:353
+#: inc/customizer/options/woocommerce.php:2919
+#: inc/customizer/options/woocommerce.php:2926
+#: inc/customizer/options/woocommerce.php:2933
+#: inc/customizer/options/woocommerce.php:3084
+#: inc/customizer/options/woocommerce.php:3091
+#: inc/customizer/options/woocommerce.php:3098
+#: inc/customizer/options/woocommerce.php:3249
+#: inc/customizer/options/woocommerce.php:3256
+#: inc/customizer/options/woocommerce.php:3263
+#: inc/customizer/options/woocommerce.php:3414
+#: inc/customizer/options/woocommerce.php:3421
+#: inc/customizer/options/woocommerce.php:3428
+#: inc/customizer/options/woocommerce.php:4606
+#: inc/customizer/options/woocommerce.php:4614
+#: inc/customizer/options/woocommerce.php:4621
+#: inc/customizer/options/woocommerce.php:6067
+#: inc/customizer/options/woocommerce.php:6074
+#: inc/customizer/options/woocommerce.php:6081
+#: inc/customizer/options/woocommerce.php:6232
+#: inc/customizer/options/woocommerce.php:6239
+#: inc/customizer/options/woocommerce.php:6246
+#: inc/customizer/options/woocommerce.php:6973
+#: inc/customizer/options/woocommerce.php:6981
+#: inc/customizer/options/woocommerce.php:6988
+#: inc/customizer/options/woocommerce.php:7347
+#: inc/customizer/options/woocommerce.php:7355
+#: inc/customizer/options/woocommerce.php:7362
+#: inc/customizer/assets/dist/index.js:1
+msgid "Text Transform"
+msgstr "Tekstin muotoilu"
+
+#: inc/customizer/css-output/typography.php:146
+#: inc/customizer/options/typography.php:183
+msgid "Body"
+msgstr "Sisältö"
+
+#: inc/customizer/options/blog.php:1425 inc/customizer/options/blog.php:1854
+#: inc/customizer/options/footer-copyright.php:161
+#: inc/customizer/options/header.php:2469 inc/customizer/options/topbar.php:239
+#: inc/customizer/options/topbar.php:257 inc/helpers.php:3144
+#: inc/helpers.php:3237 inc/third/class-beaver-themer.php:127
+msgid "Content"
+msgstr "Sisältö"
+
+#: inc/customizer/options/header.php:1264
+#: inc/customizer/options/header.php:1265
+#: inc/customizer/options/header.php:5612
+#: inc/customizer/options/header.php:5613
+msgid "Link"
+msgstr "Linkki"
+
+#: inc/customizer/options/edd.php:172 inc/customizer/options/edd.php:173
+#: inc/customizer/options/edd.php:208 inc/customizer/options/header.php:1259
+#: inc/customizer/options/header.php:1260
+#: inc/customizer/options/header.php:5607
+#: inc/customizer/options/header.php:5608
+#: inc/customizer/options/page-settings.php:1771
+#: inc/customizer/options/page-settings.php:1772
+#: inc/customizer/options/styles-and-settings.php:2888
+#: inc/customizer/options/woocommerce.php:770
+#: inc/customizer/options/woocommerce.php:771
+#: inc/customizer/options/woocommerce.php:806
+msgid "Icon"
+msgstr "Kuvake"
+
+#: inc/customizer/options/blog.php:878 inc/customizer/options/blog.php:915
+#: inc/customizer/options/blog.php:1767 inc/customizer/options/blog.php:1804
+#: inc/customizer/options/blog.php:1891 inc/customizer/options/blog.php:1928
+#: inc/customizer/options/blog.php:1967 inc/customizer/options/blog.php:4774
+#: inc/customizer/options/blog.php:4906 inc/customizer/options/blog.php:4970
+#: inc/customizer/options/blog.php:5015 inc/customizer/options/colors.php:56
+#: inc/customizer/options/edd.php:373 inc/customizer/options/edd.php:414
+#: inc/customizer/options/edd.php:699 inc/customizer/options/edd.php:846
+#: inc/customizer/options/edd.php:883 inc/customizer/options/edd.php:1828
+#: inc/customizer/options/edd.php:1866 inc/customizer/options/edd.php:2053
+#: inc/customizer/options/edd.php:2089 inc/customizer/options/edd.php:2127
+#: inc/customizer/options/edd.php:2736
+#: inc/customizer/options/footer-copyright.php:596
+#: inc/customizer/options/footer-widget.php:650
+#: inc/customizer/options/header.php:1593
+#: inc/customizer/options/header.php:1722
+#: inc/customizer/options/header.php:1760
+#: inc/customizer/options/header.php:1864
+#: inc/customizer/options/header.php:2069
+#: inc/customizer/options/header.php:2208
+#: inc/customizer/options/header.php:2247
+#: inc/customizer/options/header.php:2376
+#: inc/customizer/options/header.php:2425
+#: inc/customizer/options/header.php:3059
+#: inc/customizer/options/header.php:3182
+#: inc/customizer/options/header.php:3210
+#: inc/customizer/options/header.php:3457
+#: inc/customizer/options/header.php:3497
+#: inc/customizer/options/header.php:3962
+#: inc/customizer/options/header.php:4158
+#: inc/customizer/options/header.php:4338
+#: inc/customizer/options/header.php:4485
+#: inc/customizer/options/header.php:5019
+#: inc/customizer/options/header.php:5056
+#: inc/customizer/options/header.php:6083
+#: inc/customizer/options/header.php:6220
+#: inc/customizer/options/header.php:6259
+#: inc/customizer/options/header.php:6286
+#: inc/customizer/options/header.php:6350
+#: inc/customizer/options/learndash.php:631
+#: inc/customizer/options/lifterlms.php:1194
+#: inc/customizer/options/lifterlms.php:1376
+#: inc/customizer/options/page-settings.php:1686
+#: inc/customizer/options/styles-and-settings.php:1225
+#: inc/customizer/options/styles-and-settings.php:1264
+#: inc/customizer/options/styles-and-settings.php:1303
+#: inc/customizer/options/styles-and-settings.php:2237
+#: inc/customizer/options/styles-and-settings.php:2263
+#: inc/customizer/options/styles-and-settings.php:2290
+#: inc/customizer/options/styles-and-settings.php:2316
+#: inc/customizer/options/styles-and-settings.php:2343
+#: inc/customizer/options/styles-and-settings.php:2862
+#: inc/customizer/options/styles-and-settings.php:2902
+#: inc/customizer/options/styles-and-settings.php:3240
+#: inc/customizer/options/styles-and-settings.php:3278
+#: inc/customizer/options/styles-and-settings.php:3319
+#: inc/customizer/options/topbar.php:538 inc/customizer/options/topbar.php:925
+#: inc/customizer/options/woocommerce.php:468
+#: inc/customizer/options/woocommerce.php:970
+#: inc/customizer/options/woocommerce.php:1011
+#: inc/customizer/options/woocommerce.php:1244
+#: inc/customizer/options/woocommerce.php:1283
+#: inc/customizer/options/woocommerce.php:1457
+#: inc/customizer/options/woocommerce.php:1494
+#: inc/customizer/options/woocommerce.php:1531
+#: inc/customizer/options/woocommerce.php:1568
+#: inc/customizer/options/woocommerce.php:1605
+#: inc/customizer/options/woocommerce.php:1642
+#: inc/customizer/options/woocommerce.php:3514
+#: inc/customizer/options/woocommerce.php:3551
+#: inc/customizer/options/woocommerce.php:3641
+#: inc/customizer/options/woocommerce.php:4124
+#: inc/customizer/options/woocommerce.php:4162
+#: inc/customizer/options/woocommerce.php:4746
+#: inc/customizer/options/woocommerce.php:5016
+#: inc/customizer/options/woocommerce.php:5055
+#: inc/customizer/options/woocommerce.php:5151
+#: inc/customizer/options/woocommerce.php:5331
+#: inc/customizer/options/woocommerce.php:5368
+#: inc/customizer/options/woocommerce.php:5702
+#: inc/customizer/options/woocommerce.php:5739
+#: inc/customizer/options/woocommerce.php:5779
+#: inc/customizer/options/woocommerce.php:6464
+#: inc/customizer/options/woocommerce.php:6554
+#: inc/customizer/options/woocommerce.php:6699
+#: inc/customizer/options/woocommerce.php:6700
+#: inc/customizer/options/woocommerce.php:7025
+#: inc/customizer/options/woocommerce.php:7061
+#: inc/customizer/options/woocommerce.php:7097
+#: inc/customizer/options/woocommerce.php:7400
+#: inc/customizer/options/woocommerce.php:7549
+#: inc/customizer/options/woocommerce.php:8027
+#: inc/customizer/options/woocommerce.php:8066
+#: inc/customizer/options/woocommerce.php:8168
+#: inc/customizer/options/woocommerce.php:8207
+#: inc/customizer/options/woocommerce.php:8522
+#: inc/customizer/options/woocommerce.php:8976
+#: inc/customizer/options/woocommerce.php:9537
+#: inc/customizer/options/woocommerce.php:9688
+#: inc/customizer/options/woocommerce.php:9726
+#: inc/customizer/assets/dist/index.js:1
+msgid "Normal"
+msgstr "Normaali"
+
+#: inc/customizer/options/header.php:4248
+#: inc/customizer/options/header.php:5321
+#: inc/customizer/options/header.php:5322
+#: inc/customizer/options/performance.php:61
+#: inc/customizer/options/performance.php:62
+#: inc/customizer/options/performance.php:95
+#: inc/customizer/options/performance.php:96
+#: inc/customizer/options/performance.php:129
+#: inc/customizer/options/performance.php:130
+#: inc/customizer/options/performance.php:163
+#: inc/customizer/options/performance.php:164
+#: inc/customizer/options/performance.php:197
+#: inc/customizer/options/performance.php:198
+#: inc/customizer/options/performance.php:232
+#: inc/customizer/options/performance.php:233
+#: inc/customizer/options/performance.php:268
+#: inc/customizer/options/performance.php:269
+#: inc/customizer/options/performance.php:302
+#: inc/customizer/options/performance.php:303
+msgid "Disabled"
+msgstr "Pois käytöstä"
+
+#: inc/customizer/options/header.php:45
+msgid "Transparent"
+msgstr "Läpinäkyvä"
+
+#: inc/customizer/options/blog.php:2807 inc/customizer/options/blog.php:2808
+#: inc/customizer/options/header.php:41 inc/customizer/options/header.php:4710
+#: inc/customizer/options/header.php:4711
+msgid "Minimal"
+msgstr "Minimaalinen"
+
+#: inc/customizer/options/edd.php:25 inc/customizer/options/header.php:25
+#: inc/customizer/options/topbar.php:78
+#: inc/customizer/options/woocommerce.php:514
+msgid "General"
+msgstr "Yleinen"
+
+#: inc/customizer/options/options.php:39 inc/themepanel/views/panes/home.php:48
+#: inc/third/class-beaver-themer.php:109
+msgid "Header"
+msgstr "Otsake"
+
+#: inc/customizer/options/woocommerce.php:5197
+msgid "Pagination"
+msgstr "Sivutus"
+
+#: inc/customizer/options/woocommerce.php:1231
+msgid "Link Color"
+msgstr "Linkin väri"
+
+#: inc/customizer/options/page-settings.php:1456
+msgid "Under Title"
+msgstr "Otsikon alla"
+
+#: inc/customizer/options/blog.php:1116 inc/customizer/options/blog.php:1123
+#: inc/customizer/options/blog.php:1130 inc/customizer/options/blog.php:1280
+#: inc/customizer/options/blog.php:1287 inc/customizer/options/blog.php:1294
+#: inc/customizer/options/blog.php:1441 inc/customizer/options/blog.php:1448
+#: inc/customizer/options/blog.php:1455 inc/customizer/options/blog.php:1602
+#: inc/customizer/options/blog.php:1609 inc/customizer/options/blog.php:1616
+#: inc/customizer/options/blog.php:3336 inc/customizer/options/blog.php:3343
+#: inc/customizer/options/blog.php:3350 inc/customizer/options/blog.php:3499
+#: inc/customizer/options/blog.php:3506 inc/customizer/options/blog.php:3513
+#: inc/customizer/options/blog.php:3662 inc/customizer/options/blog.php:3669
+#: inc/customizer/options/blog.php:3676 inc/customizer/options/blog.php:3827
+#: inc/customizer/options/blog.php:3834 inc/customizer/options/blog.php:3841
+#: inc/customizer/options/blog.php:3992 inc/customizer/options/blog.php:3999
+#: inc/customizer/options/blog.php:4006 inc/customizer/options/blog.php:4157
+#: inc/customizer/options/blog.php:4164 inc/customizer/options/blog.php:4171
+#: inc/customizer/options/blog.php:4336 inc/customizer/options/blog.php:4343
+#: inc/customizer/options/blog.php:4350 inc/customizer/options/blog.php:4500
+#: inc/customizer/options/blog.php:4507 inc/customizer/options/blog.php:4514
+#: inc/customizer/options/footer-copyright.php:209
+#: inc/customizer/options/footer-copyright.php:216
+#: inc/customizer/options/footer-copyright.php:223
+#: inc/customizer/options/footer-copyright.php:373
+#: inc/customizer/options/footer-copyright.php:380
+#: inc/customizer/options/footer-copyright.php:387
+#: inc/customizer/options/footer-widget.php:372
+#: inc/customizer/options/footer-widget.php:379
+#: inc/customizer/options/footer-widget.php:386
+#: inc/customizer/options/header.php:2890
+#: inc/customizer/options/header.php:2897
+#: inc/customizer/options/header.php:2904
+#: inc/customizer/options/header.php:3291
+#: inc/customizer/options/header.php:3298
+#: inc/customizer/options/header.php:3305
+#: inc/customizer/options/header.php:3697
+#: inc/customizer/options/header.php:3704
+#: inc/customizer/options/header.php:3711
+#: inc/customizer/options/header.php:5824
+#: inc/customizer/options/header.php:5831
+#: inc/customizer/options/header.php:5838
+#: inc/customizer/options/page-settings.php:970
+#: inc/customizer/options/page-settings.php:977
+#: inc/customizer/options/page-settings.php:984
+#: inc/customizer/options/page-settings.php:1161
+#: inc/customizer/options/page-settings.php:1168
+#: inc/customizer/options/page-settings.php:1175
+#: inc/customizer/options/page-settings.php:1489
+#: inc/customizer/options/page-settings.php:1496
+#: inc/customizer/options/page-settings.php:1503
+#: inc/customizer/options/sidebar.php:393
+#: inc/customizer/options/sidebar.php:400
+#: inc/customizer/options/sidebar.php:407
+#: inc/customizer/options/sidebar.php:558
+#: inc/customizer/options/sidebar.php:565
+#: inc/customizer/options/sidebar.php:572
+#: inc/customizer/options/styles-and-settings.php:1059
+#: inc/customizer/options/styles-and-settings.php:1066
+#: inc/customizer/options/styles-and-settings.php:1073
+#: inc/customizer/options/styles-and-settings.php:1749
+#: inc/customizer/options/styles-and-settings.php:1756
+#: inc/customizer/options/styles-and-settings.php:1763
+#: inc/customizer/options/styles-and-settings.php:1910
+#: inc/customizer/options/styles-and-settings.php:1917
+#: inc/customizer/options/styles-and-settings.php:1924
+#: inc/customizer/options/styles-and-settings.php:2071
+#: inc/customizer/options/styles-and-settings.php:2078
+#: inc/customizer/options/styles-and-settings.php:2085
+#: inc/customizer/options/topbar.php:675 inc/customizer/options/topbar.php:682
+#: inc/customizer/options/topbar.php:689
+#: inc/customizer/options/typography.php:199
+#: inc/customizer/options/typography.php:206
+#: inc/customizer/options/typography.php:213
+#: inc/customizer/options/typography.php:363
+#: inc/customizer/options/typography.php:370
+#: inc/customizer/options/typography.php:377
+#: inc/customizer/options/typography.php:527
+#: inc/customizer/options/typography.php:534
+#: inc/customizer/options/typography.php:541
+#: inc/customizer/options/typography.php:692
+#: inc/customizer/options/typography.php:699
+#: inc/customizer/options/typography.php:706
+#: inc/customizer/options/typography.php:857
+#: inc/customizer/options/typography.php:864
+#: inc/customizer/options/typography.php:871
+#: inc/customizer/options/typography.php:1022
+#: inc/customizer/options/typography.php:1029
+#: inc/customizer/options/typography.php:1036
+#: inc/customizer/options/typography.php:1187
+#: inc/customizer/options/typography.php:1194
+#: inc/customizer/options/typography.php:1201
+#: inc/customizer/options/typography.php:1352
+#: inc/customizer/options/typography.php:1359
+#: inc/customizer/options/typography.php:1366
+#: inc/customizer/options/woocommerce.php:59
+#: inc/customizer/options/woocommerce.php:66
+#: inc/customizer/options/woocommerce.php:73
+#: inc/customizer/options/woocommerce.php:223
+#: inc/customizer/options/woocommerce.php:230
+#: inc/customizer/options/woocommerce.php:237
+#: inc/customizer/options/woocommerce.php:2802
+#: inc/customizer/options/woocommerce.php:2809
+#: inc/customizer/options/woocommerce.php:2816
+#: inc/customizer/options/woocommerce.php:2967
+#: inc/customizer/options/woocommerce.php:2974
+#: inc/customizer/options/woocommerce.php:2981
+#: inc/customizer/options/woocommerce.php:3132
+#: inc/customizer/options/woocommerce.php:3139
+#: inc/customizer/options/woocommerce.php:3146
+#: inc/customizer/options/woocommerce.php:3297
+#: inc/customizer/options/woocommerce.php:3304
+#: inc/customizer/options/woocommerce.php:3311
+#: inc/customizer/options/woocommerce.php:4488
+#: inc/customizer/options/woocommerce.php:4496
+#: inc/customizer/options/woocommerce.php:4503
+#: inc/customizer/options/woocommerce.php:5950
+#: inc/customizer/options/woocommerce.php:5957
+#: inc/customizer/options/woocommerce.php:5964
+#: inc/customizer/options/woocommerce.php:6115
+#: inc/customizer/options/woocommerce.php:6122
+#: inc/customizer/options/woocommerce.php:6129
+#: inc/customizer/options/woocommerce.php:6856
+#: inc/customizer/options/woocommerce.php:6863
+#: inc/customizer/options/woocommerce.php:6870
+#: inc/customizer/options/woocommerce.php:7229
+#: inc/customizer/options/woocommerce.php:7237
+#: inc/customizer/options/woocommerce.php:7244
+#: inc/customizer/assets/dist/index.js:1
+msgid "Font Weight"
+msgstr "Kirjasimen paksuus"
+
+#: inc/customizer/options/header.php:5746 inc/helpers.php:4157
+#: partials/mobile/mobile-sidr-close.php:31
+msgid "Close Menu"
+msgstr "Sulje valikko"
+
+#: inc/customizer/options/header.php:4715
+#: inc/customizer/options/header.php:4716
+msgid "Dark"
+msgstr "Tumma"
+
+#: inc/customizer/options/header.php:4700
+#: inc/customizer/options/header.php:4701
+msgid "Simple"
+msgstr "Yksinkertainen"
+
+#: inc/customizer/options/header.php:4249
+msgid "Drop Down"
+msgstr "Alasvetovalikko"
+
+#: inc/customizer/options/page-settings.php:1472
+msgid "Breadcrumbs"
+msgstr "Navigaatiopolku"
+
+#: inc/customizer/options/edd.php:1160
+#: inc/customizer/options/page-settings.php:610
+#: inc/customizer/options/styles-and-settings.php:339
+#: inc/customizer/options/woocommerce.php:2293
+msgid "Image"
+msgstr "Kuva"
+
+#: inc/customizer/options/blog.php:447 inc/customizer/options/blog.php:448
+#: inc/customizer/options/blog.php:2438 inc/customizer/options/blog.php:2439
+#: inc/customizer/options/edd.php:1196 inc/customizer/options/edd.php:1197
+#: inc/customizer/options/header.php:804 inc/customizer/options/header.php:805
+#: inc/customizer/options/header.php:1192
+#: inc/customizer/options/header.php:1193
+#: inc/customizer/options/header.php:3131
+#: inc/customizer/options/header.php:3132
+#: inc/customizer/options/page-settings.php:583
+#: inc/customizer/options/page-settings.php:584
+#: inc/customizer/options/styles-and-settings.php:2975
+#: inc/customizer/options/styles-and-settings.php:2976
+#: inc/customizer/options/woocommerce.php:2233
+#: inc/customizer/options/woocommerce.php:2234
+#: inc/customizer/options/woocommerce.php:7489
+#: inc/customizer/options/woocommerce.php:7490
+msgid "Center"
+msgstr "Keskitetty"
+
+#: inc/customizer/options/styles-and-settings.php:969
+#: inc/customizer/options/styles-and-settings.php:1606
+msgid "Hidden"
+msgstr "Piilotettu"
+
+#: inc/customizer/options/page-settings.php:421
+msgid "Centered Minimal"
+msgstr "Keskitetty minimaalinen"
+
+#: inc/customizer/options/header.php:613 inc/customizer/options/header.php:614
+#: inc/customizer/options/page-settings.php:417
+msgid "Centered"
+msgstr "Keskitetty"
+
+#: inc/customizer/options/edd.php:462 inc/customizer/options/edd.php:508
+#: inc/customizer/options/page-settings.php:402
+#: inc/customizer/options/woocommerce.php:1060
+#: inc/customizer/options/woocommerce.php:1107
+msgid "Style"
+msgstr "Tyyli"
+
+#: inc/customizer/options/blog.php:3319
+#: inc/customizer/options/page-settings.php:300
+#: inc/customizer/options/page-settings.php:310
+msgid "Page Title"
+msgstr "Sivun otsikko"
+
+#: inc/themepanel/includes/plugins-compatibility.php:179
+msgid "Custom Sidebar"
+msgstr "Mukautettu sivuvalikko"
+
+#: inc/customizer/options/page-settings.php:49
+msgid "Content Padding (px)"
+msgstr "Sisällön reunatäyte (px)"
+
+#: inc/customizer/options/styles-and-settings.php:160
+msgid "Sidebar Width (%)"
+msgstr "Sivupalkin leveys (%)"
+
+#: inc/customizer/options/styles-and-settings.php:134
+msgid "Content Width (%)"
+msgstr "Sisällön leveys (%)"
+
+#: inc/customizer/options/styles-and-settings.php:40
+msgid "Wide"
+msgstr "Leveä"
+
+#: inc/customizer/options/footer-widget.php:306
+#: inc/customizer/options/footer-widget.php:307
+#: inc/customizer/options/footer-widget.php:332
+#: inc/customizer/options/footer-widget.php:333
+#: inc/customizer/options/page-settings.php:2466
+#: inc/customizer/options/page-settings.php:2467
+msgid "On"
+msgstr "Käytössä"
+
+#: inc/customizer/options/blog.php:2516 inc/customizer/options/header.php:2592
+#: inc/customizer/options/page-settings.php:679
+#: inc/customizer/options/styles-and-settings.php:366
+msgid "Center Left"
+msgstr "Keskiosan vasemmalla"
+
+#: inc/customizer/options/blog.php:2515 inc/customizer/options/header.php:2591
+#: inc/customizer/options/page-settings.php:678
+#: inc/customizer/options/styles-and-settings.php:365
+msgid "Top Right"
+msgstr "Yläoikea"
+
+#: inc/customizer/options/blog.php:2514 inc/customizer/options/header.php:2590
+#: inc/customizer/options/page-settings.php:677
+#: inc/customizer/options/styles-and-settings.php:364
+msgid "Top Center"
+msgstr "Yläosan keskellä"
+
+#: inc/customizer/options/blog.php:2513 inc/customizer/options/header.php:2589
+#: inc/customizer/options/page-settings.php:676
+#: inc/customizer/options/styles-and-settings.php:363
+msgid "Top Left"
+msgstr "Ylävasen"
+
+#: inc/customizer/options/blog.php:2501 inc/customizer/options/header.php:1013
+#: inc/customizer/options/header.php:2579
+#: inc/customizer/options/page-settings.php:665
+#: inc/customizer/options/page-settings.php:1445
+#: inc/customizer/options/styles-and-settings.php:352
+#: inc/customizer/options/styles-and-settings.php:2626
+#: inc/customizer/options/styles-and-settings.php:2959
+msgid "Position"
+msgstr "Sijainti"
+
+#: inc/customizer/options/blog.php:2325 inc/customizer/options/blog.php:2619
+#: inc/customizer/options/blog.php:2620 inc/customizer/options/header.php:2691
+#: inc/customizer/options/page-settings.php:782
+#: inc/customizer/options/page-settings.php:783
+#: inc/customizer/options/styles-and-settings.php:467
+#: inc/customizer/options/styles-and-settings.php:468
+msgid "Cover"
+msgstr "Kansi"
+
+#: inc/customizer/options/blog.php:2614 inc/customizer/options/blog.php:2615
+#: inc/customizer/options/header.php:2686
+#: inc/customizer/options/page-settings.php:777
+#: inc/customizer/options/page-settings.php:778
+#: inc/customizer/options/styles-and-settings.php:462
+#: inc/customizer/options/styles-and-settings.php:463
+msgid "Auto"
+msgstr "Automaattinen"
+
+#: inc/customizer/options/blog.php:2597 inc/customizer/options/header.php:2669
+#: inc/customizer/options/page-settings.php:760
+#: inc/customizer/options/styles-and-settings.php:445
+msgid "Size"
+msgstr "Koko"
+
+#: inc/customizer/options/blog.php:2548 inc/customizer/options/header.php:2622
+#: inc/customizer/options/page-settings.php:712
+#: inc/customizer/options/styles-and-settings.php:397
+msgid "Repeat-y"
+msgstr "Toisto-y"
+
+#: inc/customizer/options/blog.php:2547 inc/customizer/options/header.php:2621
+#: inc/customizer/options/page-settings.php:711
+#: inc/customizer/options/styles-and-settings.php:396
+msgid "Repeat-x"
+msgstr "Toisto-x"
+
+#: inc/customizer/options/blog.php:2545 inc/customizer/options/header.php:2619
+#: inc/customizer/options/page-settings.php:709
+#: inc/customizer/options/styles-and-settings.php:394
+msgid "No-repeat"
+msgstr "Ei toistoa"
+
+#: inc/customizer/options/blog.php:2533 inc/customizer/options/blog.php:2546
+#: inc/customizer/options/header.php:2609
+#: inc/customizer/options/header.php:2620
+#: inc/customizer/options/page-settings.php:696
+#: inc/customizer/options/page-settings.php:710
+#: inc/customizer/options/styles-and-settings.php:383
+#: inc/customizer/options/styles-and-settings.php:395
+msgid "Repeat"
+msgstr "Toisto"
+
+#: inc/customizer/options/blog.php:2583 inc/customizer/options/blog.php:2584
+#: inc/customizer/options/header.php:2655
+#: inc/customizer/options/page-settings.php:746
+#: inc/customizer/options/page-settings.php:747
+#: inc/customizer/options/styles-and-settings.php:431
+#: inc/customizer/options/styles-and-settings.php:432
+msgid "Fixed"
+msgstr "Kiinteä"
+
+#: inc/customizer/options/blog.php:2578 inc/customizer/options/blog.php:2579
+#: inc/customizer/options/header.php:2650
+#: inc/customizer/options/page-settings.php:741
+#: inc/customizer/options/page-settings.php:742
+#: inc/customizer/options/styles-and-settings.php:426
+#: inc/customizer/options/styles-and-settings.php:427
+msgid "Scroll"
+msgstr "Vieritys"
+
+#: inc/customizer/options/blog.php:2560 inc/customizer/options/header.php:2634
+#: inc/customizer/options/page-settings.php:724
+#: inc/customizer/options/styles-and-settings.php:409
+msgid "Attachment"
+msgstr "Liite"
+
+#: inc/customizer/options/blog.php:2521 inc/customizer/options/header.php:2597
+#: inc/customizer/options/page-settings.php:684
+#: inc/customizer/options/styles-and-settings.php:371
+msgid "Bottom Right"
+msgstr "Alaoikea"
+
+#: inc/customizer/options/blog.php:2520 inc/customizer/options/header.php:2596
+#: inc/customizer/options/page-settings.php:683
+#: inc/customizer/options/styles-and-settings.php:370
+msgid "Bottom Center"
+msgstr "Alaosan keskellä"
+
+#: inc/customizer/options/blog.php:2519 inc/customizer/options/header.php:2595
+#: inc/customizer/options/page-settings.php:682
+#: inc/customizer/options/styles-and-settings.php:369
+msgid "Bottom Left"
+msgstr "Alavasen"
+
+#: inc/customizer/options/blog.php:2518 inc/customizer/options/header.php:2594
+#: inc/customizer/options/page-settings.php:681
+#: inc/customizer/options/styles-and-settings.php:368
+msgid "Center Right"
+msgstr "Keskiosan oikealla"
+
+#: inc/customizer/options/blog.php:2517 inc/customizer/options/header.php:2593
+#: inc/customizer/options/page-settings.php:680
+#: inc/customizer/options/styles-and-settings.php:367
+msgid "Center Center"
+msgstr "Keskiosan keskellä"
+
+#: inc/customizer/options/blog.php:2382 inc/customizer/options/blog.php:2383
+msgid "Post Title"
+msgstr "Artikkelin otsikko"
+
+#: inc/customizer/options/edd.php:945 inc/customizer/options/edd.php:2202
+#: inc/customizer/options/learndash.php:51
+#: inc/customizer/options/learndash.php:75
+#: inc/customizer/options/learndash.php:236
+#: inc/customizer/options/learndash.php:397
+#: inc/customizer/options/lifterlms.php:189
+#: inc/customizer/options/lifterlms.php:213
+#: inc/customizer/options/lifterlms.php:374
+#: inc/customizer/options/lifterlms.php:535
+#: inc/customizer/options/page-settings.php:2086
+#: inc/customizer/options/page-settings.php:2390
+#: inc/customizer/options/woocommerce.php:1899
+#: inc/customizer/options/woocommerce.php:5466
+#: inc/third/class-lifterlms.php:304 inc/customizer/assets/dist/index.js:5
+msgid "Layout"
+msgstr "Asettelu"
+
+#: inc/customizer/options/blog.php:2049
+msgid "Single Post"
+msgstr "Yksittäinen artikkeli"
+
+#: inc/customizer/options/blog.php:567 inc/customizer/options/blog.php:2880
+#: inc/customizer/options/blog.php:2996 inc/helpers.php:3243
+msgid "Comments"
+msgstr "Kommentit"
+
+#: inc/customizer/options/blog.php:566 inc/customizer/options/blog.php:2879
+#: inc/customizer/options/blog.php:2995
+msgid "Categories"
+msgstr "Kategoriat"
+
+#: inc/customizer/options/blog.php:565 inc/customizer/options/blog.php:1993
+#: inc/customizer/options/blog.php:2878 inc/customizer/options/blog.php:2994
+#: inc/customizer/options/blog.php:3131 inc/customizer/options/blog.php:3132
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: inc/customizer/options/blog.php:564 inc/customizer/options/blog.php:2877
+#: inc/customizer/options/blog.php:2993
+#: inc/customizer/options/lifterlms.php:153
+msgid "Author"
+msgstr "Kirjoittaja"
+
+#: inc/customizer/options/blog.php:1264 inc/customizer/options/blog.php:1792
+#: inc/customizer/options/lifterlms.php:152 inc/helpers.php:3143
+#: inc/helpers.php:3236
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer/options/blog.php:267
+#: inc/customizer/options/woocommerce.php:2065
+#: inc/customizer/options/woocommerce.php:2066
+msgid "Grid"
+msgstr "Ruudukko"
+
+#: inc/customizer/options/blog.php:245 inc/customizer/options/blog.php:255
+msgid "Blog Style"
+msgstr "Blogin tyyli"
+
+#: inc/customizer/options/blog.php:2377 inc/customizer/options/blog.php:2378
+#: inc/customizer/options/options.php:44 inc/helpers.php:2201
+msgid "Blog"
+msgstr "Blogi"
+
+#: inc/customizer/helpers.php:186 inc/customizer/options/blog.php:596
+#: inc/customizer/options/blog.php:597 inc/customizer/options/blog.php:2317
+#: inc/customizer/options/blog.php:2512 inc/customizer/options/blog.php:2544
+#: inc/customizer/options/blog.php:2573 inc/customizer/options/blog.php:2574
+#: inc/customizer/options/blog.php:2609 inc/customizer/options/blog.php:2610
+#: inc/customizer/options/blog.php:3025 inc/customizer/options/blog.php:3026
+#: inc/customizer/options/header.php:2588
+#: inc/customizer/options/header.php:2618
+#: inc/customizer/options/header.php:2645
+#: inc/customizer/options/header.php:2681
+#: inc/customizer/options/page-settings.php:413
+#: inc/customizer/options/page-settings.php:675
+#: inc/customizer/options/page-settings.php:708
+#: inc/customizer/options/page-settings.php:772
+#: inc/customizer/options/page-settings.php:773
+#: inc/customizer/options/styles-and-settings.php:362
+#: inc/customizer/options/styles-and-settings.php:393
+#: inc/customizer/options/styles-and-settings.php:457
+#: inc/customizer/options/styles-and-settings.php:458
+#: inc/customizer/options/woocommerce.php:591
+#: inc/customizer/options/woocommerce.php:592
+#: inc/customizer/options/woocommerce.php:2175
+#: inc/customizer/options/woocommerce.php:2176
+#: inc/third/class-lifterlms.php:307 inc/customizer/assets/dist/index.js:1
+msgid "Default"
+msgstr "Oletus"
+
+#: inc/customizer/options/blog.php:51 inc/customizer/options/blog.php:2077
+#: inc/customizer/options/edd.php:966 inc/customizer/options/edd.php:2223
+#: inc/customizer/options/learndash.php:96
+#: inc/customizer/options/learndash.php:257
+#: inc/customizer/options/learndash.php:418
+#: inc/customizer/options/lifterlms.php:234
+#: inc/customizer/options/lifterlms.php:395
+#: inc/customizer/options/lifterlms.php:556
+#: inc/customizer/options/page-settings.php:37
+#: inc/customizer/options/page-settings.php:2107
+#: inc/customizer/options/page-settings.php:2411
+#: inc/customizer/options/woocommerce.php:1920
+#: inc/customizer/options/woocommerce.php:5487
+msgid "100% Full Width"
+msgstr "100 % täysi leveys"
+
+#: inc/customizer/options/blog.php:47 inc/customizer/options/blog.php:2073
+#: inc/customizer/options/edd.php:962 inc/customizer/options/edd.php:2219
+#: inc/customizer/options/header.php:306
+#: inc/customizer/options/learndash.php:92
+#: inc/customizer/options/learndash.php:253
+#: inc/customizer/options/learndash.php:414
+#: inc/customizer/options/lifterlms.php:230
+#: inc/customizer/options/lifterlms.php:391
+#: inc/customizer/options/lifterlms.php:552
+#: inc/customizer/options/page-settings.php:33
+#: inc/customizer/options/page-settings.php:2103
+#: inc/customizer/options/page-settings.php:2407
+#: inc/customizer/options/woocommerce.php:1916
+#: inc/customizer/options/woocommerce.php:5483
+#: inc/third/class-lifterlms.php:310
+msgid "Full Width"
+msgstr "Täysi leveys"
+
+#: functions.php:781 inc/customizer/options/blog.php:43
+#: inc/customizer/options/blog.php:2069 inc/customizer/options/edd.php:958
+#: inc/customizer/options/edd.php:2215 inc/customizer/options/learndash.php:88
+#: inc/customizer/options/learndash.php:249
+#: inc/customizer/options/learndash.php:410
+#: inc/customizer/options/lifterlms.php:226
+#: inc/customizer/options/lifterlms.php:387
+#: inc/customizer/options/lifterlms.php:548
+#: inc/customizer/options/page-settings.php:29
+#: inc/customizer/options/page-settings.php:2099
+#: inc/customizer/options/page-settings.php:2403
+#: inc/customizer/options/woocommerce.php:1912
+#: inc/customizer/options/woocommerce.php:5479
+#: inc/third/class-lifterlms.php:309
+msgid "Left Sidebar"
+msgstr "Vasen sivupalkki"
+
+#: inc/customizer/options/blog.php:39 inc/customizer/options/blog.php:2065
+#: inc/customizer/options/edd.php:954 inc/customizer/options/edd.php:2211
+#: inc/customizer/options/learndash.php:84
+#: inc/customizer/options/learndash.php:245
+#: inc/customizer/options/learndash.php:406
+#: inc/customizer/options/lifterlms.php:222
+#: inc/customizer/options/lifterlms.php:383
+#: inc/customizer/options/lifterlms.php:544
+#: inc/customizer/options/page-settings.php:25
+#: inc/customizer/options/page-settings.php:2095
+#: inc/customizer/options/page-settings.php:2399
+#: inc/customizer/options/woocommerce.php:1908
+#: inc/customizer/options/woocommerce.php:5475
+#: inc/third/class-lifterlms.php:308
+msgid "Right Sidebar"
+msgstr "Oikea sivupalkki"
+
+#: inc/customizer/controls-deprecated.php:268 inc/customizer/helpers.php:197
+msgid "Select"
+msgstr "Valitse"
+
+#: inc/customizer/helpers.php:151 inc/customizer/options/blog.php:417
+#: inc/customizer/options/blog.php:418 inc/customizer/options/blog.php:2433
+#: inc/customizer/options/blog.php:2434 inc/customizer/options/edd.php:1191
+#: inc/customizer/options/edd.php:1192 inc/customizer/options/edd.php:1382
+#: inc/customizer/options/edd.php:1410 inc/customizer/options/edd.php:1438
+#: inc/customizer/options/edd.php:1484 inc/customizer/options/edd.php:1512
+#: inc/customizer/options/edd.php:1540 inc/customizer/options/edd.php:1586
+#: inc/customizer/options/edd.php:1614 inc/customizer/options/edd.php:1642
+#: inc/customizer/options/edd.php:1688 inc/customizer/options/edd.php:1716
+#: inc/customizer/options/edd.php:1744
+#: inc/customizer/options/footer-copyright.php:89
+#: inc/customizer/options/footer-copyright.php:118
+#: inc/customizer/options/footer-copyright.php:146
+#: inc/customizer/options/footer-widget.php:102
+#: inc/customizer/options/footer-widget.php:131
+#: inc/customizer/options/footer-widget.php:159
+#: inc/customizer/options/header.php:225 inc/customizer/options/header.php:254
+#: inc/customizer/options/header.php:282 inc/customizer/options/header.php:707
+#: inc/customizer/options/header.php:735 inc/customizer/options/header.php:763
+#: inc/customizer/options/header.php:799 inc/customizer/options/header.php:800
+#: inc/customizer/options/header.php:877 inc/customizer/options/header.php:892
+#: inc/customizer/options/header.php:906 inc/customizer/options/header.php:1025
+#: inc/customizer/options/header.php:1026
+#: inc/customizer/options/header.php:1097
+#: inc/customizer/options/header.php:1127
+#: inc/customizer/options/header.php:1155
+#: inc/customizer/options/header.php:1187
+#: inc/customizer/options/header.php:1188
+#: inc/customizer/options/header.php:3126
+#: inc/customizer/options/header.php:3127
+#: inc/customizer/options/header.php:4851
+#: inc/customizer/options/header.php:4865
+#: inc/customizer/options/header.php:4879
+#: inc/customizer/options/header.php:4926
+#: inc/customizer/options/header.php:4954
+#: inc/customizer/options/header.php:4982
+#: inc/customizer/options/header.php:5507
+#: inc/customizer/options/header.php:5508
+#: inc/customizer/options/lifterlms.php:747
+#: inc/customizer/options/lifterlms.php:775
+#: inc/customizer/options/lifterlms.php:803
+#: inc/customizer/options/lifterlms.php:849
+#: inc/customizer/options/lifterlms.php:877
+#: inc/customizer/options/lifterlms.php:905
+#: inc/customizer/options/lifterlms.php:951
+#: inc/customizer/options/lifterlms.php:979
+#: inc/customizer/options/lifterlms.php:1007
+#: inc/customizer/options/lifterlms.php:1053
+#: inc/customizer/options/lifterlms.php:1081
+#: inc/customizer/options/lifterlms.php:1109
+#: inc/customizer/options/page-settings.php:467
+#: inc/customizer/options/page-settings.php:495
+#: inc/customizer/options/page-settings.php:523
+#: inc/customizer/options/page-settings.php:578
+#: inc/customizer/options/page-settings.php:579
+#: inc/customizer/options/sidebar.php:50 inc/customizer/options/sidebar.php:79
+#: inc/customizer/options/sidebar.php:107
+#: inc/customizer/options/sidebar.php:198
+#: inc/customizer/options/sidebar.php:227
+#: inc/customizer/options/sidebar.php:255
+#: inc/customizer/options/styles-and-settings.php:754
+#: inc/customizer/options/styles-and-settings.php:783
+#: inc/customizer/options/styles-and-settings.php:811
+#: inc/customizer/options/styles-and-settings.php:869
+#: inc/customizer/options/styles-and-settings.php:898
+#: inc/customizer/options/styles-and-settings.php:926
+#: inc/customizer/options/styles-and-settings.php:1389
+#: inc/customizer/options/styles-and-settings.php:1418
+#: inc/customizer/options/styles-and-settings.php:1446
+#: inc/customizer/options/styles-and-settings.php:1505
+#: inc/customizer/options/styles-and-settings.php:1534
+#: inc/customizer/options/styles-and-settings.php:1562
+#: inc/customizer/options/styles-and-settings.php:1651
+#: inc/customizer/options/styles-and-settings.php:1680
+#: inc/customizer/options/styles-and-settings.php:1708
+#: inc/customizer/options/styles-and-settings.php:2537
+#: inc/customizer/options/styles-and-settings.php:2566
+#: inc/customizer/options/styles-and-settings.php:2594
+#: inc/customizer/options/styles-and-settings.php:2638
+#: inc/customizer/options/styles-and-settings.php:2639
+#: inc/customizer/options/styles-and-settings.php:2970
+#: inc/customizer/options/styles-and-settings.php:2971
+#: inc/customizer/options/styles-and-settings.php:3084
+#: inc/customizer/options/styles-and-settings.php:3113
+#: inc/customizer/options/styles-and-settings.php:3141
+#: inc/customizer/options/topbar.php:147 inc/customizer/options/topbar.php:176
+#: inc/customizer/options/topbar.php:204 inc/customizer/options/topbar.php:408
+#: inc/customizer/options/topbar.php:423 inc/customizer/options/topbar.php:437
+#: inc/customizer/options/woocommerce.php:2228
+#: inc/customizer/options/woocommerce.php:2229
+#: inc/customizer/options/woocommerce.php:2401
+#: inc/customizer/options/woocommerce.php:2429
+#: inc/customizer/options/woocommerce.php:2457
+#: inc/customizer/options/woocommerce.php:2503
+#: inc/customizer/options/woocommerce.php:2531
+#: inc/customizer/options/woocommerce.php:2559
+#: inc/customizer/options/woocommerce.php:2605
+#: inc/customizer/options/woocommerce.php:2633
+#: inc/customizer/options/woocommerce.php:2661
+#: inc/customizer/options/woocommerce.php:2707
+#: inc/customizer/options/woocommerce.php:2735
+#: inc/customizer/options/woocommerce.php:2763
+#: inc/customizer/options/woocommerce.php:7484
+#: inc/customizer/options/woocommerce.php:7485
+#: inc/customizer/assets/dist/index.js:5
+msgid "Left"
+msgstr "Vasen"
+
+#: inc/customizer/options/blog.php:452 inc/customizer/options/blog.php:453
+#: inc/customizer/options/edd.php:1375 inc/customizer/options/edd.php:1403
+#: inc/customizer/options/edd.php:1431 inc/customizer/options/edd.php:1477
+#: inc/customizer/options/edd.php:1505 inc/customizer/options/edd.php:1533
+#: inc/customizer/options/edd.php:1579 inc/customizer/options/edd.php:1607
+#: inc/customizer/options/edd.php:1635 inc/customizer/options/edd.php:1681
+#: inc/customizer/options/edd.php:1709 inc/customizer/options/edd.php:1737
+#: inc/customizer/options/footer-copyright.php:81
+#: inc/customizer/options/footer-copyright.php:111
+#: inc/customizer/options/footer-copyright.php:139
+#: inc/customizer/options/footer-widget.php:94
+#: inc/customizer/options/footer-widget.php:124
+#: inc/customizer/options/footer-widget.php:152
+#: inc/customizer/options/header.php:217 inc/customizer/options/header.php:247
+#: inc/customizer/options/header.php:275 inc/customizer/options/header.php:699
+#: inc/customizer/options/header.php:728 inc/customizer/options/header.php:756
+#: inc/customizer/options/header.php:1089
+#: inc/customizer/options/header.php:1120
+#: inc/customizer/options/header.php:1148
+#: inc/customizer/options/header.php:4919
+#: inc/customizer/options/header.php:4947
+#: inc/customizer/options/header.php:4975
+#: inc/customizer/options/lifterlms.php:740
+#: inc/customizer/options/lifterlms.php:768
+#: inc/customizer/options/lifterlms.php:796
+#: inc/customizer/options/lifterlms.php:842
+#: inc/customizer/options/lifterlms.php:870
+#: inc/customizer/options/lifterlms.php:898
+#: inc/customizer/options/lifterlms.php:944
+#: inc/customizer/options/lifterlms.php:972
+#: inc/customizer/options/lifterlms.php:1000
+#: inc/customizer/options/lifterlms.php:1046
+#: inc/customizer/options/lifterlms.php:1074
+#: inc/customizer/options/lifterlms.php:1102
+#: inc/customizer/options/page-settings.php:69
+#: inc/customizer/options/page-settings.php:83
+#: inc/customizer/options/page-settings.php:97
+#: inc/customizer/options/page-settings.php:459
+#: inc/customizer/options/page-settings.php:488
+#: inc/customizer/options/page-settings.php:516
+#: inc/customizer/options/sidebar.php:42 inc/customizer/options/sidebar.php:72
+#: inc/customizer/options/sidebar.php:100
+#: inc/customizer/options/sidebar.php:190
+#: inc/customizer/options/sidebar.php:220
+#: inc/customizer/options/sidebar.php:248
+#: inc/customizer/options/styles-and-settings.php:746
+#: inc/customizer/options/styles-and-settings.php:776
+#: inc/customizer/options/styles-and-settings.php:804
+#: inc/customizer/options/styles-and-settings.php:861
+#: inc/customizer/options/styles-and-settings.php:891
+#: inc/customizer/options/styles-and-settings.php:919
+#: inc/customizer/options/styles-and-settings.php:1381
+#: inc/customizer/options/styles-and-settings.php:1411
+#: inc/customizer/options/styles-and-settings.php:1439
+#: inc/customizer/options/styles-and-settings.php:1497
+#: inc/customizer/options/styles-and-settings.php:1527
+#: inc/customizer/options/styles-and-settings.php:1555
+#: inc/customizer/options/styles-and-settings.php:1643
+#: inc/customizer/options/styles-and-settings.php:1673
+#: inc/customizer/options/styles-and-settings.php:1701
+#: inc/customizer/options/styles-and-settings.php:2529
+#: inc/customizer/options/styles-and-settings.php:2559
+#: inc/customizer/options/styles-and-settings.php:2587
+#: inc/customizer/options/styles-and-settings.php:3076
+#: inc/customizer/options/styles-and-settings.php:3106
+#: inc/customizer/options/styles-and-settings.php:3134
+#: inc/customizer/options/topbar.php:139 inc/customizer/options/topbar.php:169
+#: inc/customizer/options/topbar.php:197
+#: inc/customizer/options/woocommerce.php:2394
+#: inc/customizer/options/woocommerce.php:2422
+#: inc/customizer/options/woocommerce.php:2450
+#: inc/customizer/options/woocommerce.php:2496
+#: inc/customizer/options/woocommerce.php:2524
+#: inc/customizer/options/woocommerce.php:2552
+#: inc/customizer/options/woocommerce.php:2598
+#: inc/customizer/options/woocommerce.php:2626
+#: inc/customizer/options/woocommerce.php:2654
+#: inc/customizer/options/woocommerce.php:2700
+#: inc/customizer/options/woocommerce.php:2728
+#: inc/customizer/options/woocommerce.php:2756
+#: inc/customizer/assets/dist/index.js:5
+msgid "Bottom"
+msgstr "Ala"
+
+#: inc/customizer/options/blog.php:422 inc/customizer/options/blog.php:423
+#: inc/customizer/options/blog.php:2443 inc/customizer/options/blog.php:2444
+#: inc/customizer/options/edd.php:1201 inc/customizer/options/edd.php:1202
+#: inc/customizer/options/edd.php:1368 inc/customizer/options/edd.php:1396
+#: inc/customizer/options/edd.php:1424 inc/customizer/options/edd.php:1470
+#: inc/customizer/options/edd.php:1498 inc/customizer/options/edd.php:1526
+#: inc/customizer/options/edd.php:1572 inc/customizer/options/edd.php:1600
+#: inc/customizer/options/edd.php:1628 inc/customizer/options/edd.php:1674
+#: inc/customizer/options/edd.php:1702 inc/customizer/options/edd.php:1730
+#: inc/customizer/options/footer-copyright.php:73
+#: inc/customizer/options/footer-copyright.php:104
+#: inc/customizer/options/footer-copyright.php:132
+#: inc/customizer/options/footer-widget.php:86
+#: inc/customizer/options/footer-widget.php:117
+#: inc/customizer/options/footer-widget.php:145
+#: inc/customizer/options/header.php:209 inc/customizer/options/header.php:240
+#: inc/customizer/options/header.php:268 inc/customizer/options/header.php:692
+#: inc/customizer/options/header.php:721 inc/customizer/options/header.php:749
+#: inc/customizer/options/header.php:809 inc/customizer/options/header.php:810
+#: inc/customizer/options/header.php:869 inc/customizer/options/header.php:885
+#: inc/customizer/options/header.php:899 inc/customizer/options/header.php:1030
+#: inc/customizer/options/header.php:1031
+#: inc/customizer/options/header.php:1082
+#: inc/customizer/options/header.php:1113
+#: inc/customizer/options/header.php:1141
+#: inc/customizer/options/header.php:1197
+#: inc/customizer/options/header.php:1198
+#: inc/customizer/options/header.php:3136
+#: inc/customizer/options/header.php:3137
+#: inc/customizer/options/header.php:4844
+#: inc/customizer/options/header.php:4858
+#: inc/customizer/options/header.php:4872
+#: inc/customizer/options/header.php:4912
+#: inc/customizer/options/header.php:4940
+#: inc/customizer/options/header.php:4968
+#: inc/customizer/options/header.php:5512
+#: inc/customizer/options/header.php:5513
+#: inc/customizer/options/lifterlms.php:733
+#: inc/customizer/options/lifterlms.php:761
+#: inc/customizer/options/lifterlms.php:789
+#: inc/customizer/options/lifterlms.php:835
+#: inc/customizer/options/lifterlms.php:863
+#: inc/customizer/options/lifterlms.php:891
+#: inc/customizer/options/lifterlms.php:937
+#: inc/customizer/options/lifterlms.php:965
+#: inc/customizer/options/lifterlms.php:993
+#: inc/customizer/options/lifterlms.php:1039
+#: inc/customizer/options/lifterlms.php:1067
+#: inc/customizer/options/lifterlms.php:1095
+#: inc/customizer/options/page-settings.php:452
+#: inc/customizer/options/page-settings.php:481
+#: inc/customizer/options/page-settings.php:509
+#: inc/customizer/options/page-settings.php:588
+#: inc/customizer/options/page-settings.php:589
+#: inc/customizer/options/sidebar.php:34 inc/customizer/options/sidebar.php:65
+#: inc/customizer/options/sidebar.php:93 inc/customizer/options/sidebar.php:182
+#: inc/customizer/options/sidebar.php:213
+#: inc/customizer/options/sidebar.php:241
+#: inc/customizer/options/styles-and-settings.php:738
+#: inc/customizer/options/styles-and-settings.php:769
+#: inc/customizer/options/styles-and-settings.php:797
+#: inc/customizer/options/styles-and-settings.php:853
+#: inc/customizer/options/styles-and-settings.php:884
+#: inc/customizer/options/styles-and-settings.php:912
+#: inc/customizer/options/styles-and-settings.php:1373
+#: inc/customizer/options/styles-and-settings.php:1404
+#: inc/customizer/options/styles-and-settings.php:1432
+#: inc/customizer/options/styles-and-settings.php:1489
+#: inc/customizer/options/styles-and-settings.php:1520
+#: inc/customizer/options/styles-and-settings.php:1548
+#: inc/customizer/options/styles-and-settings.php:1635
+#: inc/customizer/options/styles-and-settings.php:1666
+#: inc/customizer/options/styles-and-settings.php:1694
+#: inc/customizer/options/styles-and-settings.php:2521
+#: inc/customizer/options/styles-and-settings.php:2552
+#: inc/customizer/options/styles-and-settings.php:2580
+#: inc/customizer/options/styles-and-settings.php:2643
+#: inc/customizer/options/styles-and-settings.php:2644
+#: inc/customizer/options/styles-and-settings.php:2980
+#: inc/customizer/options/styles-and-settings.php:2981
+#: inc/customizer/options/styles-and-settings.php:3068
+#: inc/customizer/options/styles-and-settings.php:3099
+#: inc/customizer/options/styles-and-settings.php:3127
+#: inc/customizer/options/topbar.php:131 inc/customizer/options/topbar.php:162
+#: inc/customizer/options/topbar.php:190 inc/customizer/options/topbar.php:400
+#: inc/customizer/options/topbar.php:416 inc/customizer/options/topbar.php:430
+#: inc/customizer/options/woocommerce.php:2238
+#: inc/customizer/options/woocommerce.php:2239
+#: inc/customizer/options/woocommerce.php:2387
+#: inc/customizer/options/woocommerce.php:2415
+#: inc/customizer/options/woocommerce.php:2443
+#: inc/customizer/options/woocommerce.php:2489
+#: inc/customizer/options/woocommerce.php:2517
+#: inc/customizer/options/woocommerce.php:2545
+#: inc/customizer/options/woocommerce.php:2591
+#: inc/customizer/options/woocommerce.php:2619
+#: inc/customizer/options/woocommerce.php:2647
+#: inc/customizer/options/woocommerce.php:2693
+#: inc/customizer/options/woocommerce.php:2721
+#: inc/customizer/options/woocommerce.php:2749
+#: inc/customizer/options/woocommerce.php:7494
+#: inc/customizer/options/woocommerce.php:7495
+#: inc/customizer/assets/dist/index.js:5
+msgid "Right"
+msgstr "Oikea"
+
+#: inc/customizer/options/edd.php:33 inc/customizer/options/learndash.php:15
+#: inc/customizer/options/lifterlms.php:15
+#: inc/customizer/options/woocommerce.php:8319
+msgid "For some options, you must save and refresh your live site to preview changes."
+msgstr "Joidenkin asetusten kohdalla sinun tulee tallentaa ja päivittää pääsivustosi, jotta pääset esikatselemaan muutoksia."
+
+#: inc/customizer/options/header.php:667
+msgid "Social Buttons"
+msgstr "Somepainikkeet"
+
+#: inc/customizer/options/blog.php:442 inc/customizer/options/blog.php:443
+#: inc/customizer/options/edd.php:1361 inc/customizer/options/edd.php:1389
+#: inc/customizer/options/edd.php:1417 inc/customizer/options/edd.php:1463
+#: inc/customizer/options/edd.php:1491 inc/customizer/options/edd.php:1519
+#: inc/customizer/options/edd.php:1565 inc/customizer/options/edd.php:1593
+#: inc/customizer/options/edd.php:1621 inc/customizer/options/edd.php:1667
+#: inc/customizer/options/edd.php:1695 inc/customizer/options/edd.php:1723
+#: inc/customizer/options/footer-copyright.php:65
+#: inc/customizer/options/footer-copyright.php:97
+#: inc/customizer/options/footer-copyright.php:125
+#: inc/customizer/options/footer-widget.php:78
+#: inc/customizer/options/footer-widget.php:110
+#: inc/customizer/options/footer-widget.php:138
+#: inc/customizer/options/header.php:201 inc/customizer/options/header.php:233
+#: inc/customizer/options/header.php:261 inc/customizer/options/header.php:684
+#: inc/customizer/options/header.php:714 inc/customizer/options/header.php:742
+#: inc/customizer/options/header.php:1074
+#: inc/customizer/options/header.php:1105
+#: inc/customizer/options/header.php:1134
+#: inc/customizer/options/header.php:4905
+#: inc/customizer/options/header.php:4933
+#: inc/customizer/options/header.php:4961
+#: inc/customizer/options/lifterlms.php:726
+#: inc/customizer/options/lifterlms.php:754
+#: inc/customizer/options/lifterlms.php:782
+#: inc/customizer/options/lifterlms.php:828
+#: inc/customizer/options/lifterlms.php:856
+#: inc/customizer/options/lifterlms.php:884
+#: inc/customizer/options/lifterlms.php:930
+#: inc/customizer/options/lifterlms.php:958
+#: inc/customizer/options/lifterlms.php:986
+#: inc/customizer/options/lifterlms.php:1032
+#: inc/customizer/options/lifterlms.php:1060
+#: inc/customizer/options/lifterlms.php:1088
+#: inc/customizer/options/page-settings.php:62
+#: inc/customizer/options/page-settings.php:76
+#: inc/customizer/options/page-settings.php:90
+#: inc/customizer/options/page-settings.php:444
+#: inc/customizer/options/page-settings.php:474
+#: inc/customizer/options/page-settings.php:502
+#: inc/customizer/options/sidebar.php:26 inc/customizer/options/sidebar.php:58
+#: inc/customizer/options/sidebar.php:86 inc/customizer/options/sidebar.php:174
+#: inc/customizer/options/sidebar.php:206
+#: inc/customizer/options/sidebar.php:234
+#: inc/customizer/options/styles-and-settings.php:730
+#: inc/customizer/options/styles-and-settings.php:762
+#: inc/customizer/options/styles-and-settings.php:790
+#: inc/customizer/options/styles-and-settings.php:845
+#: inc/customizer/options/styles-and-settings.php:877
+#: inc/customizer/options/styles-and-settings.php:905
+#: inc/customizer/options/styles-and-settings.php:1365
+#: inc/customizer/options/styles-and-settings.php:1397
+#: inc/customizer/options/styles-and-settings.php:1425
+#: inc/customizer/options/styles-and-settings.php:1481
+#: inc/customizer/options/styles-and-settings.php:1513
+#: inc/customizer/options/styles-and-settings.php:1541
+#: inc/customizer/options/styles-and-settings.php:1627
+#: inc/customizer/options/styles-and-settings.php:1659
+#: inc/customizer/options/styles-and-settings.php:1687
+#: inc/customizer/options/styles-and-settings.php:2513
+#: inc/customizer/options/styles-and-settings.php:2545
+#: inc/customizer/options/styles-and-settings.php:2573
+#: inc/customizer/options/styles-and-settings.php:3060
+#: inc/customizer/options/styles-and-settings.php:3092
+#: inc/customizer/options/styles-and-settings.php:3120
+#: inc/customizer/options/topbar.php:123 inc/customizer/options/topbar.php:155
+#: inc/customizer/options/topbar.php:183
+#: inc/customizer/options/woocommerce.php:2380
+#: inc/customizer/options/woocommerce.php:2408
+#: inc/customizer/options/woocommerce.php:2436
+#: inc/customizer/options/woocommerce.php:2482
+#: inc/customizer/options/woocommerce.php:2510
+#: inc/customizer/options/woocommerce.php:2538
+#: inc/customizer/options/woocommerce.php:2584
+#: inc/customizer/options/woocommerce.php:2612
+#: inc/customizer/options/woocommerce.php:2640
+#: inc/customizer/options/woocommerce.php:2686
+#: inc/customizer/options/woocommerce.php:2714
+#: inc/customizer/options/woocommerce.php:2742
+#: inc/customizer/assets/dist/index.js:5
+msgid "Top"
+msgstr "Ylä"
+
+#: inc/customizer/options/woocommerce.php:7473
+msgid "Tabs Position"
+msgstr "Välilehtien sijainti"
+
+#: inc/customizer/options/header.php:364 inc/customizer/options/header.php:596
+#: inc/customizer/options/header.php:3114
+msgid "Menu Position"
+msgstr "Valikon sijainti"
+
+#: inc/customizer/options/edd.php:1151 inc/customizer/options/header.php:655
+#: inc/customizer/options/topbar.php:86
+#: inc/customizer/options/woocommerce.php:2283
+msgid "Elements Positioning"
+msgstr "Elementtien sijoittelu"
+
+#: partials/none.php:57
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Näyttää siltä, ettemme löydä etsimääsi."
+
+#: inc/oceanwp-strings.php:76 inc/oceanwp-strings.php:77
+#: inc/customizer/assets/dist/search.js:1
+#: inc/customizer/assets/js/customize-search.js:2
+msgid "Search..."
+msgstr "Hae..."
+
+#: partials/entry/meta.php:55 partials/entry/thumbnail-style/comments.php:17
+#: partials/single/meta.php:71 partials/single/metas/meta-2.php:65
+#: partials/single/metas/meta-3.php:65 partials/single/metas/meta-4.php:67
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: partials/entry/meta.php:55 partials/entry/thumbnail-style/comments.php:17
+#: partials/single/meta.php:71 partials/single/metas/meta-2.php:65
+#: partials/single/metas/meta-3.php:65 partials/single/metas/meta-4.php:67
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: partials/entry/meta.php:55 partials/entry/thumbnail-style/comments.php:17
+#: partials/single/meta.php:71 partials/single/metas/meta-2.php:65
+#: partials/single/metas/meta-3.php:65 partials/single/metas/meta-4.php:67
+msgid "0 Comments"
+msgstr "0 kommenttia"
+
+#: inc/woocommerce/woocommerce-config.php:367
+msgid "WooCommerce Sidebar"
+msgstr "Woocommerce sivupalkki"
+
+#: inc/walker/init.php:120
+msgid "Hide Mega menu heading?"
+msgstr "Piilota megavalikon otsikko?"
+
+#: inc/walker/init.php:95
+msgid "Display Latest Posts"
+msgstr "Näytä uusimmat artikkelit"
+
+#: inc/walker/init.php:88
+msgid "Disable link"
+msgstr "Poista käytöstä linkki"
+
+#: inc/walker/init.php:73
+msgid "Select A Template"
+msgstr "Valitse pohja"
+
+#: inc/helpers.php:3239
+msgid "Social Share"
+msgstr "Some-jako"
+
+#: inc/helpers.php:2156
+msgid "Yearly Archives: %s"
+msgstr "Vuosittainen arkisto: %s"
+
+#: inc/oceanwp-strings.php:56 inc/oceanwp-strings.php:59
+#: inc/customizer/assets/dist/search.js:1
+#: inc/customizer/assets/js/customize-search.js:2
+msgid "Search"
+msgstr "Haku"
+
+#: inc/customizer/options/woocommerce.php:9210
+msgid "Payment Box Background"
+msgstr "Maksulaatikon tausta"
+
+#: comments.php:41
+msgid "Logged in as"
+msgstr "Kirjautuneena käyttäjänä"
+
+#: inc/customizer/css-output/typography.php:191
+#: inc/customizer/options/colors.php:256
+#: inc/customizer/options/typography.php:1006
+msgid "Heading 4 (H4)"
+msgstr "Otsikko 4 (H4)"
+
+#: inc/customizer/css-output/typography.php:182
+#: inc/customizer/options/colors.php:229
+#: inc/customizer/options/typography.php:841
+msgid "Heading 3 (H3)"
+msgstr "Otsikko 3 (H3)"
+
+#: inc/customizer/css-output/typography.php:173
+#: inc/customizer/options/colors.php:202
+#: inc/customizer/options/typography.php:676
+msgid "Heading 2 (H2)"
+msgstr "Otsikko 2 (H2)"
+
+#: inc/customizer/css-output/typography.php:164
+#: inc/customizer/options/colors.php:175
+#: inc/customizer/options/typography.php:511
+msgid "Heading 1 (H1)"
+msgstr "Otsikko 1 (H1)"
+
+#: inc/customizer/css-output/typography.php:155
+#: inc/customizer/options/colors.php:149
+#: inc/customizer/options/typography.php:347
+msgid "All Headings"
+msgstr "Kaikki otsikot"
+
+#: inc/customizer/options/header.php:4705
+#: inc/customizer/options/header.php:4706
+msgid "Colored"
+msgstr "Värikäs"
+
+#: inc/customizer/options/page-settings.php:2383
+msgid "404 Error Page"
+msgstr "404 virhesivu"
+
+#: inc/customizer/options/footer-widget.php:311
+#: inc/customizer/options/footer-widget.php:312
+#: inc/customizer/options/footer-widget.php:337
+#: inc/customizer/options/footer-widget.php:338
+#: inc/customizer/options/page-settings.php:2471
+#: inc/customizer/options/page-settings.php:2472
+msgid "Off"
+msgstr "Ei käytössä"
+
+#: inc/customizer/options/woocommerce.php:9184
+msgid "Payment Methods Borders Color"
+msgstr "Maksutavat reunan väri"
+
+#: inc/customizer/options/woocommerce.php:9158
+msgid "Payment Methods Background"
+msgstr "Maksutavat tausta"
+
+#: inc/customizer/options/woocommerce.php:9132
+msgid "Table Borders Color"
+msgstr "Taulukon reunan väri"
+
+#: inc/customizer/options/woocommerce.php:9106
+msgid "Table Titles Color"
+msgstr "Taulukon otsikon väri"
+
+#: inc/customizer/options/woocommerce.php:9080
+msgid "Table Main Background"
+msgstr "Päätaulukon tausta"
+
+#: inc/customizer/options/edd.php:2516
+#: inc/customizer/options/woocommerce.php:9028
+msgid "Titles Color"
+msgstr "Otsikoiden väri"
+
+#: inc/customizer/options/edd.php:2542
+#: inc/customizer/options/woocommerce.php:9054
+msgid "Titles Border Bottom Color"
+msgstr "Otsikoiden alareunan väri"
+
+#: inc/customizer/options/woocommerce.php:9002
+msgid "Notices Form: Border Color"
+msgstr "Huomautuslomake: reunan väri"
+
+#: inc/customizer/options/woocommerce.php:8964
+msgid "Notices: Link Color"
+msgstr "Huomautukset: linkkien väri"
+
+#: inc/customizer/options/woocommerce.php:8938
+msgid "Notices: Color"
+msgstr "Huomautukset: väri"
+
+#: inc/customizer/options/woocommerce.php:8912
+msgid "Notices: Icon Color"
+msgstr "Huomautukset: kuvakkeen väri"
+
+#: inc/customizer/options/woocommerce.php:8886
+msgid "Notices: Borders Color"
+msgstr "Huomautukset: reunan väri"
+
+#: inc/customizer/options/woocommerce.php:8510
+msgid "Remove Button Color"
+msgstr "Poistopainikkeen väri"
+
+#: inc/customizer/options/woocommerce.php:8484
+msgid "Cart Totals Table: Titles Color"
+msgstr "Ostoskorin summataulukko: otsikoiden väri"
+
+#: inc/customizer/options/edd.php:2646
+#: inc/customizer/options/woocommerce.php:8432
+msgid "Head Background"
+msgstr "Pää tausta"
+
+#: inc/customizer/options/edd.php:2672
+msgid "Head Titles Color"
+msgstr "Pää otsikoiden väri"
+
+#: inc/customizer/options/woocommerce.php:7601
+msgid "Active Text Borders Color"
+msgstr "Aktiivisen tekstin reunojen väri"
+
+#: inc/customizer/options/woocommerce.php:7575
+msgid "Active Text Color"
+msgstr "Aktiivisen tekstin väri"
+
+#: inc/customizer/options/lifterlms.php:1364
+#: inc/customizer/options/woocommerce.php:6542
+msgid "Meta Link Color"
+msgstr "Meta-linkin väri"
+
+#: inc/customizer/options/lifterlms.php:1339
+#: inc/customizer/options/woocommerce.php:6516
+msgid "Meta Title Color"
+msgstr "Meta-otsikon väri"
+
+#: inc/customizer/options/woocommerce.php:6452
+msgid "Quantity Plus/Minus Color"
+msgstr "Lukumäärän lisäys/vähennys väri"
+
+#: inc/customizer/options/woocommerce.php:6374
+msgid "Quantity Border Color"
+msgstr "Lukumäärän reunan väri"
+
+#: inc/customizer/options/edd.php:2442 inc/customizer/options/edd.php:2620
+#: inc/customizer/options/lifterlms.php:1546
+#: inc/customizer/options/woocommerce.php:6348
+#: inc/customizer/options/woocommerce.php:7653
+msgid "Description Color"
+msgstr "Kuvauksen väri"
+
+#: inc/customizer/options/edd.php:2195
+#: inc/customizer/options/woocommerce.php:5459
+msgid "Single Product"
+msgstr "Yksittäinen tuote"
+
+#: inc/customizer/options/woocommerce.php:3603
+#: inc/customizer/options/woocommerce.php:6322
+msgid "Del Price Color"
+msgstr "Poista hinta väri"
+
+#: inc/customizer/options/edd.php:1854 inc/customizer/options/edd.php:2416
+#: inc/customizer/options/lifterlms.php:1182
+#: inc/customizer/options/lifterlms.php:1289
+#: inc/customizer/options/lifterlms.php:1521
+#: inc/customizer/options/page-settings.php:1117
+#: inc/customizer/options/woocommerce.php:1787
+#: inc/customizer/options/woocommerce.php:3539
+#: inc/customizer/options/woocommerce.php:6270
+#: inc/customizer/options/woocommerce.php:7951
+msgid "Title Color"
+msgstr "Otsikon väri"
+
+#: inc/customizer/options/edd.php:1816
+#: inc/customizer/options/woocommerce.php:3502
+msgid "Category Color"
+msgstr "Kategorian väri"
+
+#: inc/customizer/options/woocommerce.php:4863
+msgid "Number of Products Color"
+msgstr "Tuotteiden lukumäärän väri"
+
+#: inc/customizer/options/woocommerce.php:4836
+msgid "Select Border Color"
+msgstr "Valitse reunan väri"
+
+#: inc/customizer/options/blog.php:748 inc/customizer/options/blog.php:1001
+#: inc/customizer/options/blog.php:1840 inc/customizer/options/blog.php:1866
+#: inc/customizer/options/blog.php:2006 inc/customizer/options/blog.php:2659
+#: inc/customizer/options/blog.php:2716 inc/customizer/options/blog.php:2743
+#: inc/customizer/options/blog.php:2770 inc/customizer/options/blog.php:4669
+#: inc/customizer/options/blog.php:4695 inc/customizer/options/blog.php:4721
+#: inc/customizer/options/blog.php:4747 inc/customizer/options/blog.php:4812
+#: inc/customizer/options/blog.php:4839 inc/customizer/options/blog.php:4880
+#: inc/customizer/options/blog.php:4943 inc/customizer/options/blog.php:5051
+#: inc/customizer/options/colors.php:29 inc/customizer/options/colors.php:98
+#: inc/customizer/options/colors.php:135 inc/customizer/options/colors.php:162
+#: inc/customizer/options/colors.php:189 inc/customizer/options/colors.php:216
+#: inc/customizer/options/colors.php:243 inc/customizer/options/colors.php:270
+#: inc/customizer/options/colors.php:297 inc/customizer/options/colors.php:324
+#: inc/customizer/options/edd.php:592 inc/customizer/options/edd.php:619
+#: inc/customizer/options/edd.php:646 inc/customizer/options/edd.php:672
+#: inc/customizer/options/edd.php:738 inc/customizer/options/edd.php:765
+#: inc/customizer/options/edd.php:792 inc/customizer/options/edd.php:819
+#: inc/customizer/options/edd.php:1778 inc/customizer/options/edd.php:1803
+#: inc/customizer/options/edd.php:1904 inc/customizer/options/edd.php:2428
+#: inc/customizer/options/edd.php:2454 inc/customizer/options/edd.php:2528
+#: inc/customizer/options/edd.php:2554 inc/customizer/options/edd.php:2580
+#: inc/customizer/options/edd.php:2606 inc/customizer/options/edd.php:2632
+#: inc/customizer/options/edd.php:2658 inc/customizer/options/edd.php:2684
+#: inc/customizer/options/edd.php:2710
+#: inc/customizer/options/footer-copyright.php:542
+#: inc/customizer/options/footer-copyright.php:569
+#: inc/customizer/options/footer-widget.php:542
+#: inc/customizer/options/footer-widget.php:569
+#: inc/customizer/options/footer-widget.php:596
+#: inc/customizer/options/footer-widget.php:623
+#: inc/customizer/options/header.php:1469
+#: inc/customizer/options/header.php:1495
+#: inc/customizer/options/header.php:1531
+#: inc/customizer/options/header.php:1566
+#: inc/customizer/options/header.php:1632
+#: inc/customizer/options/header.php:1668
+#: inc/customizer/options/header.php:1695
+#: inc/customizer/options/header.php:1810
+#: inc/customizer/options/header.php:1837
+#: inc/customizer/options/header.php:1924
+#: inc/customizer/options/header.php:1951
+#: inc/customizer/options/header.php:1988
+#: inc/customizer/options/header.php:2015
+#: inc/customizer/options/header.php:2042
+#: inc/customizer/options/header.php:2117
+#: inc/customizer/options/header.php:2154
+#: inc/customizer/options/header.php:2181
+#: inc/customizer/options/header.php:2295
+#: inc/customizer/options/header.php:2322
+#: inc/customizer/options/header.php:2349
+#: inc/customizer/options/header.php:2556
+#: inc/customizer/options/header.php:3533
+#: inc/customizer/options/header.php:3559
+#: inc/customizer/options/header.php:3866
+#: inc/customizer/options/header.php:3901
+#: inc/customizer/options/header.php:3927
+#: inc/customizer/options/header.php:4037
+#: inc/customizer/options/header.php:4062
+#: inc/customizer/options/header.php:4097
+#: inc/customizer/options/header.php:4123
+#: inc/customizer/options/header.php:4196
+#: inc/customizer/options/header.php:4285
+#: inc/customizer/options/header.php:4311
+#: inc/customizer/options/header.php:4377
+#: inc/customizer/options/header.php:4404
+#: inc/customizer/options/header.php:4431
+#: inc/customizer/options/header.php:4458
+#: inc/customizer/options/header.php:4536
+#: inc/customizer/options/header.php:5703
+#: inc/customizer/options/header.php:5993
+#: inc/customizer/options/header.php:6020
+#: inc/customizer/options/header.php:6047
+#: inc/customizer/options/header.php:6132
+#: inc/customizer/options/header.php:6169
+#: inc/customizer/options/header.php:6194
+#: inc/customizer/options/header.php:6323
+#: inc/customizer/options/learndash.php:581
+#: inc/customizer/options/learndash.php:606
+#: inc/customizer/options/learndash.php:669
+#: inc/customizer/options/learndash.php:694
+#: inc/customizer/options/learndash.php:719
+#: inc/customizer/options/lifterlms.php:1143
+#: inc/customizer/options/lifterlms.php:1169
+#: inc/customizer/options/lifterlms.php:1230
+#: inc/customizer/options/lifterlms.php:1256
+#: inc/customizer/options/lifterlms.php:1301
+#: inc/customizer/options/lifterlms.php:1326
+#: inc/customizer/options/lifterlms.php:1351
+#: inc/customizer/options/lifterlms.php:1413
+#: inc/customizer/options/lifterlms.php:1438
+#: inc/customizer/options/lifterlms.php:1463
+#: inc/customizer/options/lifterlms.php:1489
+#: inc/customizer/options/lifterlms.php:1533
+#: inc/customizer/options/lifterlms.php:1558
+#: inc/customizer/options/page-settings.php:850
+#: inc/customizer/options/page-settings.php:901
+#: inc/customizer/options/page-settings.php:928
+#: inc/customizer/options/page-settings.php:1130
+#: inc/customizer/options/page-settings.php:1321
+#: inc/customizer/options/page-settings.php:1659
+#: inc/customizer/options/page-settings.php:1727
+#: inc/customizer/options/sidebar.php:140
+#: inc/customizer/options/sidebar.php:720
+#: inc/customizer/options/sidebar.php:744
+#: inc/customizer/options/sidebar.php:769
+#: inc/customizer/options/sidebar.php:793
+#: inc/customizer/options/styles-and-settings.php:326
+#: inc/customizer/options/styles-and-settings.php:537
+#: inc/customizer/options/styles-and-settings.php:565
+#: inc/customizer/options/styles-and-settings.php:593
+#: inc/customizer/options/styles-and-settings.php:3358
+#: inc/customizer/options/styles-and-settings.php:3384
+#: inc/customizer/options/topbar.php:844 inc/customizer/options/topbar.php:871
+#: inc/customizer/options/topbar.php:898
+#: inc/customizer/options/woocommerce.php:390
+#: inc/customizer/options/woocommerce.php:416
+#: inc/customizer/options/woocommerce.php:442
+#: inc/customizer/options/woocommerce.php:1190
+#: inc/customizer/options/woocommerce.php:1217
+#: inc/customizer/options/woocommerce.php:1322
+#: inc/customizer/options/woocommerce.php:1349
+#: inc/customizer/options/woocommerce.php:1376
+#: inc/customizer/options/woocommerce.php:1403
+#: inc/customizer/options/woocommerce.php:1430
+#: inc/customizer/options/woocommerce.php:1719
+#: inc/customizer/options/woocommerce.php:1746
+#: inc/customizer/options/woocommerce.php:1773
+#: inc/customizer/options/woocommerce.php:1800
+#: inc/customizer/options/woocommerce.php:1827
+#: inc/customizer/options/woocommerce.php:3464
+#: inc/customizer/options/woocommerce.php:3489
+#: inc/customizer/options/woocommerce.php:3589
+#: inc/customizer/options/woocommerce.php:3615
+#: inc/customizer/options/woocommerce.php:3680
+#: inc/customizer/options/woocommerce.php:3707
+#: inc/customizer/options/woocommerce.php:3746
+#: inc/customizer/options/woocommerce.php:3785
+#: inc/customizer/options/woocommerce.php:3824
+#: inc/customizer/options/woocommerce.php:3985
+#: inc/customizer/options/woocommerce.php:4021
+#: inc/customizer/options/woocommerce.php:4059
+#: inc/customizer/options/woocommerce.php:4202
+#: inc/customizer/options/woocommerce.php:4228
+#: inc/customizer/options/woocommerce.php:4254
+#: inc/customizer/options/woocommerce.php:4280
+#: inc/customizer/options/woocommerce.php:4306
+#: inc/customizer/options/woocommerce.php:4720
+#: inc/customizer/options/woocommerce.php:4796
+#: inc/customizer/options/woocommerce.php:4810
+#: inc/customizer/options/woocommerce.php:4822
+#: inc/customizer/options/woocommerce.php:4848
+#: inc/customizer/options/woocommerce.php:4875
+#: inc/customizer/options/woocommerce.php:4901
+#: inc/customizer/options/woocommerce.php:4927
+#: inc/customizer/options/woocommerce.php:5095
+#: inc/customizer/options/woocommerce.php:5123
+#: inc/customizer/options/woocommerce.php:5272
+#: inc/customizer/options/woocommerce.php:6282
+#: inc/customizer/options/woocommerce.php:6308
+#: inc/customizer/options/woocommerce.php:6334
+#: inc/customizer/options/woocommerce.php:6360
+#: inc/customizer/options/woocommerce.php:6386
+#: inc/customizer/options/woocommerce.php:6412
+#: inc/customizer/options/woocommerce.php:6438
+#: inc/customizer/options/woocommerce.php:6502
+#: inc/customizer/options/woocommerce.php:6528
+#: inc/customizer/options/woocommerce.php:7523
+#: inc/customizer/options/woocommerce.php:7587
+#: inc/customizer/options/woocommerce.php:7613
+#: inc/customizer/options/woocommerce.php:7639
+#: inc/customizer/options/woocommerce.php:7665
+#: inc/customizer/options/woocommerce.php:7937
+#: inc/customizer/options/woocommerce.php:7964
+#: inc/customizer/options/woocommerce.php:7991
+#: inc/customizer/options/woocommerce.php:8105
+#: inc/customizer/options/woocommerce.php:8132
+#: inc/customizer/options/woocommerce.php:8418
+#: inc/customizer/options/woocommerce.php:8444
+#: inc/customizer/options/woocommerce.php:8470
+#: inc/customizer/options/woocommerce.php:8496
+#: inc/customizer/options/woocommerce.php:8673
+#: inc/customizer/options/woocommerce.php:8704
+#: inc/customizer/options/woocommerce.php:8731
+#: inc/customizer/options/woocommerce.php:8758
+#: inc/customizer/options/woocommerce.php:8785
+#: inc/customizer/options/woocommerce.php:8812
+#: inc/customizer/options/woocommerce.php:8843
+#: inc/customizer/options/woocommerce.php:8898
+#: inc/customizer/options/woocommerce.php:8924
+#: inc/customizer/options/woocommerce.php:8950
+#: inc/customizer/options/woocommerce.php:9014
+#: inc/customizer/options/woocommerce.php:9040
+#: inc/customizer/options/woocommerce.php:9066
+#: inc/customizer/options/woocommerce.php:9092
+#: inc/customizer/options/woocommerce.php:9118
+#: inc/customizer/options/woocommerce.php:9144
+#: inc/customizer/options/woocommerce.php:9170
+#: inc/customizer/options/woocommerce.php:9196
+#: inc/customizer/options/woocommerce.php:9222
+#: inc/customizer/options/woocommerce.php:9248
+#: inc/customizer/options/woocommerce.php:9355
+#: inc/customizer/options/woocommerce.php:9381
+#: inc/customizer/options/woocommerce.php:9450
+#: inc/customizer/options/woocommerce.php:9485
+#: inc/customizer/options/woocommerce.php:9511
+#: inc/customizer/options/woocommerce.php:9584
+#: inc/customizer/options/woocommerce.php:9610
+#: inc/customizer/options/woocommerce.php:9636
+#: inc/customizer/options/woocommerce.php:9662
+#: inc/customizer/options/woocommerce.php:9774
+#: inc/customizer/options/woocommerce.php:9800
+#: inc/customizer/options/woocommerce.php:9836
+#: inc/customizer/options/woocommerce.php:9862
+msgid "Select Color"
+msgstr "Valitse väri"
+
+#: inc/customizer/options/woocommerce.php:4784
+msgid "Grid/List Border Color"
+msgstr "Ruudukko/luettelo reunan väri"
+
+#: inc/customizer/options/woocommerce.php:4734
+msgid "Grid/List Color"
+msgstr "Ruudukon/luettelon väri"
+
+#: inc/customizer/options/woocommerce.php:4708
+msgid "Border Top/Bottom Color"
+msgstr "Ylä-/alareunan väri"
+
+#: inc/customizer/options/woocommerce.php:9850
+msgid "Stars Color"
+msgstr "Tähtien väri"
+
+#: inc/customizer/options/woocommerce.php:9824
+msgid "Stars Color Before"
+msgstr "Tähtien väri ennen"
+
+#: inc/customizer/options/woocommerce.php:9762
+msgid "Out of Stock Background"
+msgstr "Loppu varastosta -tausta"
+
+#: inc/customizer/options/woocommerce.php:9788
+msgid "Out of Stock Color"
+msgstr "Loppu varastosta -väri"
+
+#: inc/customizer/options/woocommerce.php:9369
+msgid "On Sale Color"
+msgstr "Tarjouksessa-väri"
+
+#: inc/customizer/options/woocommerce.php:9343
+msgid "On Sale Background"
+msgstr "Tarjouksessa-tausta"
+
+#: inc/customizer/options/learndash.php:553
+#: inc/customizer/options/lifterlms.php:691
+msgid "Advanced Styling"
+msgstr "Edistyneet tyyliasetukset"
+
+#: inc/customizer/options/woocommerce.php:7834
+msgid "Related Products Columns"
+msgstr "Liittyvät tuotteet -sarakkeet"
+
+#: inc/customizer/options/woocommerce.php:7808
+msgid "Related Items Count"
+msgstr "Liittyvien kohteiden lukumäärä"
+
+#: inc/customizer/options/woocommerce.php:5911
+msgid "Product Meta"
+msgstr "Tuotteen metatiedot"
+
+#: inc/customizer/options/woocommerce.php:5910
+msgid "Quantity & Add To Cart"
+msgstr "Lukumäärä ja lisää koriin"
+
+#: inc/customizer/options/woocommerce.php:5909
+msgid "Excerpt"
+msgstr "Ote"
+
+#: inc/customizer/options/edd.php:1163
+#: inc/customizer/options/woocommerce.php:2296
+#: inc/customizer/options/woocommerce.php:5908
+msgid "Price"
+msgstr "Hinta"
+
+#: inc/customizer/options/woocommerce.php:5907
+msgid "Rating"
+msgstr "Arvostelu"
+
+#: inc/customizer/options/lifterlms.php:150
+#: inc/customizer/options/woocommerce.php:2266 inc/helpers.php:3141
+#: inc/helpers.php:3234
+msgid "Featured Image"
+msgstr "Korostettu kuva"
+
+#: inc/customizer/options/edd.php:1165
+#: inc/customizer/options/woocommerce.php:2299
+msgid "Add To Cart Button"
+msgstr "Lisää ostoskoriin -painike"
+
+#: inc/customizer/options/edd.php:1164 inc/customizer/options/lifterlms.php:151
+msgid "Description"
+msgstr "Kuvaus"
+
+#: inc/customizer/options/edd.php:1162
+#: inc/customizer/options/woocommerce.php:2295
+#: inc/customizer/options/woocommerce.php:5906 inc/helpers.php:3142
+#: inc/helpers.php:3235
+msgid "Title"
+msgstr "Otsikko"
+
+#: inc/customizer/options/blog.php:1915 inc/customizer/options/blog.php:3121
+#: inc/customizer/options/blog.php:3122 inc/customizer/options/blog.php:3159
+#: inc/customizer/options/blog.php:3160 inc/customizer/options/edd.php:1161
+#: inc/customizer/options/edd.php:2395 inc/customizer/options/edd.php:2396
+#: inc/customizer/options/page-settings.php:1897
+#: inc/customizer/options/page-settings.php:1918
+#: inc/customizer/options/page-settings.php:1937
+#: inc/customizer/options/woocommerce.php:2294
+msgid "Category"
+msgstr "Kategoria"
+
+#: inc/customizer/options/edd.php:1144
+msgid "Products"
+msgstr "Tuotteet"
+
+#: inc/customizer/options/woocommerce.php:4689
+msgid "Shop Result Count"
+msgstr "Kaupan tulosten lukumäärä"
+
+#: inc/customizer/options/woocommerce.php:4678
+msgid "Shop Sort"
+msgstr "Kaupan lajittelu"
+
+#: inc/customizer/options/woocommerce.php:2053
+msgid "Default Catalog View"
+msgstr "Katalogin oletusnäkymä"
+
+#: inc/customizer/options/woocommerce.php:4659
+msgid "Toolbar"
+msgstr "Työkalupalkki"
+
+#: inc/customizer/options/edd.php:1096
+msgid "Shop Columns"
+msgstr "Kaupan sarakkeet"
+
+#: inc/customizer/options/edd.php:870
+#: inc/customizer/options/woocommerce.php:1592
+msgid "Checkout Button Color"
+msgstr "Kassan painikkeen väri"
+
+#: inc/customizer/options/edd.php:833
+#: inc/customizer/options/woocommerce.php:1555
+msgid "Checkout Button Background"
+msgstr "Kassan painikkeen tausta:"
+
+#: inc/customizer/options/edd.php:752
+#: inc/customizer/options/woocommerce.php:1390
+msgid "Subtotal Color"
+msgstr "Välisumman väri"
+
+#: inc/customizer/options/edd.php:659 inc/customizer/options/edd.php:1892
+#: inc/customizer/options/woocommerce.php:1336
+#: inc/customizer/options/woocommerce.php:3577
+#: inc/customizer/options/woocommerce.php:6296
+#: inc/customizer/options/woocommerce.php:7978
+msgid "Price Color"
+msgstr "Hinnan väri"
+
+#: inc/customizer/options/woocommerce.php:1309
+#: inc/customizer/options/woocommerce.php:6426
+msgid "Quantity Color"
+msgstr "Lukumäärän väri"
+
+#: inc/customizer/options/edd.php:606
+#: inc/customizer/options/woocommerce.php:1204
+msgid "Dropdown Borders Color"
+msgstr "Pudotusvalikon reunan väri"
+
+#: inc/customizer/options/edd.php:540
+#: inc/customizer/options/woocommerce.php:1139
+msgid "Cart Dropdowns Width (px)"
+msgstr "Ostoskorin pudotusvalikon leveys (px)"
+
+#: inc/customizer/options/edd.php:291
+#: inc/customizer/options/woocommerce.php:889
+msgid "Use this field to center your icon vertically"
+msgstr "Käytä tätä kenttää keskittääksesi kuvakkeesi pystysuoraan"
+
+#: inc/customizer/options/edd.php:290
+#: inc/customizer/options/woocommerce.php:888
+msgid "Center Vertically"
+msgstr "Keskitä pystysuoraan"
+
+#: inc/customizer/options/edd.php:231
+#: inc/customizer/options/woocommerce.php:829
+msgid "Enter your full icon class"
+msgstr "Kirjoita kuvakkeesi täysi luokka"
+
+#: inc/customizer/options/edd.php:230
+#: inc/customizer/options/woocommerce.php:828
+msgid "Custom Icon"
+msgstr "Mukautettu kuvake"
+
+#: inc/customizer/options/edd.php:217
+#: inc/customizer/options/woocommerce.php:815
+msgid "Cart Icon"
+msgstr "Ostoskorin kuvake"
+
+#: inc/customizer/options/edd.php:474 inc/customizer/options/edd.php:479
+#: inc/customizer/options/woocommerce.php:1072
+#: inc/customizer/options/woocommerce.php:1077
+msgid "Custom Link"
+msgstr "Mukautettu linkki"
+
+#: inc/customizer/options/edd.php:473
+#: inc/customizer/options/woocommerce.php:1071
+msgid "Go To Cart"
+msgstr "Siirry ostoskoriin"
+
+#: inc/customizer/options/edd.php:472
+#: inc/customizer/options/woocommerce.php:1070
+msgid "Drop-Down"
+msgstr "Pudotusvalikko"
+
+#: inc/customizer/options/edd.php:211
+#: inc/customizer/options/woocommerce.php:809
+msgid "Icon And Cart Count + Total"
+msgstr "Kuvake ja ostoskorin lukumäärä + kokonaismäärä"
+
+#: inc/customizer/options/edd.php:210
+#: inc/customizer/options/woocommerce.php:808
+msgid "Icon And Cart Count"
+msgstr "Kuvake ja ostoskorin lukumäärä"
+
+#: inc/customizer/options/edd.php:209
+#: inc/customizer/options/woocommerce.php:807
+msgid "Icon And Cart Total"
+msgstr "Kuvake ja ostoskorin kokonaismäärä"
+
+#: inc/customizer/options/edd.php:197
+#: inc/customizer/options/woocommerce.php:795
+msgid "Display"
+msgstr "Näytä"
+
+#: inc/customizer/css-output/typography.php:200
+msgid "Blog Post Title"
+msgstr "Blogi-artikkelin otsikko"
+
+#: inc/customizer/options/topbar.php:16
+msgid "Enable Top Bar"
+msgstr "Ota käyttöön yläpalkki"
+
+#: inc/customizer/options/header.php:5980
+msgid "Close Button Background"
+msgstr "Sulkupainikkeen tausta"
+
+#: inc/customizer/options/header.php:5594
+msgid "Dropdown Target"
+msgstr "Pudotusvalikon kohde"
+
+#: inc/customizer/options/header.php:5659
+msgid "Hamburger Icon Class"
+msgstr "Hampurilaiskuvakkeen luokka"
+
+#: inc/customizer/options/header.php:5638
+msgid "Menu Text"
+msgstr "Valikkoteksti"
+
+#: inc/customizer/options/header.php:5628
+msgid "Display Menu Text"
+msgstr "Näytä valikkoteksti"
+
+#: inc/customizer/options/header.php:5213
+#: inc/customizer/options/header.php:5808 partials/mobile/mobile-icon.php:103
+msgid "Mobile Menu"
+msgstr "Mobiilivalikko"
+
+#: inc/customizer/options/header.php:4085
+msgid "Category Title: Background"
+msgstr "Kategorian otsikko: tausta"
+
+#: inc/customizer/options/woocommerce.php:1733
+#: inc/customizer/options/woocommerce.php:5137
+msgid "Close Button Color"
+msgstr "Sulkemispainikkeen väri"
+
+#: inc/customizer/options/header.php:2544
+#: inc/customizer/options/header.php:4251
+#: inc/customizer/options/header.php:5331
+#: inc/customizer/options/header.php:5332
+msgid "Overlay"
+msgstr "Peitto"
+
+#: inc/customizer/options/header.php:4250
+msgid "Header Replace"
+msgstr "Otsakkeen korvaus"
+
+#: inc/customizer/options/header.php:3612
+msgid "Dropdown Top Border"
+msgstr "Pudotusvalikon yläreuna"
+
+#: inc/customizer/options/header.php:3601
+msgid "Second+ Level Dropdown Icon"
+msgstr "Toisen+ tason pudotusvalikon kuvake"
+
+#: inc/customizer/options/header.php:3590
+msgid "Top Level Dropdown Icon"
+msgstr "Ensimmäisen tason pudotusvalikon kuvake"
+
+#: inc/customizer/options/header.php:2528
+msgid "Header Media"
+msgstr "Otsakkeen media"
+
+#: inc/customizer/options/blog.php:865
+#: inc/customizer/options/woocommerce.php:4150
+#: inc/customizer/options/woocommerce.php:5318
+msgid "Button Color"
+msgstr "Painikkeen väri"
+
+#: inc/customizer/options/header.php:856
+msgid "Menu Items Padding (px)"
+msgstr "Valikkokohteiden reunatäyte (px)"
+
+#: inc/customizer/options/header.php:3106
+#: inc/customizer/options/header.php:5642 inc/helpers.php:4155
+#: partials/mobile/mobile-icon.php:40
+msgid "Menu"
+msgstr "Valikko"
+
+#: inc/customizer/options/header.php:665
+msgid "Search Form"
+msgstr "Hakulomake"
+
+#: inc/customizer/options/header.php:524
+msgid "Logo (optional)"
+msgstr "Logo (valinnainen)"
+
+#: inc/customizer/options/header.php:375
+msgid "After The Logo"
+msgstr "Logon jälkeen"
+
+#: inc/customizer/options/header.php:374
+msgid "Before The Logo"
+msgstr "Ennen logoa"
+
+#: inc/customizer/options/header.php:2735
+msgid "Retina Logo"
+msgstr "Retina-logo"
+
+#: inc/customizer/options/header.php:666 inc/customizer/options/header.php:2721
+#: inc/customizer/options/page-settings.php:2351
+#: inc/customizer/options/page-settings.php:2429
+#: inc/themepanel/views/panes/home.php:19
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/options/header.php:101
+msgid "Add Container"
+msgstr "Lisää säiliö"
+
+#: inc/customizer/options/header.php:69
+msgid "Custom Header"
+msgstr "Mukautettu otsake"
+
+#: inc/customizer/options/header.php:53 inc/customizer/options/header.php:5293
+#: inc/themepanel/views/panes/free-vs-pro.php:83
+#: inc/third/class-lifterlms.php:311
+msgid "Full Screen"
+msgstr "Koko näyttö"
+
+#: inc/customizer/options/header.php:49
+msgid "Top Menu"
+msgstr "Ylävalikko"
+
+#: inc/customizer/options/edd.php:2594
+msgid "Label Color"
+msgstr "Tunnuksen väri"
+
+#: inc/customizer/options/colors.php:85 inc/customizer/options/edd.php:1791
+#: inc/customizer/options/edd.php:2115
+#: inc/customizer/options/lifterlms.php:1157
+#: inc/customizer/options/woocommerce.php:3477
+#: inc/customizer/options/woocommerce.php:4047
+#: inc/customizer/options/woocommerce.php:5767
+#: inc/customizer/options/woocommerce.php:7085
+msgid "Border Color"
+msgstr "Reunan väri"
+
+#: inc/customizer/options/edd.php:1555 inc/customizer/options/lifterlms.php:920
+#: inc/customizer/options/styles-and-settings.php:1617
+#: inc/customizer/options/woocommerce.php:2574
+msgid "Border Width (px)"
+msgstr "Reunan leveys (px)"
+
+#: inc/customizer/options/edd.php:1657 inc/customizer/options/header.php:4792
+#: inc/customizer/options/lifterlms.php:1022
+#: inc/customizer/options/styles-and-settings.php:2502
+#: inc/customizer/options/styles-and-settings.php:3050
+#: inc/customizer/options/woocommerce.php:2676
+msgid "Border Radius (px)"
+msgstr "Reunan säde (px)"
+
+#: inc/customizer/options/edd.php:243
+#: inc/customizer/options/woocommerce.php:841
+msgid "Icon Size (px)"
+msgstr "Kuvakkeen koko (px)"
+
+#: inc/customizer/options/styles-and-settings.php:2389
+msgid "Scroll To Top"
+msgstr "Vieritä sivun alkuun"
+
+#: inc/customizer/options/header.php:5349
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+#: inc/customizer/options/edd.php:2077
+#: inc/customizer/options/woocommerce.php:4009
+#: inc/customizer/options/woocommerce.php:5727
+#: inc/customizer/options/woocommerce.php:7049
+#: inc/customizer/options/woocommerce.php:8691
+#: inc/customizer/assets/dist/index.js:2
+msgid "Color"
+msgstr "Väri"
+
+#: inc/customizer/options/page-settings.php:425
+msgid "Background Image"
+msgstr "Taustakuva"
+
+#: inc/customizer/options/colors.php:16
+#: inc/customizer/options/styles-and-settings.php:303
+msgid "Site Background"
+msgstr "Sivuston tausta"
+
+#: inc/customizer/options/colors.php:43
+msgid "Primary Color"
+msgstr "Pääväri"
+
+#: inc/customizer/options/edd.php:2568 inc/customizer/options/header.php:3915
+#: inc/customizer/options/woocommerce.php:7511
+#: inc/customizer/options/woocommerce.php:8406
+msgid "Borders Color"
+msgstr "Reunojen väri"
+
+#: inc/customizer/options/footer-widget.php:293
+msgid "Fixed Footer"
+msgstr "Kiinnitetty alapalkki"
+
+#: inc/customizer/options/footer-widget.php:16
+msgid "Enable Footer Widgets"
+msgstr "Ota käyttöön alapalkin vimpaimet"
+
+#: inc/customizer/options/options.php:54 inc/themepanel/views/panes/home.php:54
+msgid "Footer Widgets"
+msgstr "Alapalkin vimpaimet"
+
+#: inc/customizer/options/page-settings.php:915
+#: inc/customizer/options/woocommerce.php:7537
+msgid "Text Color"
+msgstr "Tekstin väri"
+
+#: inc/customizer/options/edd.php:1766 inc/customizer/options/edd.php:2041
+#: inc/customizer/options/header.php:1911
+#: inc/customizer/options/header.php:3889
+#: inc/customizer/options/lifterlms.php:1131
+#: inc/customizer/options/page-settings.php:888
+#: inc/customizer/options/styles-and-settings.php:312
+#: inc/customizer/options/woocommerce.php:378
+#: inc/customizer/options/woocommerce.php:1706
+#: inc/customizer/options/woocommerce.php:3452
+#: inc/customizer/options/woocommerce.php:3973
+#: inc/customizer/options/woocommerce.php:5081
+#: inc/customizer/options/woocommerce.php:5690
+#: inc/customizer/options/woocommerce.php:7013
+#: inc/customizer/options/woocommerce.php:7924
+msgid "Background Color"
+msgstr "Taustaväri"
+
+#: inc/customizer/options/edd.php:1351
+#: inc/customizer/options/footer-copyright.php:54
+#: inc/customizer/options/footer-widget.php:67
+#: inc/customizer/options/header.php:190 inc/customizer/options/header.php:673
+#: inc/customizer/options/header.php:4894
+#: inc/customizer/options/lifterlms.php:716
+#: inc/customizer/options/page-settings.php:433
+#: inc/customizer/options/sidebar.php:16 inc/customizer/options/sidebar.php:164
+#: inc/customizer/options/styles-and-settings.php:720
+#: inc/customizer/options/styles-and-settings.php:1355
+#: inc/customizer/options/topbar.php:112 inc/customizer/options/topbar.php:387
+#: inc/customizer/options/woocommerce.php:2370
+msgid "Padding (px)"
+msgstr "Reunatäyte (px)"
+
+#: inc/customizer/options/edd.php:82
+#: inc/customizer/options/footer-copyright.php:26
+#: inc/customizer/options/footer-widget.php:26
+#: inc/customizer/options/page-settings.php:339
+#: inc/customizer/options/styles-and-settings.php:2418
+#: inc/customizer/options/topbar.php:49
+#: inc/customizer/options/woocommerce.php:678
+msgid "Visibility"
+msgstr "Näkyvyys"
+
+#: inc/customizer/options/blog.php:3263
+msgid "Related Posts Image Height (px)"
+msgstr "Liittyvien artikkeleiden kuvan korkeus (px)"
+
+#: inc/customizer/options/blog.php:3239
+msgid "Related Posts Image Width (px)"
+msgstr "Liittyvien artikkeleiden kuvan leveys (px)"
+
+#: inc/customizer/options/blog.php:3171
+msgid "Related Posts Count"
+msgstr "Liittyvien artikkeleiden lukumäärä"
+
+#: inc/customizer/options/blog.php:989 inc/customizer/options/blog.php:2646
+#: inc/customizer/options/page-settings.php:837
+msgid "Overlay Color"
+msgstr "Peittoväri"
+
+#: inc/customizer/options/blog.php:2673
+#: inc/customizer/options/page-settings.php:810
+msgid "Overlay Opacity"
+msgstr "Peitteen läpinäkyvyys"
+
+#: inc/customizer/options/blog.php:2624 inc/customizer/options/blog.php:2625
+#: inc/customizer/options/header.php:2696
+#: inc/customizer/options/page-settings.php:787
+#: inc/customizer/options/page-settings.php:788
+#: inc/customizer/options/styles-and-settings.php:472
+#: inc/customizer/options/styles-and-settings.php:473
+msgid "Contain"
+msgstr "Sisällytä"
+
+#: inc/customizer/options/blog.php:709 inc/customizer/options/blog.php:710
+msgid "Next/Prev"
+msgstr "Seuraava/edellinen"
+
+#: inc/customizer/options/blog.php:699 inc/customizer/options/blog.php:700
+#: inc/customizer/options/woocommerce.php:5222
+#: inc/customizer/options/woocommerce.php:5223
+msgid "Infinite Scroll"
+msgstr "Loputon vieritys"
+
+#: inc/customizer/options/blog.php:694 inc/customizer/options/blog.php:695
+#: inc/customizer/options/woocommerce.php:5217
+#: inc/customizer/options/woocommerce.php:5218
+msgid "Standard"
+msgstr "Vakio"
+
+#: inc/customizer/options/blog.php:648 inc/customizer/options/edd.php:1299
+msgid "Excerpt Length"
+msgstr "Otteen pituus"
+
+#: inc/customizer/options/blog.php:393
+msgid "Equal Heights"
+msgstr "Yhtä suuret korkeudet"
+
+#: inc/customizer/options/blog.php:385 inc/customizer/options/blog.php:386
+msgid "Masonry"
+msgstr "Tiiliseinä"
+
+#: inc/customizer/options/blog.php:380 inc/customizer/options/blog.php:381
+msgid "Fit Rows"
+msgstr "Sovita rivit"
+
+#: inc/customizer/options/blog.php:368
+msgid "Grid Style"
+msgstr "Ruudukon tyyli"
+
+#: inc/customizer/options/blog.php:325
+msgid "Grid Columns"
+msgstr "Ruudukon sarakkeet"
+
+#: inc/customizer/options/blog.php:318
+msgid "Large"
+msgstr "Suuri"
+
+#: inc/customizer/options/blog.php:317
+msgid "Medium Large"
+msgstr "Keskisuuri"
+
+#: inc/customizer/options/blog.php:316 inc/helpers.php:4275
+msgid "Medium"
+msgstr "Keskikokoinen"
+
+#: inc/customizer/options/blog.php:271 inc/customizer/options/blog.php:315
+msgid "Thumbnail"
+msgstr "Pienoiskuva"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:457
+msgid "Week %s"
+msgstr "Viikko %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:455
+msgid "Minute %s"
+msgstr "Minuutti %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:453
+msgid "Page %s"
+msgstr "Sivu %s"
+
+#: inc/breadcrumbs.php:449 inc/customizer/options/edd.php:938
+#: inc/customizer/options/woocommerce.php:1872
+msgid "Archives"
+msgstr "Arkistot"
+
+#: inc/breadcrumbs.php:448 inc/customizer/options/page-settings.php:1976
+msgid "404 Not Found"
+msgstr "404 ei löytynyt"
+
+#: inc/breadcrumbs.php:447 inc/customizer/options/page-settings.php:1787
+#: inc/themepanel/theme-panel.php:419
+msgid "Home"
+msgstr "Etusivu"
+
+#: inc/breadcrumbs.php:446
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Navigaatiopolku"
+
+#: functions.php:848
+msgid "Footer 4"
+msgstr "Alapalkki 4"
+
+#: functions.php:835
+msgid "Footer 3"
+msgstr "Alapalkki 3"
+
+#: functions.php:822
+msgid "Footer 2"
+msgstr "Alapalkki 2"
+
+#: functions.php:809
+msgid "Footer 1"
+msgstr "Alapalkki 1"
+
+#: functions.php:795
+msgid "Search Results Sidebar"
+msgstr "Hakutulosten sivupalkki"
+
+#: inc/customizer/options/header.php:5285 inc/customizer/options/options.php:49
+#: inc/third/class-beaver-themer.php:136
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: functions.php:318
+msgid "Mobile (optional)"
+msgstr "Mobiili (valinnainen)"
+
+#: functions.php:317 inc/third/class-beaver-themer.php:145
+msgid "Footer"
+msgstr "Alapalkki"
+
+#: functions.php:316
+msgid "Main"
+msgstr "Pää"
+
+#: functions.php:315 inc/customizer/options/options.php:34
+#: inc/themepanel/views/panes/home.php:42 inc/third/class-beaver-themer.php:100
+msgid "Top Bar"
+msgstr "Yläpalkki"
+
+#: inc/oceanwp-strings.php:81
+msgid "Your comment here..."
+msgstr "Kommenttisi tähän..."
+
+#: inc/oceanwp-strings.php:83
+msgid "Post Comment"
+msgstr "Lähetä kommentti"
+
+#: comments.php:41
+msgid "Log out &raquo;"
+msgstr "Kirjaudu ulos &raquo;"
+
+#: inc/oceanwp-strings.php:88
+msgid "Website"
+msgstr "Sivusto"
+
+#: inc/oceanwp-strings.php:85
+msgid "Email (required)"
+msgstr "Sähköpostiosoite (vaaditaan)"
+
+#: inc/oceanwp-strings.php:84
+msgid "Name (required)"
+msgstr "Nimi (vaaditaan)"
+
+#: comments.php:129
+msgid "Comments are closed."
+msgstr "Kommentointi ei ole käytössä."
+
+#. translators: %s: Comments number
+#: comments.php:71
+msgid "This Post Has %s Comments"
+msgstr "Tällä artikkelilla on %s kommenttia"
+
+#: comments.php:68
+msgid "This Post Has One Comment"
+msgstr "Tällä artikkelilla on yksi kommentti"
+
+#: 404.php:118
+msgid "Back To Homepage"
+msgstr "Takaisin etusivulle"
+
+#: 404.php:116
+msgid "Perhaps you can try a new search."
+msgstr "Ehkä voit yrittää uutta hakua."
+
+#: 404.php:116
+msgid "We are sorry. But the page you are looking for is not available."
+msgstr "Olemme pahoillamme, etsimääsi sivua ei löydy."
+
+#: 404.php:115
+msgid "This page could not be found!"
+msgstr "Tätä sivua ei löytynyt!"
+
+#: functions.php:824
+msgid "Widgets in this area are used in the second footer region."
+msgstr "Vimpaimia tällä alueella käytetään alapalkin toisella alueella."
+
+#: functions.php:811
+msgid "Widgets in this area are used in the first footer region."
+msgstr "Vimpaimia tällä alueella käytetään alapalkin ensimmäisellä alueella."
+
+#: functions.php:797
+msgid "Widgets in this area are used in the search result page."
+msgstr "Vimpaimia tällä alueella käytetään hakutulosten sivulla."
+
+#: functions.php:850
+msgid "Widgets in this area are used in the fourth footer region."
+msgstr "Vimpaimia tällä alueella käytetään alapalkin neljännellä alueella."
+
+#: functions.php:837
+msgid "Widgets in this area are used in the third footer region."
+msgstr "Vimpaimia tällä alueella käytetään alapalkin kolmannella alueella."
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
