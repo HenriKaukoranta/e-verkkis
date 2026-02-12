@@ -30,6 +30,15 @@ if ( apply_filters( 'astra_header_profile_gmpg_link', true ) ) {
 ?>
 <?php wp_head(); ?>
 <?php astra_head_bottom(); ?>
+
+<!-- Display logged-in user and a greeting in the header !-->
+<?php add_action( 'astra_site_identity', function() {
+    if ( is_user_logged_in() ) {
+        $user = wp_get_current_user();
+        $name = esc_html( $user->display_name ? $user->display_name : $user->user_login );
+        echo '<span class="astra-child-greeting" style="margin-left:8px;">' . sprintf( esc_html__( 'Hei %s', 'astra-child' ), $name ) . '</span>';
+    }
+}, 20 ); ?>
 </head>
 
 <body <?php astra_schema_body(); ?> <?php body_class(); ?>>

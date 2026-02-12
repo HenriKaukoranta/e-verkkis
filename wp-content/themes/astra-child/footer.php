@@ -25,15 +25,15 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 	astra_footer();
 
-	// Add child theme footer text inside the Astra footer
-	echo "\t<div class=\"astra-child-hello\">hello world</div>\n";
-
 	astra_footer_after();
+
+	
 ?>
 	</div><!-- #page -->
 <?php
 	astra_body_bottom();
 	wp_footer();
 ?>
+
 	</body>
 </html>
